@@ -1,0 +1,56 @@
+{
+  "title": "Vehicle Categories in Bulgaria",
+  "description": "Information about different vehicle categories including engine specifications, power, maximum construction speed, mass, passenger limits, and trailer restrictions",
+  "headers": [
+    "Category",
+    "Engine",
+    "Power",
+    "Max. Construction Speed",
+    "Mass",
+    "Passengers",
+    "Trailer"
+  ],
+  "rows": [
+    ["AM", "<50 cm³", "<4 kW", "<45 km/h", "N/A", "N/A", "N/A"],
+    ["A1", "≤125 cm³", "≤11 kW (3-wheeled ≤15 kW)", "N/A", "N/A", "N/A", "N/A"],
+    ["A2", ">125 cm³", "≤35 kW (≤0.2 kW/kg)", "N/A", "N/A", "N/A", "N/A"],
+    ["A", ">125 cm³", ">35 kW", "N/A", "N/A", "N/A", "N/A"],
+    ["-", "-", "-", "-", "-", "-", "-"],
+    [
+      "B",
+      "N/A",
+      "N/A",
+      "N/A",
+      "<3500 kg",
+      "≤8",
+      "<750 kg or combined ≤4250 kg"
+    ],
+    ["B1", "N/A", "N/A", "N/A", "<400 kg (<550 kg for cargo)", "≤2", "N/A"],
+    ["BE", "N/A", "N/A", "N/A", "<3500 kg", "≤8", "<3500 kg"],
+    ["C", "N/A", "N/A", "N/A", ">3500 kg", "≤8", "<750 kg"],
+    ["C1", "N/A", "N/A", "N/A", "3500–7500 kg", "≤8", "<750 kg"],
+    ["CE", "N/A", "N/A", "N/A", ">3500 kg", "≤8", ">750 kg"],
+    [
+      "C1E",
+      "N/A",
+      "N/A",
+      "N/A",
+      "3500–7500 kg",
+      "≤8",
+      ">750 kg (combined ≤12000 kg)"
+    ],
+    ["D", "N/A", "N/A", "N/A", "N/A", "≥9", "<750 kg"],
+    ["D1", "N/A", "N/A", "N/A", "N/A", "≤16", "<750 kg"],
+    ["DE", "N/A", "N/A", "N/A", "N/A", "≥9", ">750 kg"],
+    ["D1E", "N/A", "N/A", "N/A", "N/A", "≤16", ">750 kg (combined ≤12000 kg)"]
+  ],
+  "notes": [
+    "Engine capacity is measured in cubic centimeters (cm³)",
+    "Power is measured in kilowatts (kW)",
+    "Speed is measured in kilometers per hour (km/h)",
+    "Mass is measured in kilograms (kg)",
+    "Combined mass refers to the total weight of the vehicle and trailer",
+    "N/A indicates not applicable for that category",
+    "Based on: https://docs.google.com/document/d/1Wd8XMlcZdBz0-lxC_Fioe9XJnZBb0qs34OgX0vPl5OU/edit?tab=t.0"
+  ]
+}

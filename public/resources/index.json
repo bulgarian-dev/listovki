@@ -1,0 +1,16 @@
+{
+  "resources": [
+    {
+      "id": "driving-speeds",
+      "title": "Speed Limits",
+      "description": "Maximum speed limits for different vehicle categories on various road types in Bulgaria",
+      "type": "table"
+    },
+    {
+      "id": "vehicle-categories",
+      "title": "Vehicle Categories",
+      "description": "Information about different vehicle license categories in Bulgaria including engine specifications, passenger limits, and trailer restrictions",
+      "type": "table"
+    }
+  ]
+}

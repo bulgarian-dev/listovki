@@ -1,0 +1,1169 @@
+{
+  "totalQuestions": 46,
+  "questions": [
+    {
+      "text": "In this situation, the location of the vehicle on the driveway is:",
+      "index": "1/1",
+      "points": "3",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "correct",
+          "checked": true
+        },
+        {
+          "text": "incorrect",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, I must drive:",
+      "index": "1/2",
+      "points": "3",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "in the right road",
+          "checked": true
+        },
+        {
+          "text": "lane",
+          "checked": false
+        },
+        {
+          "text": "in the road lane, which is more convenient for",
+          "checked": false
+        },
+        {
+          "text": "me",
+          "checked": true
+        },
+        {
+          "text": "in the left road lane",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which passenger car is moving incorrectly on the roadway?",
+      "index": "2/1",
+      "points": "3",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "the blue",
+          "checked": false
+        },
+        {
+          "text": "car",
+          "checked": true
+        },
+        {
+          "text": "the red car",
+          "checked": false
+        },
+        {
+          "text": "both cars",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "On a two-way road with one road lane for each direction, the vehicles must move:",
+      "index": "2/2",
+      "points": "3",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "in the right road lane",
+          "checked": false
+        },
+        {
+          "text": "in the middle of the road",
+          "checked": false
+        },
+        {
+          "text": "in the left road lane",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation:",
+      "index": "3/1",
+      "points": "3",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "a section of the road with two-way traffic follows",
+          "checked": true
+        },
+        {
+          "text": "the left side of the roadway is for the vehicles of the",
+          "checked": true
+        },
+        {
+          "text": "oncoming traffic",
+          "checked": false
+        },
+        {
+          "text": "the oncoming passenger cars have right of",
+          "checked": false
+        },
+        {
+          "text": "way",
+          "checked": true
+        },
+        {
+          "text": "we are entering a section of the road which is prohibited",
+          "checked": true
+        },
+        {
+          "text": "for passing each other",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "On a two-lane two-way road, entering the lane of the oncoming traffic is:",
+      "index": "4/1",
+      "points": "3",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "allowed, in case of overtaking",
+          "checked": false
+        },
+        {
+          "text": "allowed, in case of going around",
+          "checked": true
+        },
+        {
+          "text": "prohibited in all",
+          "checked": true
+        },
+        {
+          "text": "cases",
+          "checked": false
+        },
+        {
+          "text": "allowed, whenever the lane is free",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "On a two-lane two-way road, the driver must drive:",
+      "index": "6/1",
+      "points": "3",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "possibly in the rightmost part of the driveway, if the road lanes are not designated",
+          "checked": true
+        },
+        {
+          "text": "by road marking",
+          "checked": false
+        },
+        {
+          "text": "in the right road lane, if the road lanes are designated by road",
+          "checked": true
+        },
+        {
+          "text": "marking",
+          "checked": true
+        },
+        {
+          "text": "in the road lane which is more convenient for him",
+          "checked": false
+        },
+        {
+          "text": "in the left road lane, whenever it is free",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The position of the red passenger car, which is moving outside the populated area is:",
+      "index": "7/1",
+      "points": "3",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "incorrect",
+          "checked": false
+        },
+        {
+          "text": "correct",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "On this road, outside the populated areas, the driver must drive:",
+      "index": "8/1",
+      "points": "3",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "possibly in the rightmost part of the driveway, if the road",
+          "checked": false
+        },
+        {
+          "text": "lanes are not designated by a road marking",
+          "checked": false
+        },
+        {
+          "text": "in the right road lane, if the road lanes are designated by",
+          "checked": false
+        },
+        {
+          "text": "a road marking",
+          "checked": false
+        },
+        {
+          "text": "in the road lane which is more convenient for",
+          "checked": false
+        },
+        {
+          "text": "him",
+          "checked": false
+        },
+        {
+          "text": "in the left road lane, whenever it is free",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which passenger car is moving correctly on this road, outside the populated areas?",
+      "index": "13/1",
+      "points": "3",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "the blue car",
+          "checked": true
+        },
+        {
+          "text": "the red car",
+          "checked": false
+        },
+        {
+          "text": "both cars",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, on a road outside a populated area, the drivers are allowed:",
+      "index": "14/1",
+      "points": "3",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "to drive in the rightmost free road",
+          "checked": true
+        },
+        {
+          "text": "lane",
+          "checked": true
+        },
+        {
+          "text": "to drive in the middle road lane if the right one is occupied",
+          "checked": false
+        },
+        {
+          "text": "to drive in the road lane which is most convenient for",
+          "checked": false
+        },
+        {
+          "text": "them",
+          "checked": true
+        },
+        {
+          "text": "to drive in the middle road lane, whenever it is free",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In this situation, on a road outside a populated area, the drivers are allowed:",
+      "index": "14/2",
+      "points": "3",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "to drive in the rightmost free road lane",
+          "checked": true
+        },
+        {
+          "text": "to drive in the middle road lane when the right one is",
+          "checked": false
+        },
+        {
+          "text": "occupied",
+          "checked": true
+        },
+        {
+          "text": "to enter the middle road lane when overtaking",
+          "checked": false
+        },
+        {
+          "text": "to enter the leftmost road lane when overtaking",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In this situation the position of the red passenger car on the driveway is:",
+      "index": "15/1",
+      "points": "3",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "incorrect",
+          "checked": true
+        },
+        {
+          "text": "correct",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the driver is allowed:",
+      "index": "16/1",
+      "points": "3",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "to enter into the middle road lane when overtaking",
+          "checked": false
+        },
+        {
+          "text": "to enter into the middle road during bypassing",
+          "checked": true
+        },
+        {
+          "text": "to drive into the road lane which is most convenient for",
+          "checked": false
+        },
+        {
+          "text": "him",
+          "checked": false
+        },
+        {
+          "text": "to enter the leftmost road lane when overtaking",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the entry into the road lanes of the oncoming traffic is:",
+      "index": "18/1",
+      "points": "3",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "prohibited",
+          "checked": false
+        },
+        {
+          "text": "allowed without restrictions",
+          "checked": false
+        },
+        {
+          "text": "allowed, but only when overtaking",
+          "checked": false
+        },
+        {
+          "text": "allowed when they are free",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The entry into an oncoming traffic lane of a four-lane two-way road is:",
+      "index": "18/2",
+      "points": "3",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "prohibited",
+          "checked": true
+        },
+        {
+          "text": "allowed without",
+          "checked": false
+        },
+        {
+          "text": "restrictions",
+          "checked": false
+        },
+        {
+          "text": "allowed for overtaking",
+          "checked": false
+        },
+        {
+          "text": "allowed for bypassing",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of the following conditions should be met to allow the driver to use the road lane which is most convenient for him, when driving in a populated area?",
+      "index": "19/1",
+      "points": "3",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "the roadway should have two or more road lanes for",
+          "checked": true
+        },
+        {
+          "text": "movement in one direction",
+          "checked": true
+        },
+        {
+          "text": "the road lanes should be designated by road marking",
+          "checked": false
+        },
+        {
+          "text": "the permitted speed limit must be not higher than 80 km",
+          "checked": true
+        },
+        {
+          "text": "/h",
+          "checked": true
+        },
+        {
+          "text": "the total vehicle mass should not exceed 3.5 tons",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of the following conditions should be met to allow the driver to use the road lane which is most convenient for him, when driving in a populated area?",
+      "index": "19/2",
+      "points": "3",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "the roadway should have two and more road lanes for",
+          "checked": false
+        },
+        {
+          "text": "one-way traffic",
+          "checked": true
+        },
+        {
+          "text": "the number of road lanes and traffic directions are",
+          "checked": true
+        },
+        {
+          "text": "designated by a road sign",
+          "checked": false
+        },
+        {
+          "text": "the permitted speed limit should be not higher than 80 km",
+          "checked": false
+        },
+        {
+          "text": "/h",
+          "checked": true
+        },
+        {
+          "text": "the road should have two driveways",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following conditions should be met to allow the driver to use the road lane which is most convenient for him, when driving in a populated area?",
+      "index": "19/3",
+      "points": "3",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "the roadway should have two or more road lanes for one-",
+          "checked": false
+        },
+        {
+          "text": "way traffic",
+          "checked": false
+        },
+        {
+          "text": "the permitted speed limit should be not higher than 80 km",
+          "checked": false
+        },
+        {
+          "text": "/h",
+          "checked": false
+        },
+        {
+          "text": "the roadway should have no less than three road lanes for",
+          "checked": false
+        },
+        {
+          "text": "one-way traffic",
+          "checked": false
+        },
+        {
+          "text": "the permitted speed limit should be not higher than 50 km",
+          "checked": false
+        },
+        {
+          "text": "/h",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, are you obliged to drive into the rightmost road lane if you cannot overtake both passenger cars?",
+      "index": "20/1",
+      "points": "3",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "no",
+          "checked": false
+        },
+        {
+          "text": "yes",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation:",
+      "index": "21/1",
+      "points": "3",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "it is allowed to use the road lane which is most convenient",
+          "checked": true
+        },
+        {
+          "text": "for me",
+          "checked": false
+        },
+        {
+          "text": "I must go into the rightmost part of the driveway",
+          "checked": false
+        },
+        {
+          "text": "I must drive in the possibly rightmost free road lane",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the position of the red passenger car on the driveway is:",
+      "index": "22/1",
+      "points": "3",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "correct",
+          "checked": false
+        },
+        {
+          "text": "incorrect",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which passenger car is moving correctly in this road in a populated area?",
+      "index": "23/1",
+      "points": "3",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "the blue car only",
+          "checked": false
+        },
+        {
+          "text": "the red car only",
+          "checked": true
+        },
+        {
+          "text": "both cars",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the driver of the red passenger car:",
+      "index": "23/2",
+      "points": "3",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "may continue driving in the left road lane",
+          "checked": true
+        },
+        {
+          "text": "may use a road lane which is more convenient for him",
+          "checked": false
+        },
+        {
+          "text": "must go into the right road lane",
+          "checked": false
+        },
+        {
+          "text": "must drive in the rightmost free road lane",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The location of the vehicle on the roadway is:",
+      "index": "24/1",
+      "points": "3",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "correct",
+          "checked": false
+        },
+        {
+          "text": "incorrect",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In this situation, I will not commit a violation, if:",
+      "index": "25/1",
+      "points": "3",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "I go into the right road lane",
+          "checked": true
+        },
+        {
+          "text": "I continue to drive in the same road lane",
+          "checked": false
+        },
+        {
+          "text": "I go into the left road lane",
+          "checked": false
+        },
+        {
+          "text": "I stop before the traffic-lights in the lane over which it is",
+          "checked": false
+        },
+        {
+          "text": "positioned",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, I will commit a violation, if:",
+      "index": "26/1",
+      "points": "3",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "I continue driving in the same road",
+          "checked": true
+        },
+        {
+          "text": "lane",
+          "checked": true
+        },
+        {
+          "text": "I go into the left road lane",
+          "checked": true
+        },
+        {
+          "text": "I stop before the traffic lights in the lane, over which it is",
+          "checked": false
+        },
+        {
+          "text": "positioned",
+          "checked": true
+        },
+        {
+          "text": "I go into the right road lane",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation:",
+      "index": "27/1",
+      "points": "3",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "I must go into the right road",
+          "checked": false
+        },
+        {
+          "text": "lane",
+          "checked": true
+        },
+        {
+          "text": "I must go into the left road lane",
+          "checked": true
+        },
+        {
+          "text": "I can continue driving in the same road lane",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the driver of the red passenger car is allowed:",
+      "index": "28/1",
+      "points": "3",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "to continue its driving in the same road lane",
+          "checked": true
+        },
+        {
+          "text": "to go into the right road lane",
+          "checked": false
+        },
+        {
+          "text": "to go into the left road lane",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Is it allowed to enter into and drive in the BUS lane?",
+      "index": "29/1",
+      "points": "3",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "no",
+          "checked": false
+        },
+        {
+          "text": "yes",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the entry into the BUS lane is allowed for:",
+      "index": "30/1",
+      "points": "3",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "vehicles for regular public transport",
+          "checked": false
+        },
+        {
+          "text": "stopping for a stay of all buses",
+          "checked": true
+        },
+        {
+          "text": "the movement of a damaged motor vehicle",
+          "checked": false
+        },
+        {
+          "text": "movement of slow-moving motor vehicles",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road vehicles are allowed to move in the BUS lane beyond this sign?",
+      "index": "30/2",
+      "points": "3",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "the road vehicles for regular public transport",
+          "checked": false
+        },
+        {
+          "text": "all buses",
+          "checked": false
+        },
+        {
+          "text": "the taxis",
+          "checked": false
+        },
+        {
+          "text": "the slow-moving vehicles",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign designates:",
+      "index": "31/1",
+      "points": "3",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "a road lane for the vehicles for regular public transport",
+          "checked": true
+        },
+        {
+          "text": "only",
+          "checked": true
+        },
+        {
+          "text": "a driveway for the vehicles for regular public transport",
+          "checked": false
+        },
+        {
+          "text": "only",
+          "checked": false
+        },
+        {
+          "text": "the automobile road",
+          "checked": true
+        },
+        {
+          "text": "the road for movement of buses only",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In this situation, which road vehicles are allowed to move in the middle road lane:",
+      "index": "32/1",
+      "points": "3",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "buses",
+          "checked": false
+        },
+        {
+          "text": "passenger",
+          "checked": false
+        },
+        {
+          "text": "cars",
+          "checked": false
+        },
+        {
+          "text": "trucks with a maximum permissible mass exceeding 3.5",
+          "checked": false
+        },
+        {
+          "text": "tons",
+          "checked": true
+        },
+        {
+          "text": "trucks with a maximum permissible mass up to 3.5 tons",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the middle road lane is:",
+      "index": "33/1",
+      "points": "3",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "allowed for movement of buses with trailers",
+          "checked": true
+        },
+        {
+          "text": "allowed for movement of passenger cars with trailers",
+          "checked": true
+        },
+        {
+          "text": "prohibited for movement of trucks with trailers",
+          "checked": false
+        },
+        {
+          "text": "prohibited for movement of trucks with semi-trailers",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "On a road with three road lanes for one-way movement indicated by a road sign, movement is prohibited in the leftmost lane for:",
+      "index": "34/1",
+      "points": "3",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "vehicles which cannot reach the maximum speed for the",
+          "checked": true
+        },
+        {
+          "text": "road",
+          "checked": true
+        },
+        {
+          "text": "vehicles, which are prohibited to reach the allowed speed",
+          "checked": false
+        },
+        {
+          "text": "for the road",
+          "checked": false
+        },
+        {
+          "text": "vehicles, the drivers of which have less than 1 year",
+          "checked": false
+        },
+        {
+          "text": "experience",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the movement in the leftmost road lane is prohibited for:",
+      "index": "35/1",
+      "points": "3",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "passenger cars with trailers of over 750 kg",
+          "checked": false
+        },
+        {
+          "text": "motorcycles",
+          "checked": false
+        },
+        {
+          "text": "mopeds",
+          "checked": false
+        },
+        {
+          "text": "all goods vehicles",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following conditions must be present so that moped riders could use the roadside?",
+      "index": "36/1",
+      "points": "3",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "the roadside must be located on the right, in the direction of the movement and",
+          "checked": true
+        },
+        {
+          "text": "must be suitable for this purpose",
+          "checked": true
+        },
+        {
+          "text": "If there is not a specially designated road lane for them",
+          "checked": true
+        },
+        {
+          "text": "If they do not obstruct the other road users",
+          "checked": false
+        },
+        {
+          "text": "If the roadside is designated by a road sign",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The moped riders may use the roadside, which:",
+      "index": "37/1",
+      "points": "3",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "is located on the right, in the direction of movement",
+          "checked": false
+        },
+        {
+          "text": "is located on the left, in the direction of movement",
+          "checked": false
+        },
+        {
+          "text": "is more convenient for them, no matter which side of the road",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which vehicles are allowed to move on the roadside?",
+      "index": "38/1",
+      "points": "3",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "mopeds",
+          "checked": true
+        },
+        {
+          "text": "bicycles",
+          "checked": false
+        },
+        {
+          "text": "motorcycles",
+          "checked": false
+        },
+        {
+          "text": "vehicles with maximum permissible mass of up to 1.5 tons",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "If there is a road lane for slow- moving road vehicles designated with a road sign, the drivers of such road vehicles:",
+      "index": "39/1",
+      "points": "3",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "are obliged to use this lane",
+          "checked": false
+        },
+        {
+          "text": "use this road lane when it is free only",
+          "checked": false
+        },
+        {
+          "text": "are not obliged to use it",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the movement in the road lane designated with a road sign for slow-moving road vehicles is:",
+      "index": "40/1",
+      "points": "3",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "allowed for vehicles designated with the identification",
+          "checked": true
+        },
+        {
+          "text": "sign \"slow-moving road vehicles\"",
+          "checked": false
+        },
+        {
+          "text": "allowed for passenger cars that cannot move at a speed",
+          "checked": false
+        },
+        {
+          "text": "above 30 km/h",
+          "checked": true
+        },
+        {
+          "text": "prohibited for tractors",
+          "checked": true
+        },
+        {
+          "text": "prohibited for trucks",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the movement in the road lane designated with a road sign for slow- moving road vehicles is:",
+      "index": "40/2",
+      "points": "3",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "allowed for vehicles designated with an identification sign",
+          "checked": false
+        },
+        {
+          "text": "\"slow-moving road vehicles\"",
+          "checked": false
+        },
+        {
+          "text": "allowed for cars that cannot move at a speed above 30 km",
+          "checked": false
+        },
+        {
+          "text": "/h",
+          "checked": false
+        },
+        {
+          "text": "prohibited for bicycles",
+          "checked": false
+        },
+        {
+          "text": "prohibited for mopeds",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the driver of a slow- moving road vehicle:",
+      "index": "41/1",
+      "points": "3",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "is obliged to use the rightmost road lane",
+          "checked": true
+        },
+        {
+          "text": "may use the middle road lane while bypassing",
+          "checked": true
+        },
+        {
+          "text": "may use the leftmost road lane while turning",
+          "checked": true
+        },
+        {
+          "text": "may use the leftmost road lane while overtaking",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The driver of a slow- moving road vehicle is obliged to drive in the rightmost road lane, unless while:",
+      "index": "42/1",
+      "points": "3",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "turning",
+          "checked": true
+        },
+        {
+          "text": "bypassing",
+          "checked": true
+        },
+        {
+          "text": "overtaking",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation is it allowed to move along the tram lines in order to overtake the truck?",
+      "index": "43/1",
+      "points": "3",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    }
+  ]
+}

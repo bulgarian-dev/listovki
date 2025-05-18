@@ -1,0 +1,1912 @@
+{
+  "totalQuestions": 84,
+  "questions": [
+    {
+      "text": "The road users are:",
+      "index": "1/1",
+      "points": "2",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "the drivers",
+          "checked": true
+        },
+        {
+          "text": "the vehicles",
+          "checked": false
+        },
+        {
+          "text": "the pedestrians",
+          "checked": true
+        },
+        {
+          "text": "the persons working on the road",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The road users are:",
+      "index": "1/2",
+      "points": "2",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "the drivers",
+          "checked": true
+        },
+        {
+          "text": "the pedestrians",
+          "checked": true
+        },
+        {
+          "text": "the road vehicles",
+          "checked": false
+        },
+        {
+          "text": "the motor vehicles",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The road users are:",
+      "index": "2/1",
+      "points": "2",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "the drivers",
+          "checked": true
+        },
+        {
+          "text": "the passengers",
+          "checked": true
+        },
+        {
+          "text": "the vehicles",
+          "checked": false
+        },
+        {
+          "text": "the two-wheeled vehicles",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The road users are:",
+      "index": "2/2",
+      "points": "2",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "the pedestrians",
+          "checked": true
+        },
+        {
+          "text": "the persons working on the road",
+          "checked": true
+        },
+        {
+          "text": "the road vehicles",
+          "checked": false
+        },
+        {
+          "text": "the self-propelled vehicles",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Outside populated areas, in lack of banquette, the persons pushing a bicycle shall be obliged to move on the traffic line:",
+      "index": "2/3",
+      "points": "2",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "As they keep close as possible to its right border",
+          "checked": true
+        },
+        {
+          "text": "As they keep close as possible to its left border",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the listed persons are considered as pedestrians?",
+      "index": "2/6",
+      "points": "2",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "Which push a vehicle without a motor and with a width less than 1 meter",
+          "checked": true
+        },
+        {
+          "text": "Which push a bicycle",
+          "checked": true
+        },
+        {
+          "text": "Which push a moped or a motorcycle",
+          "checked": true
+        },
+        {
+          "text": "Which lead riding animals on the roads",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "A driver with competence for driving of a motor vehicle of category A shall have the right to drive also a vehicle of:",
+      "index": "5/1",
+      "points": "2",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "Category AM",
+          "checked": true
+        },
+        {
+          "text": "Category A1",
+          "checked": true
+        },
+        {
+          "text": "Category B1",
+          "checked": false
+        },
+        {
+          "text": "Category Tkt",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "A driver with competence for driving of a motor vehicle of category A1 shall have the right to drive also a vehicle of:",
+      "index": "6/1",
+      "points": "2",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "Category AM",
+          "checked": true
+        },
+        {
+          "text": "Category Tkt",
+          "checked": false
+        },
+        {
+          "text": "Category A2",
+          "checked": false
+        },
+        {
+          "text": "Category A",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is it allowed for a driver holding a license for category \"Twt\" (wheeled tractor) to ride a moped?",
+      "index": "7/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "A driver with competence for driving of a motor vehicle of category Tkt (wheeled tractor) shall have the right to drive also:",
+      "index": "7/2",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "Moped",
+          "checked": true
+        },
+        {
+          "text": "Two-wheel vehicles of category A2",
+          "checked": false
+        },
+        {
+          "text": "Two-wheel vehicles of category A1",
+          "checked": false
+        },
+        {
+          "text": "Automobiles of category B1",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "A driver with competence for driving of a motor vehicle of category Tkt (wheeled tractor) shall have the right to drive also a vehicle of:",
+      "index": "7/3",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "Category AM",
+          "checked": true
+        },
+        {
+          "text": "Category A1",
+          "checked": false
+        },
+        {
+          "text": "Category B1",
+          "checked": false
+        },
+        {
+          "text": "Category C1",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "A person possessing a driving license for category “B” is allowed to drive a vehicle with maximum permissible mass exceeding 3.5 tons, if the number of the seats, excluding the driver’s seat, does not exceed 8.",
+      "index": "8/1",
+      "points": "2",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "wrong",
+          "checked": true
+        },
+        {
+          "text": "right",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is a driver holding a driving license for category \"B\" allowed to drive a truck?",
+      "index": "9/1",
+      "points": "2",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "yes, if its maximum permissible mass does not exceed 3.5 tons",
+          "checked": true
+        },
+        {
+          "text": "yes, when its mass with load does not exceed 3.5 t",
+          "checked": false
+        },
+        {
+          "text": "yes, when the mass of the load does not exceed 3.5 t",
+          "checked": false
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is a driver holding a driving for category \"B\" allowed to drive a truck, if:",
+      "index": "9/2",
+      "points": "2",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "the maximum permissible mass of the vehicle does not exceed 3.5 tons",
+          "checked": true
+        },
+        {
+          "text": "the load of the vehicle does not exceed 3.5 tons",
+          "checked": false
+        },
+        {
+          "text": "the driver has over 5 years of experience",
+          "checked": false
+        },
+        {
+          "text": "the driver holds a driving license for category \"Twt\"",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "A driver with competence for driving of a motor vehicle of category B1 shall have the right to drive also:",
+      "index": "10/1",
+      "points": "2",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "Moped",
+          "checked": true
+        },
+        {
+          "text": "Motorcycle",
+          "checked": false
+        },
+        {
+          "text": "Wheeled Tractor",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "A driver with competence for driving of a motor vehicle of category B shall have the right to drive also a vehicle of:",
+      "index": "11/1",
+      "points": "2",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "Category AM",
+          "checked": true
+        },
+        {
+          "text": "Category B1",
+          "checked": true
+        },
+        {
+          "text": "Category Tkt",
+          "checked": false
+        },
+        {
+          "text": "Category A1",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "A composition of motor vehicles of category B with maximal admissible mass over 7,000 kg but not more than 12,000 kg is allowed to be steered with a capacity for:",
+      "index": "15/2",
+      "points": "2",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "Category C1E",
+          "checked": true
+        },
+        {
+          "text": "Category C1",
+          "checked": false
+        },
+        {
+          "text": "Category B",
+          "checked": false
+        },
+        {
+          "text": "Category BE",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "To a driver with capacity of category BE is allowed to drive a composition of a vehicle with towing vehicle of category B and a trailer with a maximal admissible mass not more than:",
+      "index": "16/2",
+      "points": "2",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "3500 kg",
+          "checked": true
+        },
+        {
+          "text": "2500 kg",
+          "checked": false
+        },
+        {
+          "text": "1250 kg",
+          "checked": false
+        },
+        {
+          "text": "750 kg",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the road vehicles listed below are motor vehicles?",
+      "index": "18/1",
+      "points": "2",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "mopeds",
+          "checked": true
+        },
+        {
+          "text": "bicycles",
+          "checked": false
+        },
+        {
+          "text": "tractors",
+          "checked": true
+        },
+        {
+          "text": "trolleybuses",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of the road vehicles listed below are motor vehicles?",
+      "index": "18/2",
+      "points": "2",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "mopeds",
+          "checked": true
+        },
+        {
+          "text": "passenger cars",
+          "checked": true
+        },
+        {
+          "text": "tractors",
+          "checked": true
+        },
+        {
+          "text": "trams",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the road vehicles listed below are motor vehicles?",
+      "index": "18/3",
+      "points": "2",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "passenger cars",
+          "checked": true
+        },
+        {
+          "text": "tractors",
+          "checked": true
+        },
+        {
+          "text": "bicycles",
+          "checked": false
+        },
+        {
+          "text": "trams",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The tractor belongs to the group of:",
+      "index": "19/1",
+      "points": "2",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "road vehicles",
+          "checked": true
+        },
+        {
+          "text": "motor vehicles",
+          "checked": true
+        },
+        {
+          "text": "trucks",
+          "checked": false
+        },
+        {
+          "text": "special purpose vehicles",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The tram is a rail vehicle, which:",
+      "index": "19/2",
+      "points": "2",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "belongs to the group of the road vehicles",
+          "checked": true
+        },
+        {
+          "text": "is not considered a motor vehicle",
+          "checked": true
+        },
+        {
+          "text": "belongs to vehicles",
+          "checked": false
+        },
+        {
+          "text": "belongs to trolleybuses",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The tram is a rail vehicle, which belongs to the group of motor vehicles.",
+      "index": "19/3",
+      "points": "2",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "incorrect",
+          "checked": true
+        },
+        {
+          "text": "correct",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Trams equate to:",
+      "index": "19/4",
+      "points": "2",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "the road vehicles",
+          "checked": true
+        },
+        {
+          "text": "the motor vehicles",
+          "checked": false
+        },
+        {
+          "text": "the special purpose vehicles",
+          "checked": false
+        },
+        {
+          "text": "the trolleybuses",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the tractors shown below are allowed to use roads open for public use?",
+      "index": "20/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "image": "/images/topics/1/1.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/1/2.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/1/3.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/1/4.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the vehicles shown below is an automobile?",
+      "index": "21/1",
+      "points": "2",
+      "pageNum": 5,
+      "answers": [
+        {
+          "image": "/images/topics/1/5.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/1/6.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/1/7.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/1/8.png",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of the vehicles shown below is an automobile?",
+      "index": "21/2",
+      "points": "2",
+      "pageNum": 5,
+      "answers": [
+        {
+          "image": "/images/topics/1/9.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/1/10.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/1/11.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/1/12.png",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of the vehicles shown below is an automobile?",
+      "index": "21/3",
+      "points": "2",
+      "pageNum": 6,
+      "answers": [
+        {
+          "image": "/images/topics/1/13.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/1/14.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/1/15.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/1/16.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the vehicles shown below is an automobile?",
+      "index": "22/1",
+      "points": "2",
+      "pageNum": 6,
+      "answers": [
+        {
+          "image": "/images/topics/1/17.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/1/18.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/1/19.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/1/20.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the vehicles shown below is an automobile?",
+      "index": "22/2",
+      "points": "2",
+      "pageNum": 6,
+      "answers": [
+        {
+          "image": "/images/topics/1/21.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/1/22.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/1/23.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/1/24.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Passenger cars are the vehicles designed for transport of passengers with no more than:",
+      "index": "24/1",
+      "points": "2",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "8 seats excluding the seat of the driver",
+          "checked": true
+        },
+        {
+          "text": "6 seats excluding the seat of the driver",
+          "checked": false
+        },
+        {
+          "text": "10 seats excluding the seat of the driver",
+          "checked": false
+        },
+        {
+          "text": "12 seats excluding the seat of the driver",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The special purpose vehicles:",
+      "index": "25/1",
+      "points": "2",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "have specific technical characteristics that allow them to perform functions requiring special configuration or equipment",
+          "checked": true
+        },
+        {
+          "text": "are marked with yellow, flashing light",
+          "checked": false
+        },
+        {
+          "text": "have blue or red flashing signaling light",
+          "checked": false
+        },
+        {
+          "text": "use a special regime of movement",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The moped’s engine capacity is up to 50 cm³ and the maximum design speed does not exceed 45 km/h.",
+      "index": "26/1",
+      "points": "2",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "correct",
+          "checked": true
+        },
+        {
+          "text": "incorrect",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The moped’s engine capacity is up to:",
+      "index": "26/2",
+      "points": "2",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "50 cm³",
+          "checked": true
+        },
+        {
+          "text": "30 cm³",
+          "checked": false
+        },
+        {
+          "text": "75 cm³",
+          "checked": false
+        },
+        {
+          "text": "125 cm³",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The maximum design speed of the moped is not higher than:",
+      "index": "27/1",
+      "points": "2",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "45 km/h",
+          "checked": true
+        },
+        {
+          "text": "50 km/h",
+          "checked": false
+        },
+        {
+          "text": "55 km/h",
+          "checked": false
+        },
+        {
+          "text": "60 km/h",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "A combination of road vehicles means:",
+      "index": "28/1",
+      "points": "2",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "mechanically coupled road vehicles participating in the traffic as a unit",
+          "checked": true
+        },
+        {
+          "text": "a motor vehicle with a trailer",
+          "checked": true
+        },
+        {
+          "text": "a motor vehicle towing a trailer",
+          "checked": true
+        },
+        {
+          "text": "vehicles fitted with additional equipment",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "A combination of road vehicles means:",
+      "index": "28/2",
+      "points": "2",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "a motor vehicle with a trailer",
+          "checked": true
+        },
+        {
+          "text": "a motor vehicle with a semi-trailer",
+          "checked": true
+        },
+        {
+          "text": "a motor vehicle towing another damaged motor vehicle",
+          "checked": true
+        },
+        {
+          "text": "vehicles fitted with additional equipment",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The laden mass of the vehicle:",
+      "index": "29/1",
+      "points": "2",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "includes the mass of the vehicle",
+          "checked": true
+        },
+        {
+          "text": "does not include the mass of the driver",
+          "checked": false
+        },
+        {
+          "text": "does not include the mass of passengers",
+          "checked": false
+        },
+        {
+          "text": "includes the mass of the load",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The “maximum permissible mass” of the vehicle is:",
+      "index": "29/2",
+      "points": "2",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "the maximum laden mass as specified by the competent authorities",
+          "checked": true
+        },
+        {
+          "text": "the maximum laden mass stated by the manufacturer",
+          "checked": false
+        },
+        {
+          "text": "the maximum unladen mass of the vehicle",
+          "checked": false
+        },
+        {
+          "text": "the permitted load capacity of the vehicle",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Two-wheel vehicle, with working volume of the engine up to 50 cm³ and constructive maximum speed over 45 km/h, belongs to:",
+      "index": "30/1",
+      "points": "2",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "Category A",
+          "checked": true
+        },
+        {
+          "text": "Category B1",
+          "checked": false
+        },
+        {
+          "text": "Category B",
+          "checked": false
+        },
+        {
+          "text": "Category AM",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In order to belong to category “A”, the mass of the motor vehicle with three wheels must not exceed:",
+      "index": "31/2",
+      "points": "2",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "400 kg",
+          "checked": true
+        },
+        {
+          "text": "550 kg",
+          "checked": false
+        },
+        {
+          "text": "750 kg",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What is the maximum power value of motorcycles of category A1?",
+      "index": "32/1",
+      "points": "2",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "11 kW",
+          "checked": true
+        },
+        {
+          "text": "7 kW",
+          "checked": false
+        },
+        {
+          "text": "17 kW",
+          "checked": false
+        },
+        {
+          "text": "25 kW",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What is the maximum value of the working volume of the engine of the motorcycles of category A1?",
+      "index": "33/1",
+      "points": "2",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "125 cm³",
+          "checked": true
+        },
+        {
+          "text": "75 cm³",
+          "checked": false
+        },
+        {
+          "text": "175 cm³",
+          "checked": false
+        },
+        {
+          "text": "250 cm³",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the listed indicators is used to identify motorcycles, which belong to category A1?",
+      "index": "33/2",
+      "points": "2",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "The working volume of the engine",
+          "checked": true
+        },
+        {
+          "text": "The power of the engine",
+          "checked": true
+        },
+        {
+          "text": "The power/weight ratio",
+          "checked": true
+        },
+        {
+          "text": "The location of the wheels relative to the mean axis of the motorcycle",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following ratios is used in determining the motorcycles, which belong to category A1?",
+      "index": "33/3",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "Power/weight",
+          "checked": true
+        },
+        {
+          "text": "Power/volume of the engine",
+          "checked": false
+        },
+        {
+          "text": "Volume of the engine/weight",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What is the maximum unladen mass of the motor vehicles of category B1, intended for transportation of goods?",
+      "index": "34/1",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "550 kg",
+          "checked": true
+        },
+        {
+          "text": "1250 kg",
+          "checked": false
+        },
+        {
+          "text": "750 kg",
+          "checked": false
+        },
+        {
+          "text": "400 kg",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The automobiles of category B1, intended for transportation of passengers, have unladen mass not more than:",
+      "index": "34/2",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "400 kg",
+          "checked": true
+        },
+        {
+          "text": "550 kg",
+          "checked": false
+        },
+        {
+          "text": "750 kg",
+          "checked": false
+        },
+        {
+          "text": "900 kg",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Vehicles of Category “B” include trucks with maximum permissible mass not exceeding:",
+      "index": "35/1",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "3500 kg",
+          "checked": true
+        },
+        {
+          "text": "2500 kg",
+          "checked": false
+        },
+        {
+          "text": "4500 kg",
+          "checked": false
+        },
+        {
+          "text": "7500 kg",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The number of seats, excluding the driver’s seat, in vehicles used for the transport of passengers belonging to vehicles of category \"B\", must not exceed:",
+      "index": "36/1",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "8 seats",
+          "checked": true
+        },
+        {
+          "text": "6 seats",
+          "checked": false
+        },
+        {
+          "text": "9 seats",
+          "checked": false
+        },
+        {
+          "text": "12 seats",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The traffic rules in populated areas shall apply:",
+      "index": "37/1",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "after the sign designating the beginning of the populated area",
+          "checked": true
+        },
+        {
+          "text": "from the first building in the area",
+          "checked": false
+        },
+        {
+          "text": "in all sections of the road with pedestrians traffic",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following rules apply to the traffic in populated areas?",
+      "index": "38/1",
+      "points": "2",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "the car passengers may not use the seat belts",
+          "checked": false
+        },
+        {
+          "text": "the pedestrians may cross the driveway outside the pedestrian walkways in the two-lane and two-way roads",
+          "checked": true
+        },
+        {
+          "text": "parking is allowed on the driveway",
+          "checked": true
+        },
+        {
+          "text": "parking is allowed in the designated areas on the sidewalks",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of the rules listed below apply to the traffic in populated areas?",
+      "index": "38/2",
+      "points": "2",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "if there are no other restrictions, the speed limit in the populated areas should be observed",
+          "checked": true
+        },
+        {
+          "text": "parking is allowed on the driveway",
+          "checked": true
+        },
+        {
+          "text": "no restrictions on the use of sound signals",
+          "checked": false
+        },
+        {
+          "text": "the driver is not obliged to use a seat belt",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following rules apply to the traffic in the populated areas?",
+      "index": "38/3",
+      "points": "2",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "parking is allowed on the driveway",
+          "checked": true
+        },
+        {
+          "text": "parking is allowed in the designated areas on the sidewalks",
+          "checked": true
+        },
+        {
+          "text": "parking is prohibited on the driveway",
+          "checked": false
+        },
+        {
+          "text": "no restriction for parking on the sidewalks",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which part of the road shown in the diagram is designated with the letter \"A\"?",
+      "index": "39/1",
+      "image": "/images/topics/1/25.png",
+      "points": "2",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "the road lane",
+          "checked": true
+        },
+        {
+          "text": "the roadway",
+          "checked": false
+        },
+        {
+          "text": "the driveway",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which part of the road shown in the diagram is designated with the letter “B”?",
+      "index": "39/2",
+      "image": "/images/topics/1/26.png",
+      "points": "2",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "the driveway",
+          "checked": true
+        },
+        {
+          "text": "the roadway",
+          "checked": false
+        },
+        {
+          "text": "the road lane",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which part of the road shown in the diagram is designated with the letter \"C\"?",
+      "index": "39/3",
+      "points": "2",
+      "image": "/images/topics/1/27.png",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "the roadway",
+          "checked": true
+        },
+        {
+          "text": "the driveway",
+          "checked": false
+        },
+        {
+          "text": "the road lane",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The driveway includes:",
+      "index": "40/1",
+      "points": "2",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "the road lanes",
+          "checked": true
+        },
+        {
+          "text": "the sidewalks",
+          "checked": false
+        },
+        {
+          "text": "the roadside",
+          "checked": false
+        },
+        {
+          "text": "the driveway islands",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The roadway includes:",
+      "index": "41/1",
+      "points": "2",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "the roadside",
+          "checked": true
+        },
+        {
+          "text": "the drainage ditches",
+          "checked": false
+        },
+        {
+          "text": "the driveways",
+          "checked": true
+        },
+        {
+          "text": "the driveway islands",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The sidewalk is a part of:",
+      "index": "42/1",
+      "points": "2",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "the roadway",
+          "checked": true
+        },
+        {
+          "text": "the driveway",
+          "checked": false
+        },
+        {
+          "text": "the rightmost lane",
+          "checked": false
+        },
+        {
+          "text": "the dividing line",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The roadside is a part of:",
+      "index": "42/2",
+      "points": "2",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "the roadway",
+          "checked": true
+        },
+        {
+          "text": "the driveway",
+          "checked": false
+        },
+        {
+          "text": "the rightmost lane",
+          "checked": false
+        },
+        {
+          "text": "the dividing line",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "\"Boundary of the driveway\" is the line:",
+      "index": "43/1",
+      "points": "2",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "outlining the \"BUS\" lane",
+          "checked": true
+        },
+        {
+          "text": "outlining the end of the driveway",
+          "checked": true
+        },
+        {
+          "text": "outlining the islands of the driveway",
+          "checked": true
+        },
+        {
+          "text": "which separates the road lanes",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "\"Boundary of the driveway\" is the line drawn or not drawn by a road marking that separates the driveway from the other structural elements of the roadway.",
+      "index": "43/2",
+      "points": "2",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "correct",
+          "checked": true
+        },
+        {
+          "text": "incorrect",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "\"Boundary of the driveway\" is the line drawn or not drawn by a road marking that separates the road lanes.",
+      "index": "43/3",
+      "points": "2",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "incorrect",
+          "checked": true
+        },
+        {
+          "text": "correct",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "\"Boundary of the driveway\" is the line drawn or not drawn by a road marking that separates:",
+      "index": "43/4",
+      "points": "2",
+      "pageNum": 12,
+      "answers": [
+        {
+          "text": "the driveway from other structural elements of the roadway",
+          "checked": true
+        },
+        {
+          "text": "the roadways",
+          "checked": false
+        },
+        {
+          "text": "the road lanes",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The line, which outlines the \"BUS\" lane, is the boundary of the driveway.",
+      "index": "44/1",
+      "image": "/images/topics/1/28.png",
+      "points": "2",
+      "pageNum": 12,
+      "answers": [
+        {
+          "text": "correct",
+          "checked": true
+        },
+        {
+          "text": "incorrect",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The dividing line is the longitudinal part of the road that:",
+      "index": "45/1",
+      "points": "2",
+      "image": "/images/topics/1/29.png",
+      "pageNum": 12,
+      "answers": [
+        {
+          "text": "divides the road into separate driveways",
+          "checked": true
+        },
+        {
+          "text": "divides the road into separate traffic lanes",
+          "checked": false
+        },
+        {
+          "text": "separates the driveway from the other elements of the road",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Visibility is reduced in case of:",
+      "index": "46/1",
+      "points": "2",
+      "pageNum": 12,
+      "answers": [
+        {
+          "text": "fog",
+          "checked": true
+        },
+        {
+          "text": "pouring rain",
+          "checked": true
+        },
+        {
+          "text": "heavy snowfall",
+          "checked": true
+        },
+        {
+          "text": "curve",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Visibility is reduced in case of:",
+      "index": "47/1",
+      "points": "2",
+      "pageNum": 12,
+      "answers": [
+        {
+          "text": "dusk",
+          "checked": true
+        },
+        {
+          "text": "dust",
+          "checked": true
+        },
+        {
+          "text": "steep slopes",
+          "checked": false
+        },
+        {
+          "text": "curves",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Visibility is reduced in case of:",
+      "index": "47/2",
+      "points": "2",
+      "pageNum": 12,
+      "answers": [
+        {
+          "text": "dusk",
+          "checked": true
+        },
+        {
+          "text": "dust",
+          "checked": true
+        },
+        {
+          "text": "smoke",
+          "checked": true
+        },
+        {
+          "text": "obstacles that hinder visibility",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The visibility on the figure is:",
+      "index": "48/1",
+      "image": "/images/topics/1/30.png",
+      "points": "2",
+      "pageNum": 13,
+      "answers": [
+        {
+          "text": "reduced",
+          "checked": true
+        },
+        {
+          "text": "limited",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The visibility is limited in case of:",
+      "index": "49/1",
+      "points": "2",
+      "pageNum": 13,
+      "answers": [
+        {
+          "text": "steep slopes",
+          "checked": true
+        },
+        {
+          "text": "curves",
+          "checked": true
+        },
+        {
+          "text": "dust",
+          "checked": false
+        },
+        {
+          "text": "roadside objects which limit the visibility",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The visibility is limited in case of:",
+      "index": "50/1",
+      "points": "2",
+      "pageNum": 13,
+      "answers": [
+        {
+          "text": "steep slopes",
+          "checked": true
+        },
+        {
+          "text": "curves",
+          "checked": true
+        },
+        {
+          "text": "dusk",
+          "checked": false
+        },
+        {
+          "text": "fog",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The visibility is limited in case of:",
+      "index": "50/2",
+      "points": "2",
+      "pageNum": 13,
+      "answers": [
+        {
+          "text": "obstacles that hinder the visibility",
+          "checked": true
+        },
+        {
+          "text": "roadside objects that limit the visibility",
+          "checked": true
+        },
+        {
+          "text": "pouring rain",
+          "checked": false
+        },
+        {
+          "text": "heavy snowfall",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The visibility is limited in case of:",
+      "index": "50/3",
+      "points": "2",
+      "pageNum": 13,
+      "answers": [
+        {
+          "text": "steep slopes",
+          "checked": true
+        },
+        {
+          "text": "obstacles that hinder the visibility",
+          "checked": true
+        },
+        {
+          "text": "roadside objects that limit the visibility",
+          "checked": true
+        },
+        {
+          "text": "dust",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The visibility on the figure is:",
+      "index": "51/1",
+      "image": "/images/topics/1/31.png",
+      "points": "2",
+      "pageNum": 13,
+      "answers": [
+        {
+          "text": "limited",
+          "checked": true
+        },
+        {
+          "text": "reduced",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Three-wheel motor vehicle driven by an electric motor with a constructive maximal speed not more than 45 km/h, is steered with capacity for category AM, if the maximum continuous rated output of the engine is:",
+      "index": "52/1",
+      "points": "2",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "Not more than 3 kW",
+          "checked": false
+        },
+        {
+          "text": "Not more than 4 kW",
+          "checked": true
+        },
+        {
+          "text": "Not more than 5 kW",
+          "checked": false
+        },
+        {
+          "text": "Not more than 6 kW",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "To the category AM belong vehicles with a constructive maximal speed up to 45 km/h and internal combustion engines with working volume of 50 cm3, which are:",
+      "index": "52/2",
+      "points": "2",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "With two wheels",
+          "checked": true
+        },
+        {
+          "text": "With three wheels",
+          "checked": true
+        },
+        {
+          "text": "With four wheels and unladen mass not more than 350 kg",
+          "checked": true
+        },
+        {
+          "text": "With four wheels and unladen mass not more than 400 kg",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Three-wheel motor vehicles with a power greater than 15 kW are steered with capacity for:",
+      "index": "53/1",
+      "points": "2",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "Category AM",
+          "checked": false
+        },
+        {
+          "text": "Category A1",
+          "checked": false
+        },
+        {
+          "text": "Category A",
+          "checked": true
+        },
+        {
+          "text": "Category B1",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The vehicles of subcategory \"B1\" have unladen mass not greater than:",
+      "index": "53/2",
+      "points": "2",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "550 kg",
+          "checked": true
+        },
+        {
+          "text": "1250 kg",
+          "checked": false
+        },
+        {
+          "text": "750 kg",
+          "checked": false
+        },
+        {
+          "text": "400 kg",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Three-wheel motor vehicles (with symmetrically located wheels), with an engine with a working volume of the cylinder over 50 cm3 and/or with constructive maximal speed, higher than 45 km/h are controlled:",
+      "index": "54/1",
+      "points": "2",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "With capacity for category AM",
+          "checked": false
+        },
+        {
+          "text": "With capacity for category A1",
+          "checked": false
+        },
+        {
+          "text": "With capacity for category A",
+          "checked": true
+        },
+        {
+          "text": "With capacity for category B1",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "With capacity for category A1 can be steered three-wheel motor vehicles with power, which does not exceed:",
+      "index": "54/2",
+      "points": "2",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "11 kW",
+          "checked": false
+        },
+        {
+          "text": "13 kW",
+          "checked": false
+        },
+        {
+          "text": "15 kW",
+          "checked": true
+        },
+        {
+          "text": "9 kW",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What is the maximum power of the engine of a motorcycle, which can be steered with capacity for category A2?",
+      "index": "56/1",
+      "points": "2",
+      "pageNum": 15,
+      "answers": [
+        {
+          "text": "35 kW",
+          "checked": true
+        },
+        {
+          "text": "25 kW",
+          "checked": false
+        },
+        {
+          "text": "15 kW",
+          "checked": false
+        },
+        {
+          "text": "11 kW",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "How much is the maximum working volume of the internal combustion engine of a motorcycle, which can be steered with capacity for category A2?",
+      "index": "56/2",
+      "points": "2",
+      "pageNum": 15,
+      "answers": [
+        {
+          "text": "There is no restriction",
+          "checked": true
+        },
+        {
+          "text": "125 cm³",
+          "checked": false
+        },
+        {
+          "text": "175 cm³",
+          "checked": false
+        },
+        {
+          "text": "250 cm³",
+          "checked": false
+        }
+      ]
+    }
+  ]
+}

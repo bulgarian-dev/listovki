@@ -1,0 +1,5472 @@
+{
+  "totalQuestions": 196,
+  "questions": [
+    {
+      "text": "For which of the drivers is this position of the body and arms of the traffic controller a signal that they can drive straight or turn right?",
+      "index": "1/1",
+      "points": "3",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "of the yellow passenger car",
+          "checked": true
+        },
+        {
+          "text": "of the blue passenger",
+          "checked": true
+        },
+        {
+          "text": "car",
+          "checked": false
+        },
+        {
+          "text": "of the red passenger",
+          "checked": false
+        },
+        {
+          "text": "car",
+          "checked": true
+        },
+        {
+          "text": "of the green passenger car",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "For which of the drivers is this position of the body and arms of the traffic controller a signal that they can drive straight or turn right?",
+      "index": "1/2",
+      "points": "3",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "of the red passenger",
+          "checked": false
+        },
+        {
+          "text": "car",
+          "checked": false
+        },
+        {
+          "text": "of the green passenger",
+          "checked": true
+        },
+        {
+          "text": "car",
+          "checked": true
+        },
+        {
+          "text": "of the yellow passenger",
+          "checked": false
+        },
+        {
+          "text": "car",
+          "checked": false
+        },
+        {
+          "text": "of the blue passenger car",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "For which of the drivers is this position of the body and arms of the traffic controller a signal that passing is prohibited in all directions?",
+      "index": "2/1",
+      "points": "3",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "of the red passenger",
+          "checked": false
+        },
+        {
+          "text": "car",
+          "checked": false
+        },
+        {
+          "text": "of the green passenger",
+          "checked": false
+        },
+        {
+          "text": "car",
+          "checked": false
+        },
+        {
+          "text": "of the yellow passenger",
+          "checked": false
+        },
+        {
+          "text": "car",
+          "checked": false
+        },
+        {
+          "text": "of the blue passenger car",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "For which of the drivers is this position of the body and arms of the traffic controller a signal that passing is prohibited in all directions?",
+      "index": "2/2",
+      "points": "3",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "of the yellow passenger",
+          "checked": true
+        },
+        {
+          "text": "car",
+          "checked": true
+        },
+        {
+          "text": "of the blue passenger",
+          "checked": false
+        },
+        {
+          "text": "car",
+          "checked": false
+        },
+        {
+          "text": "of the red passenger",
+          "checked": true
+        },
+        {
+          "text": "car",
+          "checked": false
+        },
+        {
+          "text": "of the green passenger car",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The signal of the traffic controller means that:",
+      "index": "3/1",
+      "points": "3",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "I am not allowed to",
+          "checked": false
+        },
+        {
+          "text": "pass",
+          "checked": true
+        },
+        {
+          "text": "I may turn to the",
+          "checked": false
+        },
+        {
+          "text": "right",
+          "checked": false
+        },
+        {
+          "text": "I may turn to the",
+          "checked": false
+        },
+        {
+          "text": "left",
+          "checked": true
+        },
+        {
+          "text": "I may make a U-turn",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The signal of the traffic controller means that:",
+      "index": "3/2",
+      "points": "3",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "I am not allowed to",
+          "checked": false
+        },
+        {
+          "text": "pass",
+          "checked": false
+        },
+        {
+          "text": "I may turn",
+          "checked": true
+        },
+        {
+          "text": "right",
+          "checked": true
+        },
+        {
+          "text": "I may turn",
+          "checked": false
+        },
+        {
+          "text": "left",
+          "checked": false
+        },
+        {
+          "text": "I may make a U-turn",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The signal of the traffic controller means that:",
+      "index": "4/1",
+      "points": "3",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "I may pass",
+          "checked": false
+        },
+        {
+          "text": "straight",
+          "checked": false
+        },
+        {
+          "text": "I may turn",
+          "checked": false
+        },
+        {
+          "text": "right",
+          "checked": false
+        },
+        {
+          "text": "I may turn",
+          "checked": false
+        },
+        {
+          "text": "left",
+          "checked": false
+        },
+        {
+          "text": "I may make a U-turn",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The signal of the traffic controller means that:",
+      "index": "4/2",
+      "points": "3",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "I may pass",
+          "checked": false
+        },
+        {
+          "text": "straight",
+          "checked": false
+        },
+        {
+          "text": "I may turn",
+          "checked": false
+        },
+        {
+          "text": "right",
+          "checked": false
+        },
+        {
+          "text": "I may turn",
+          "checked": false
+        },
+        {
+          "text": "left",
+          "checked": false
+        },
+        {
+          "text": "I may make a U-turn",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "For which of the drivers is this position of the body and arms of the traffic controller a signal, the meaning of which is \"Passing is allowed\"?",
+      "index": "5/1",
+      "points": "3",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "of the blue passenger",
+          "checked": true
+        },
+        {
+          "text": "car",
+          "checked": false
+        },
+        {
+          "text": "of the red passenger",
+          "checked": false
+        },
+        {
+          "text": "car",
+          "checked": false
+        },
+        {
+          "text": "of the green passenger",
+          "checked": true
+        },
+        {
+          "text": "car",
+          "checked": false
+        },
+        {
+          "text": "of the yellow passenger",
+          "checked": false
+        },
+        {
+          "text": "car",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "For which of the drivers is this position of the body and arms of the traffic controller a signal, the meaning of which is \"Passing is allowed\"?",
+      "index": "5/2",
+      "points": "3",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "of the red passenger",
+          "checked": true
+        },
+        {
+          "text": "car",
+          "checked": true
+        },
+        {
+          "text": "of the green passenger",
+          "checked": true
+        },
+        {
+          "text": "car",
+          "checked": false
+        },
+        {
+          "text": "of the yellow passenger",
+          "checked": true
+        },
+        {
+          "text": "car",
+          "checked": true
+        },
+        {
+          "text": "of the blue passenger car",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "For which of the drivers is this position of the body and arms of the traffic controller a signal, the meaning of which is \"Passing is prohibited \"?",
+      "index": "6/1",
+      "points": "3",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "of the red passenger",
+          "checked": false
+        },
+        {
+          "text": "car",
+          "checked": false
+        },
+        {
+          "text": "of the green passenger",
+          "checked": false
+        },
+        {
+          "text": "car",
+          "checked": false
+        },
+        {
+          "text": "of the yellow passenger",
+          "checked": false
+        },
+        {
+          "text": "car",
+          "checked": false
+        },
+        {
+          "text": "of the blue passenger car",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "For which of the drivers is this position of the body and arms of the traffic controller a signal, the meaning of which is \"Passing is prohibited \"?",
+      "index": "6/2",
+      "points": "3",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "of the green passenger",
+          "checked": false
+        },
+        {
+          "text": "car",
+          "checked": false
+        },
+        {
+          "text": "of the yellow passenger",
+          "checked": false
+        },
+        {
+          "text": "car",
+          "checked": false
+        },
+        {
+          "text": "of the blue passenger",
+          "checked": false
+        },
+        {
+          "text": "car",
+          "checked": false
+        },
+        {
+          "text": "of the red passenger car",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The signal of the traffic controller means that it is:",
+      "index": "7/1",
+      "points": "3",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "allowed to turn",
+          "checked": true
+        },
+        {
+          "text": "left",
+          "checked": true
+        },
+        {
+          "text": "allowed to pass",
+          "checked": false
+        },
+        {
+          "text": "straight",
+          "checked": false
+        },
+        {
+          "text": "prohibited to turn",
+          "checked": true
+        },
+        {
+          "text": "right",
+          "checked": false
+        },
+        {
+          "text": "prohibited to make a U-turn",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The signal of the traffic controller means that:",
+      "index": "7/2",
+      "points": "3",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "I am prohibited to pass",
+          "checked": false
+        },
+        {
+          "text": "I am allowed to turn",
+          "checked": true
+        },
+        {
+          "text": "right",
+          "checked": false
+        },
+        {
+          "text": "I am allowed to turn",
+          "checked": false
+        },
+        {
+          "text": "left",
+          "checked": false
+        },
+        {
+          "text": "I am allowed to make a U-turn",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The signal of the traffic controller means that:",
+      "index": "8/1",
+      "points": "3",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "I am prohibited to pass",
+          "checked": false
+        },
+        {
+          "text": "I am allowed to turn",
+          "checked": false
+        },
+        {
+          "text": "right",
+          "checked": false
+        },
+        {
+          "text": "I am allowed to turn",
+          "checked": true
+        },
+        {
+          "text": "left",
+          "checked": false
+        },
+        {
+          "text": "I am allowed to make a U-turn",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The signal of the traffic controller means that:",
+      "index": "8/2",
+      "points": "3",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "I am prohibited to pass",
+          "checked": false
+        },
+        {
+          "text": "I am allowed to turn",
+          "checked": true
+        },
+        {
+          "text": "right",
+          "checked": false
+        },
+        {
+          "text": "I am allowed to turn",
+          "checked": false
+        },
+        {
+          "text": "left",
+          "checked": false
+        },
+        {
+          "text": "I am allowed to make a U-turn",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of this signal of the traffic controller is:",
+      "index": "10/1",
+      "points": "3",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "\"Caution,",
+          "checked": false
+        },
+        {
+          "text": "stop!”",
+          "checked": false
+        },
+        {
+          "text": "\"Pass with high",
+          "checked": false
+        },
+        {
+          "text": "caution\"",
+          "checked": false
+        },
+        {
+          "text": "\"Caution\"",
+          "checked": false
+        },
+        {
+          "text": "\"Give way to those driving on the road you are crossing\"",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of this signal of the traffic controller is:",
+      "index": "10/2",
+      "points": "3",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "\"Caution,",
+          "checked": false
+        },
+        {
+          "text": "stop!”",
+          "checked": false
+        },
+        {
+          "text": "\"Pass with high",
+          "checked": false
+        },
+        {
+          "text": "caution\"",
+          "checked": false
+        },
+        {
+          "text": "\"Caution\"",
+          "checked": false
+        },
+        {
+          "text": "\"Give way to those driving on the road you are crossing\"",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of that non - flashing signal of the traffic lights is:",
+      "index": "11/1",
+      "points": "3",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "\"Passing is",
+          "checked": true
+        },
+        {
+          "text": "prohibited\"",
+          "checked": false
+        },
+        {
+          "text": "\"Passing is",
+          "checked": false
+        },
+        {
+          "text": "allowed\"",
+          "checked": false
+        },
+        {
+          "text": "\"Caution\"",
+          "checked": true
+        },
+        {
+          "text": "\"Caution,",
+          "checked": false
+        },
+        {
+          "text": "stop!”",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of this signal of the traffic lights is the following:",
+      "index": "12/1",
+      "points": "3",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "\" It is prohibited to pass straight or turn right",
+          "checked": true
+        },
+        {
+          "text": "\"",
+          "checked": false
+        },
+        {
+          "text": "\" It is prohibited for all road users to enter the road",
+          "checked": false
+        },
+        {
+          "text": "junction \"",
+          "checked": false
+        },
+        {
+          "text": "\" It is prohibited to pass, except for the road vehicles",
+          "checked": true
+        },
+        {
+          "text": "passing straight or turning right \"",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The meaning of this signal of the traffic lights is:",
+      "index": "13/1",
+      "points": "3",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "\"Passing is",
+          "checked": false
+        },
+        {
+          "text": "prohibited\"",
+          "checked": false
+        },
+        {
+          "text": "\"Passing is",
+          "checked": true
+        },
+        {
+          "text": "allowed\"",
+          "checked": false
+        },
+        {
+          "text": "\"Caution\"",
+          "checked": false
+        },
+        {
+          "text": "\"Caution,",
+          "checked": false
+        },
+        {
+          "text": "stop!”",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of which of the listed non-flashing signals of the traffic lights is \"Passing is prohibited\"?",
+      "index": "14/1",
+      "points": "3",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of this signal of the traffic lights is:",
+      "index": "15/1",
+      "points": "3",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "\" Passing is",
+          "checked": false
+        },
+        {
+          "text": "allowed\"",
+          "checked": false
+        },
+        {
+          "text": "\" Passing is allowed in all directions",
+          "checked": false
+        },
+        {
+          "text": "\"",
+          "checked": false
+        },
+        {
+          "text": "\" Passing straight and turning right are allowed \"",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of which of the listed non-flashing signals of the traffic lights is \"Passing is allowed \"?",
+      "index": "15/2",
+      "points": "3",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The meaning of this non-flashing signal of the traffic lights is:",
+      "index": "16/1",
+      "points": "3",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "\"Caution,",
+          "checked": false
+        },
+        {
+          "text": "stop!\"",
+          "checked": false
+        },
+        {
+          "text": "\"Passing is allowed\", but drivers have to be careful and",
+          "checked": false
+        },
+        {
+          "text": "cautious",
+          "checked": true
+        },
+        {
+          "text": "\"Passing is allowed\"",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of which of the listed non-flashing signals of the traffic lights is \"Caution! Stop!\"?",
+      "index": "16/2",
+      "points": "3",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "That signal of the traffic lights means that entering the road junction is prohibited for the road vehicles which:",
+      "index": "17/1",
+      "points": "3",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "are passing",
+          "checked": true
+        },
+        {
+          "text": "straight",
+          "checked": false
+        },
+        {
+          "text": "are turning",
+          "checked": false
+        },
+        {
+          "text": "left",
+          "checked": false
+        },
+        {
+          "text": "are turning right",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The yellow flashing light:",
+      "index": "18/1",
+      "points": "3",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "means",
+          "checked": true
+        },
+        {
+          "text": "\"Caution\"",
+          "checked": false
+        },
+        {
+          "text": "warns the drivers to be careful and",
+          "checked": true
+        },
+        {
+          "text": "cautious",
+          "checked": true
+        },
+        {
+          "text": "means that passing without stopping is",
+          "checked": false
+        },
+        {
+          "text": "prohibited",
+          "checked": false
+        },
+        {
+          "text": "indicates that the road traffic is controlled by a traffic",
+          "checked": false
+        },
+        {
+          "text": "controller",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of the yellow flashing traffic light is:",
+      "index": "18/2",
+      "points": "3",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "\"Caution\"",
+          "checked": true
+        },
+        {
+          "text": "\"Passing is prohibited",
+          "checked": false
+        },
+        {
+          "text": "\"",
+          "checked": false
+        },
+        {
+          "text": "\"Caution,",
+          "checked": false
+        },
+        {
+          "text": "stop!\"",
+          "checked": true
+        },
+        {
+          "text": "\"Passing without stopping is prohibited \"",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "A flashing red light or two red lights flashing in succession mean that passing is:",
+      "index": "19/1",
+      "points": "3",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "prohibited",
+          "checked": true
+        },
+        {
+          "text": "allowed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The flashing red light or two red lights flashing in succession mean:",
+      "index": "19/2",
+      "points": "3",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "that passing is",
+          "checked": false
+        },
+        {
+          "text": "prohibited",
+          "checked": false
+        },
+        {
+          "text": "that passing is",
+          "checked": true
+        },
+        {
+          "text": "allowed",
+          "checked": false
+        },
+        {
+          "text": "that this is a signal only for drivers of rail",
+          "checked": false
+        },
+        {
+          "text": "vehicles",
+          "checked": false
+        },
+        {
+          "text": "\"Caution!\"",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In this situation the signal from a slowly flashing light of the moon-like white color indicates to road users that:",
+      "index": "20/1",
+      "points": "3",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "the traffic lights is in good",
+          "checked": false
+        },
+        {
+          "text": "order",
+          "checked": false
+        },
+        {
+          "text": "it is prohibited to pass through the railroad",
+          "checked": false
+        },
+        {
+          "text": "crossing",
+          "checked": false
+        },
+        {
+          "text": "the railroad crossing barriers will begin to",
+          "checked": false
+        },
+        {
+          "text": "lower",
+          "checked": false
+        },
+        {
+          "text": "that a train is approaching the railroad crossing",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of this light signal is:",
+      "index": "21/1",
+      "points": "3",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "\"The entry is allowed\" on the road lane over which it is",
+          "checked": false
+        },
+        {
+          "text": "placed",
+          "checked": false
+        },
+        {
+          "text": "\"Mandatory direction of",
+          "checked": false
+        },
+        {
+          "text": "movement\"",
+          "checked": false
+        },
+        {
+          "text": "\"No entry\" on the road lane over which it is",
+          "checked": false
+        },
+        {
+          "text": "placed",
+          "checked": false
+        },
+        {
+          "text": "\"Place for a mandatory stop\" in the road lane over which",
+          "checked": false
+        },
+        {
+          "text": "it is placed”",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This light signal:",
+      "index": "21/2",
+      "points": "3",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "indicates that the entry into the road lane over which it is",
+          "checked": true
+        },
+        {
+          "text": "placed is allowed",
+          "checked": false
+        },
+        {
+          "text": "indicates the mandatory direction of",
+          "checked": false
+        },
+        {
+          "text": "movement",
+          "checked": false
+        },
+        {
+          "text": "indicates the location for mandatory",
+          "checked": true
+        },
+        {
+          "text": "stopping",
+          "checked": false
+        },
+        {
+          "text": "prohibits the entry into the other road lanes",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of that light signal is:",
+      "index": "22/1",
+      "points": "3",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "\"No entry\" on the road lane over which it is",
+          "checked": false
+        },
+        {
+          "text": "placed",
+          "checked": true
+        },
+        {
+          "text": "\"A road junction of roads with equal right of way",
+          "checked": false
+        },
+        {
+          "text": "follows\"",
+          "checked": false
+        },
+        {
+          "text": "\"Entry is allowed\" on the road lane over which it is",
+          "checked": false
+        },
+        {
+          "text": "placed",
+          "checked": true
+        },
+        {
+          "text": "\"Location for mandatory",
+          "checked": false
+        },
+        {
+          "text": "stopping”",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This light signal:",
+      "index": "22/2",
+      "points": "3",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "indicates that the entry into the road lane over which it is",
+          "checked": true
+        },
+        {
+          "text": "placed is prohibited",
+          "checked": false
+        },
+        {
+          "text": "indicates that the road traffic is prohibited on the left",
+          "checked": false
+        },
+        {
+          "text": "road lane",
+          "checked": false
+        },
+        {
+          "text": "indicates the location for mandatory",
+          "checked": false
+        },
+        {
+          "text": "stopping",
+          "checked": false
+        },
+        {
+          "text": "prohibits the traffic on the road lane over which it is",
+          "checked": false
+        },
+        {
+          "text": "placed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When both sections of this traffic lights are out of order and there is no road sign for the number and directions of the traffic lanes, this means that:",
+      "index": "23/1",
+      "points": "3",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "entry into the road lane, over which the traffic lights is",
+          "checked": false
+        },
+        {
+          "text": "placed, is prohibited",
+          "checked": false
+        },
+        {
+          "text": "entry into the road lane, over which the traffic lights is",
+          "checked": false
+        },
+        {
+          "text": "placed, is allowed",
+          "checked": false
+        },
+        {
+          "text": "the driver must stop on the line over which the traffic",
+          "checked": false
+        },
+        {
+          "text": "lights is placed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns:",
+      "index": "24/1",
+      "points": "2",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "of approaching a",
+          "checked": false
+        },
+        {
+          "text": "drawbridge",
+          "checked": false
+        },
+        {
+          "text": "of approaching a damaged",
+          "checked": false
+        },
+        {
+          "text": "bridge",
+          "checked": false
+        },
+        {
+          "text": "that the road leads to a quay or",
+          "checked": false
+        },
+        {
+          "text": "waterside",
+          "checked": false
+        },
+        {
+          "text": "the road is closed for traffic",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns :",
+      "index": "25/1",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "that the road leads to a quay or",
+          "checked": true
+        },
+        {
+          "text": "waterside",
+          "checked": false
+        },
+        {
+          "text": "of approaching a",
+          "checked": false
+        },
+        {
+          "text": "drawbridge",
+          "checked": false
+        },
+        {
+          "text": "of approaching a damaged",
+          "checked": true
+        },
+        {
+          "text": "bridge",
+          "checked": false
+        },
+        {
+          "text": "that the road is closed for traffic",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns :",
+      "index": "26/1",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "that ejection of small stones is",
+          "checked": false
+        },
+        {
+          "text": "possible",
+          "checked": true
+        },
+        {
+          "text": "of an unprotected roadside",
+          "checked": true
+        },
+        {
+          "text": "of a slippery section of the",
+          "checked": false
+        },
+        {
+          "text": "road",
+          "checked": false
+        },
+        {
+          "text": "of bumps on the driveway",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns:",
+      "index": "27/1",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "of danger of rocks falling on the road",
+          "checked": false
+        },
+        {
+          "text": "that there might be rocks falling on the road",
+          "checked": false
+        },
+        {
+          "text": "that the road on the right is narrowed and has broken",
+          "checked": false
+        },
+        {
+          "text": "surface",
+          "checked": true
+        },
+        {
+          "text": "that construction and repair works are carried out to the",
+          "checked": false
+        },
+        {
+          "text": "right of the road",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "28/1",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "warns of possible emergence of domestic animals on the",
+          "checked": false
+        },
+        {
+          "text": "road",
+          "checked": false
+        },
+        {
+          "text": "warns of a road on which animal-drawn road vehicles",
+          "checked": false
+        },
+        {
+          "text": "move",
+          "checked": false
+        },
+        {
+          "text": "prohibits the leading of domestic animals on the",
+          "checked": false
+        },
+        {
+          "text": "driveway",
+          "checked": false
+        },
+        {
+          "text": "indicates a road that is mandatory for movement of",
+          "checked": false
+        },
+        {
+          "text": "animal–drawn road vehicles",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns drivers about:",
+      "index": "29/1",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "possible emergence of wild animals on the",
+          "checked": false
+        },
+        {
+          "text": "road",
+          "checked": false
+        },
+        {
+          "text": "passing by a",
+          "checked": false
+        },
+        {
+          "text": "zoo",
+          "checked": false
+        },
+        {
+          "text": "the road entering into a hunting location",
+          "checked": false
+        },
+        {
+          "text": "possible emergence of domestic animals on the road",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of this road sign is:",
+      "index": "30/1",
+      "points": "2",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "\"Two-way",
+          "checked": true
+        },
+        {
+          "text": "traffic\"",
+          "checked": false
+        },
+        {
+          "text": "\"Give way to the vehicles from the opposite direction",
+          "checked": false
+        },
+        {
+          "text": "\"",
+          "checked": false
+        },
+        {
+          "text": "\"Pass if the road is",
+          "checked": true
+        },
+        {
+          "text": "free\"",
+          "checked": false
+        },
+        {
+          "text": "\"Passing each other is prohibited\"",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the road signs means \"Two-way traffic!\"?",
+      "index": "30/2",
+      "points": "2",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        },
+        {
+          "text": "[Image 2]",
+          "isImage": true,
+          "checked": true
+        },
+        {
+          "text": "[Image 3]",
+          "isImage": true,
+          "checked": false
+        },
+        {
+          "text": "[Image 4]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns about:",
+      "index": "31/1",
+      "points": "2",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "a place on the road where the traffic is regulated by light",
+          "checked": false
+        },
+        {
+          "text": "signals",
+          "checked": true
+        },
+        {
+          "text": "a junction where the traffic lights are off or",
+          "checked": false
+        },
+        {
+          "text": "damaged",
+          "checked": false
+        },
+        {
+          "text": "an intersection of two roads with equal right of",
+          "checked": false
+        },
+        {
+          "text": "way",
+          "checked": true
+        },
+        {
+          "text": "a railroad crossing with traffic lights control",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "32/1",
+      "points": "2",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "warns of the possible emergence of a strong, side",
+          "checked": false
+        },
+        {
+          "text": "wind",
+          "checked": false
+        },
+        {
+          "text": "indicates an airport",
+          "checked": false
+        },
+        {
+          "text": "area",
+          "checked": false
+        },
+        {
+          "text": "warns of low-flying",
+          "checked": false
+        },
+        {
+          "text": "aircraft",
+          "checked": false
+        },
+        {
+          "text": "indicates a place for recreation",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of this road sign is:",
+      "index": "33/1",
+      "points": "3",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "\"Give way to those driving on the priority road\"",
+          "checked": false
+        },
+        {
+          "text": "\"Give way to the vehicles from the opposite direction",
+          "checked": false
+        },
+        {
+          "text": "\"",
+          "checked": false
+        },
+        {
+          "text": "\"Caution, other",
+          "checked": false
+        },
+        {
+          "text": "hazards\"",
+          "checked": false
+        },
+        {
+          "text": "\"Caution, stop!\"",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the road signs means \"Give way to those driving on the priority road\"?",
+      "index": "33/2",
+      "points": "3",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of the road signs means \"Pass if the road is free!\"?",
+      "index": "34/1",
+      "points": "3",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of these road signs means \"Give way to the road vehicles with right of way \"?",
+      "index": "35/1",
+      "points": "3",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "36/1",
+      "points": "3",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "prohibits the entry of road",
+          "checked": false
+        },
+        {
+          "text": "vehicles",
+          "checked": true
+        },
+        {
+          "text": "prohibits only the entry of cars",
+          "checked": false
+        },
+        {
+          "text": "across",
+          "checked": false
+        },
+        {
+          "text": "allows the entry of",
+          "checked": false
+        },
+        {
+          "text": "motorcyclists",
+          "checked": true
+        },
+        {
+          "text": "indicates that the road is a dead end",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "36/2",
+      "points": "3",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "prohibits the entry of road",
+          "checked": false
+        },
+        {
+          "text": "vehicles",
+          "checked": false
+        },
+        {
+          "text": "indicates a road for closed public",
+          "checked": true
+        },
+        {
+          "text": "use",
+          "checked": false
+        },
+        {
+          "text": "prohibits passing without",
+          "checked": false
+        },
+        {
+          "text": "stopping",
+          "checked": false
+        },
+        {
+          "text": "indicates that the road is a dead end",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of these road signs prohibits the entry of road vehicles?",
+      "index": "36/3",
+      "points": "3",
+      "pageNum": 12,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of the listed vehicles are prohibited to enter after this sign?",
+      "index": "36/4",
+      "points": "3",
+      "pageNum": 12,
+      "answers": [
+        {
+          "text": "passenger",
+          "checked": false
+        },
+        {
+          "text": "cars",
+          "checked": false
+        },
+        {
+          "text": "vehicles with special regime of",
+          "checked": false
+        },
+        {
+          "text": "movement",
+          "checked": true
+        },
+        {
+          "text": "tractors",
+          "checked": false
+        },
+        {
+          "text": "bicycles",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of these vehicles are allowed to enter after this sign?",
+      "index": "36/6",
+      "points": "3",
+      "pageNum": 12,
+      "answers": [
+        {
+          "text": "bicycles",
+          "checked": true
+        },
+        {
+          "text": "animal – drawn road",
+          "checked": false
+        },
+        {
+          "text": "vehicles",
+          "checked": false
+        },
+        {
+          "text": "mopeds",
+          "checked": false
+        },
+        {
+          "text": "vehicles with special regime of movement",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of these road signs prohibits the entry of road vehicles in both directions after this sign?",
+      "index": "37/1",
+      "points": "3",
+      "pageNum": 12,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        },
+        {
+          "text": "[Image 2]",
+          "isImage": true,
+          "checked": false
+        },
+        {
+          "text": "[Image 3]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the listed vehicles are allowed to enter after this sign?",
+      "index": "37/2",
+      "points": "3",
+      "pageNum": 12,
+      "answers": [
+        {
+          "text": "vehicles with special regime of movement",
+          "checked": false
+        },
+        {
+          "text": "vehicles of the regular public transport lines",
+          "checked": true
+        },
+        {
+          "text": "special purpose vehicles",
+          "checked": true
+        },
+        {
+          "text": "buses",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the listed vehicles are prohibited to enter after this sign?",
+      "index": "37/3",
+      "points": "3",
+      "pageNum": 13,
+      "answers": [
+        {
+          "text": "trucks",
+          "checked": true
+        },
+        {
+          "text": "tractors",
+          "checked": true
+        },
+        {
+          "text": "vehicles with special regime of movement",
+          "checked": false
+        },
+        {
+          "text": "special purpose vehicles",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of these vehicles are prohibited to enter after this sign?",
+      "index": "37/4",
+      "points": "3",
+      "pageNum": 13,
+      "answers": [
+        {
+          "text": "vehicles with special regime of",
+          "checked": false
+        },
+        {
+          "text": "movement",
+          "checked": true
+        },
+        {
+          "text": "motorcycles",
+          "checked": true
+        },
+        {
+          "text": "mopeds",
+          "checked": true
+        },
+        {
+          "text": "bicycles",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of these vehicles are prohibited to enter after this sign?",
+      "index": "37/5",
+      "points": "3",
+      "pageNum": 13,
+      "answers": [
+        {
+          "text": "buses",
+          "checked": true
+        },
+        {
+          "text": "animal–drawn road",
+          "checked": false
+        },
+        {
+          "text": "vehicles",
+          "checked": false
+        },
+        {
+          "text": "special-regime",
+          "checked": true
+        },
+        {
+          "text": "vehicles",
+          "checked": false
+        },
+        {
+          "text": "vehicles of regular public transport lines",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This traffic sign means:",
+      "index": "38/1",
+      "points": "3",
+      "pageNum": 13,
+      "answers": [
+        {
+          "text": "that it is prohibited to make a U-",
+          "checked": true
+        },
+        {
+          "text": "turn",
+          "checked": false
+        },
+        {
+          "text": "that it is prohibited to move",
+          "checked": false
+        },
+        {
+          "text": "backward",
+          "checked": false
+        },
+        {
+          "text": "end of the U-turn",
+          "checked": true
+        },
+        {
+          "text": "restriction",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "This road sign prohibits the entry:",
+      "index": "39/1",
+      "points": "3",
+      "pageNum": 13,
+      "answers": [
+        {
+          "text": "of motor vehicles, except motorcycles without a side car",
+          "checked": false
+        },
+        {
+          "text": "and mopeds",
+          "checked": true
+        },
+        {
+          "text": "of all motor",
+          "checked": false
+        },
+        {
+          "text": "vehicles",
+          "checked": false
+        },
+        {
+          "text": "of vehicles only",
+          "checked": false
+        },
+        {
+          "text": "of all road vehicles",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of these vehicles are prohibited to enter after this sign?",
+      "index": "39/2",
+      "points": "3",
+      "pageNum": 13,
+      "answers": [
+        {
+          "text": "vehicles",
+          "checked": false
+        },
+        {
+          "text": "trucks",
+          "checked": false
+        },
+        {
+          "text": "mopeds",
+          "checked": false
+        },
+        {
+          "text": "tractors",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of these vehicles are prohibited to enter after this sign?",
+      "index": "39/3",
+      "points": "3",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "motorcycles with side",
+          "checked": true
+        },
+        {
+          "text": "cars",
+          "checked": false
+        },
+        {
+          "text": "motorcycles without side",
+          "checked": false
+        },
+        {
+          "text": "cars",
+          "checked": false
+        },
+        {
+          "text": "mopeds",
+          "checked": true
+        },
+        {
+          "text": "bicycles",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which road sign prohibits the entry of trucks beyond it?",
+      "index": "39/4",
+      "points": "3",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the road signs prohibits the entry of trucks beyond it?",
+      "index": "39/5",
+      "points": "3",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of this road sign is:",
+      "index": "40/1",
+      "points": "3",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "\"Entry prohibited for trucks with a permissible maximum",
+          "checked": true
+        },
+        {
+          "text": "mass exceeding 7 t\"",
+          "checked": true
+        },
+        {
+          "text": "\" Entry prohibited for trucks with load capacity over 7",
+          "checked": false
+        },
+        {
+          "text": "tons \"",
+          "checked": false
+        },
+        {
+          "text": "\" Entry prohibited for trucks which load is more than 7",
+          "checked": true
+        },
+        {
+          "text": "tons \"",
+          "checked": false
+        },
+        {
+          "text": "\" Entry prohibited for trucks, the axle load of which is",
+          "checked": false
+        },
+        {
+          "text": "more than 7 tons \"",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of which road sign is \"Entry prohibited for trucks with a permissible maximum mass exceeding 5 t \"",
+      "index": "40/2",
+      "points": "3",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "This road sign prohibits the entry of vehicles towing:",
+      "index": "41/1",
+      "points": "3",
+      "pageNum": 15,
+      "answers": [
+        {
+          "text": "trailers with two or more",
+          "checked": true
+        },
+        {
+          "text": "axles",
+          "checked": false
+        },
+        {
+          "text": "semi-",
+          "checked": false
+        },
+        {
+          "text": "trailers",
+          "checked": true
+        },
+        {
+          "text": "single-axle trailers",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "This road sign does not prohibit the entry of:",
+      "index": "41/2",
+      "points": "3",
+      "pageNum": 15,
+      "answers": [
+        {
+          "text": "vehicle towing single-axle",
+          "checked": false
+        },
+        {
+          "text": "trailer",
+          "checked": true
+        },
+        {
+          "text": "vehicle with",
+          "checked": false
+        },
+        {
+          "text": "trailer",
+          "checked": false
+        },
+        {
+          "text": "vehicle towing a trailer with two or more",
+          "checked": true
+        },
+        {
+          "text": "axles",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of this road sign is:",
+      "index": "41/3",
+      "points": "3",
+      "pageNum": 15,
+      "answers": [
+        {
+          "text": "\"Entry prohibited for motor vehicles with trailers, except",
+          "checked": true
+        },
+        {
+          "text": "with semi-trailers or single one-axle trailers \"",
+          "checked": false
+        },
+        {
+          "text": "\"Entry prohibited for motor vehicles with",
+          "checked": true
+        },
+        {
+          "text": "trailers\"",
+          "checked": true
+        },
+        {
+          "text": "\"Entry prohibited for trucks\"",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of this road sign is:",
+      "index": "42/1",
+      "points": "3",
+      "pageNum": 15,
+      "answers": [
+        {
+          "text": "\"Entry prohibited for motor vehicles with",
+          "checked": false
+        },
+        {
+          "text": "trailers\"",
+          "checked": false
+        },
+        {
+          "text": "\"Entry prohibited for motor vehicles with trailers, except",
+          "checked": false
+        },
+        {
+          "text": "for semi-trailers or single one-axle trailers\"",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "42/2",
+      "points": "3",
+      "pageNum": 15,
+      "answers": [
+        {
+          "text": "prohibits the entry of motor vehicles with trailers with",
+          "checked": false
+        },
+        {
+          "text": "two or more axles",
+          "checked": false
+        },
+        {
+          "text": "does not prohibit the entry of motor vehicles with semi-",
+          "checked": false
+        },
+        {
+          "text": "trailers",
+          "checked": false
+        },
+        {
+          "text": "prohibits the entry of motor vehicles with single one-axle",
+          "checked": false
+        },
+        {
+          "text": "trailers",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Except for tractors, the prohibition of entrance beyond this road sign applies also to:",
+      "index": "43/1",
+      "points": "3",
+      "pageNum": 15,
+      "answers": [
+        {
+          "text": "self-propelled machines",
+          "checked": false
+        },
+        {
+          "text": "motorcycles with sidecars",
+          "checked": false
+        },
+        {
+          "text": "trucks",
+          "checked": false
+        },
+        {
+          "text": "special purpose vehicles",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign prohibits the entry of:",
+      "index": "43/2",
+      "points": "3",
+      "pageNum": 16,
+      "answers": [
+        {
+          "text": "tractors",
+          "checked": true
+        },
+        {
+          "text": "self-propelled machines",
+          "checked": true
+        },
+        {
+          "text": "trucks",
+          "checked": false
+        },
+        {
+          "text": "animal-drawn road",
+          "checked": false
+        },
+        {
+          "text": "vehicles",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Is the entry of mopeds allowed beyond this road sign?",
+      "index": "44/1",
+      "points": "3",
+      "pageNum": 16,
+      "answers": [
+        {
+          "text": "no",
+          "checked": false
+        },
+        {
+          "text": "yes",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "This road sign prohibits the entry of:",
+      "index": "44/2",
+      "points": "3",
+      "pageNum": 16,
+      "answers": [
+        {
+          "text": "motorcycles",
+          "checked": true
+        },
+        {
+          "text": "mopeds",
+          "checked": false
+        },
+        {
+          "text": "bicycles",
+          "checked": false
+        },
+        {
+          "text": "self-propelled machines",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Is it obligatory to stop at this road sign?",
+      "index": "45/1",
+      "points": "3",
+      "pageNum": 16,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": false
+        },
+        {
+          "text": "no",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The meaning of this road sign is:",
+      "index": "45/2",
+      "points": "3",
+      "pageNum": 16,
+      "answers": [
+        {
+          "text": "\"It is prohibited to pass without",
+          "checked": false
+        },
+        {
+          "text": "stopping\"",
+          "checked": false
+        },
+        {
+          "text": "\"It is prohibited to enter opposite the",
+          "checked": false
+        },
+        {
+          "text": "sign\"",
+          "checked": true
+        },
+        {
+          "text": "\" Attention,",
+          "checked": false
+        },
+        {
+          "text": "Customs”",
+          "checked": false
+        },
+        {
+          "text": "\"Road closed for public use\"",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign prohibits:",
+      "index": "46/1",
+      "points": "3",
+      "pageNum": 16,
+      "answers": [
+        {
+          "text": "the entry of the depicted road",
+          "checked": false
+        },
+        {
+          "text": "vehicles",
+          "checked": false
+        },
+        {
+          "text": "the overtaking of trucks by",
+          "checked": false
+        },
+        {
+          "text": "motorcycles",
+          "checked": false
+        },
+        {
+          "text": "the entry of road vehicles, with the exception of the",
+          "checked": false
+        },
+        {
+          "text": "depicted ones",
+          "checked": false
+        },
+        {
+          "text": "the parking of trucks and motorcycles",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of these vehicles are not allowed to enter beyond this sign?",
+      "index": "46/2",
+      "points": "3",
+      "pageNum": 17,
+      "answers": [
+        {
+          "text": "trucks",
+          "checked": true
+        },
+        {
+          "text": "motorcycles",
+          "checked": true
+        },
+        {
+          "text": "mopeds",
+          "checked": true
+        },
+        {
+          "text": "bicycles",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of these vehicles are not allowed to enter beyond this sign?",
+      "index": "46/3",
+      "points": "3",
+      "pageNum": 17,
+      "answers": [
+        {
+          "text": "trucks",
+          "checked": true
+        },
+        {
+          "text": "motorcycles with",
+          "checked": true
+        },
+        {
+          "text": "sidecars",
+          "checked": true
+        },
+        {
+          "text": "motorcycles without",
+          "checked": false
+        },
+        {
+          "text": "sidecars",
+          "checked": true
+        },
+        {
+          "text": "tractors",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of these vehicles are not allowed to enter beyond this sign?",
+      "index": "46/4",
+      "points": "3",
+      "pageNum": 17,
+      "answers": [
+        {
+          "text": "tractors",
+          "checked": true
+        },
+        {
+          "text": "self-propelled machines",
+          "checked": false
+        },
+        {
+          "text": "animal- drawn road",
+          "checked": true
+        },
+        {
+          "text": "vehicles",
+          "checked": true
+        },
+        {
+          "text": "vehicles with trailers",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of these vehicles are not allowed to enter beyond this sign?",
+      "index": "46/5",
+      "points": "3",
+      "pageNum": 17,
+      "answers": [
+        {
+          "text": "buses",
+          "checked": false
+        },
+        {
+          "text": "vehicles with",
+          "checked": true
+        },
+        {
+          "text": "trailers",
+          "checked": false
+        },
+        {
+          "text": "vehicles with semi-",
+          "checked": false
+        },
+        {
+          "text": "trailers",
+          "checked": false
+        },
+        {
+          "text": "trucks",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of this road sign is:",
+      "index": "47/1",
+      "points": "3",
+      "pageNum": 17,
+      "answers": [
+        {
+          "text": "\"Entry prohibited for road vehicles, with laden mass",
+          "checked": false
+        },
+        {
+          "text": "greater than the indicated\"",
+          "checked": false
+        },
+        {
+          "text": "\"Entry prohibited for road vehicles, with load larger than",
+          "checked": false
+        },
+        {
+          "text": "the indicated\"",
+          "checked": false
+        },
+        {
+          "text": "\"Entry prohibited for road vehicles with load capacity",
+          "checked": false
+        },
+        {
+          "text": "greater than the indicated\"",
+          "checked": false
+        },
+        {
+          "text": "\"Entry prohibited for road vehicles with load on any of the",
+          "checked": false
+        },
+        {
+          "text": "axles larger than the indicated\"",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of which road sign is \"Entry prohibited for road vehicles with laden mass greater than the indicated?\"",
+      "index": "47/2",
+      "points": "3",
+      "pageNum": 18,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The meaning of this road sign is:",
+      "index": "48/1",
+      "points": "3",
+      "pageNum": 18,
+      "answers": [
+        {
+          "text": "\"Entry prohibited for road vehicles with load on any of the",
+          "checked": false
+        },
+        {
+          "text": "axles larger than the indicated\"",
+          "checked": false
+        },
+        {
+          "text": "\"Entry prohibited for road vehicles with laden mass",
+          "checked": true
+        },
+        {
+          "text": "greater than the indicated\"",
+          "checked": false
+        },
+        {
+          "text": "\"Entry prohibited for road vehicles with load greater than",
+          "checked": false
+        },
+        {
+          "text": "the indicated \"",
+          "checked": false
+        },
+        {
+          "text": "\"Entry prohibited for road vehicles with load capacity",
+          "checked": true
+        },
+        {
+          "text": "greater than the indicated\"",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of which road sign is \"Entry prohibited for road vehicles with load on any of the axles larger than the indicated\"?",
+      "index": "48/2",
+      "points": "3",
+      "pageNum": 18,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign prohibits the entry of road vehicles:",
+      "index": "49/1",
+      "points": "3",
+      "pageNum": 18,
+      "answers": [
+        {
+          "text": "with height, including the load, greater than the indicated",
+          "checked": true
+        },
+        {
+          "text": "with length, including load greater than the indicated",
+          "checked": false
+        },
+        {
+          "text": "with width, including load greater than the indicated",
+          "checked": false
+        },
+        {
+          "text": "moving one",
+          "checked": false
+        },
+        {
+          "text": "behind the other at a distance less than the",
+          "checked": true
+        },
+        {
+          "text": "indicated",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "This road sign prohibits the entry beyond the sign of a vehicle:",
+      "index": "49/2",
+      "points": "3",
+      "pageNum": 18,
+      "answers": [
+        {
+          "text": "with height of the vehicle greater than the",
+          "checked": false
+        },
+        {
+          "text": "indicated",
+          "checked": false
+        },
+        {
+          "text": "with height of the vehicle load is greater than the",
+          "checked": false
+        },
+        {
+          "text": "indicated",
+          "checked": false
+        },
+        {
+          "text": "with length of the vehicle greater than the",
+          "checked": false
+        },
+        {
+          "text": "indicated",
+          "checked": false
+        },
+        {
+          "text": "with length of the load greater than the",
+          "checked": false
+        },
+        {
+          "text": "indicated",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign prohibits the entry of road vehicles:",
+      "index": "50/1",
+      "points": "3",
+      "pageNum": 19,
+      "answers": [
+        {
+          "text": "with width, including load greater than the",
+          "checked": true
+        },
+        {
+          "text": "indicated",
+          "checked": false
+        },
+        {
+          "text": "with length, including load greater than the indicated",
+          "checked": false
+        },
+        {
+          "text": "with height, including load greater than the",
+          "checked": false
+        },
+        {
+          "text": "indicated",
+          "checked": true
+        },
+        {
+          "text": "moving one behind the other at a distance less than the",
+          "checked": true
+        },
+        {
+          "text": "indicated",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign prohibits the entry after it of a vehicle:",
+      "index": "50/2",
+      "points": "3",
+      "pageNum": 19,
+      "answers": [
+        {
+          "text": "with width of the vehicle greater than the",
+          "checked": false
+        },
+        {
+          "text": "indicated",
+          "checked": true
+        },
+        {
+          "text": "with width of the vehicle including the load greater than",
+          "checked": false
+        },
+        {
+          "text": "the indicated",
+          "checked": true
+        },
+        {
+          "text": "with length of the vehicle greater than the",
+          "checked": true
+        },
+        {
+          "text": "indicated",
+          "checked": false
+        },
+        {
+          "text": "with length of the vehicle’s load greater than the",
+          "checked": false
+        },
+        {
+          "text": "indicated",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "51/1",
+      "points": "3",
+      "pageNum": 19,
+      "answers": [
+        {
+          "text": "prohibits the entry of road vehicles with length greater",
+          "checked": true
+        },
+        {
+          "text": "than the indicated",
+          "checked": false
+        },
+        {
+          "text": "allows the entry of road vehicles, with length of the load",
+          "checked": false
+        },
+        {
+          "text": "greater than the indicated",
+          "checked": true
+        },
+        {
+          "text": "prohibits the entry of road vehicles with length including",
+          "checked": false
+        },
+        {
+          "text": "the load greater than the indicated",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign prohibits the entry of road vehicles:",
+      "index": "51/2",
+      "points": "3",
+      "pageNum": 19,
+      "answers": [
+        {
+          "text": "with length, including the load greater than the",
+          "checked": false
+        },
+        {
+          "text": "indicated",
+          "checked": false
+        },
+        {
+          "text": "moving one behind the other at a distance less than the",
+          "checked": false
+        },
+        {
+          "text": "indicated",
+          "checked": false
+        },
+        {
+          "text": "with width, including the load greater than the",
+          "checked": false
+        },
+        {
+          "text": "indicated",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign prohibits the entry after it of a vehicle:",
+      "index": "51/3",
+      "points": "3",
+      "pageNum": 19,
+      "answers": [
+        {
+          "text": "with length of the vehicle greater than the",
+          "checked": false
+        },
+        {
+          "text": "indicated",
+          "checked": false
+        },
+        {
+          "text": "with length of the vehicle including the load greater than",
+          "checked": false
+        },
+        {
+          "text": "the indicated",
+          "checked": false
+        },
+        {
+          "text": "with width of the vehicle greater than the",
+          "checked": false
+        },
+        {
+          "text": "indicated",
+          "checked": false
+        },
+        {
+          "text": "with load width greater than the",
+          "checked": false
+        },
+        {
+          "text": "indicated",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign means:",
+      "index": "52/1",
+      "points": "3",
+      "pageNum": 19,
+      "answers": [
+        {
+          "text": "prohibition to drive at a distance less than the",
+          "checked": false
+        },
+        {
+          "text": "indicated",
+          "checked": false
+        },
+        {
+          "text": "the distance between the passenger cars while",
+          "checked": false
+        },
+        {
+          "text": "parking",
+          "checked": false
+        },
+        {
+          "text": "prohibition of movement at a distance greater than the",
+          "checked": false
+        },
+        {
+          "text": "indicated",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of this road sign is:",
+      "index": "53/1",
+      "points": "3",
+      "pageNum": 20,
+      "answers": [
+        {
+          "text": "end of the prohibitions imposed by road",
+          "checked": true
+        },
+        {
+          "text": "signs",
+          "checked": false
+        },
+        {
+          "text": "end of a priority",
+          "checked": false
+        },
+        {
+          "text": "road",
+          "checked": true
+        },
+        {
+          "text": "end of all prohibitions",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which road sign repeals the prohibition for movement at speed exceeding 50 km/h?",
+      "index": "53/2",
+      "points": "3",
+      "pageNum": 20,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the listed road signs repeals the prohibition for trucks with a maximum permissible mass exceeding 3.5 t to overtake motor vehicles, except for the motorcycles without sidecars and mopeds?",
+      "index": "53/3",
+      "points": "3",
+      "pageNum": 20,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        },
+        {
+          "text": "[Image 2]",
+          "isImage": true,
+          "checked": true
+        },
+        {
+          "text": "[Image 3]",
+          "isImage": true,
+          "checked": true
+        },
+        {
+          "text": "[Image 4]",
+          "isImage": true,
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of these road signs indicates a mandatory direction of movement of vehicles?",
+      "index": "54/1",
+      "points": "2",
+      "pageNum": 20,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "55/1",
+      "points": "2",
+      "pageNum": 21,
+      "answers": [
+        {
+          "text": "obliges the drivers to drive straight after the",
+          "checked": true
+        },
+        {
+          "text": "sign",
+          "checked": false
+        },
+        {
+          "text": "signals for one-way traffic after the",
+          "checked": false
+        },
+        {
+          "text": "sign",
+          "checked": false
+        },
+        {
+          "text": "indicates the direction of the priority",
+          "checked": true
+        },
+        {
+          "text": "road",
+          "checked": false
+        },
+        {
+          "text": "recommends that the drivers should drive straight after",
+          "checked": false
+        },
+        {
+          "text": "the sign",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign obliges you to drive straight after it?",
+      "index": "55/2",
+      "points": "2",
+      "pageNum": 21,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "56/1",
+      "points": "2",
+      "pageNum": 21,
+      "answers": [
+        {
+          "text": "obliges the drivers to turn right only after the",
+          "checked": false
+        },
+        {
+          "text": "sign",
+          "checked": false
+        },
+        {
+          "text": "recommends that the drivers should turn",
+          "checked": false
+        },
+        {
+          "text": "right",
+          "checked": true
+        },
+        {
+          "text": "indicates the direction of the road with right of way at",
+          "checked": false
+        },
+        {
+          "text": "road junction",
+          "checked": false
+        },
+        {
+          "text": "warns that the road turns right",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of the road signs means \"Move to the right only after the sign\"?",
+      "index": "56/2",
+      "points": "2",
+      "pageNum": 21,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        },
+        {
+          "text": "[Image 2]",
+          "isImage": true,
+          "checked": false
+        },
+        {
+          "text": "[Image 3]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the road signs mean \"Move to the right only before the sign\"?",
+      "index": "57/1",
+      "points": "2",
+      "pageNum": 21,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        },
+        {
+          "text": "[Image 2]",
+          "isImage": true,
+          "checked": false
+        },
+        {
+          "text": "[Image 3]",
+          "isImage": true,
+          "checked": false
+        },
+        {
+          "text": "[Image 4]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign obliges the drivers to continue driving to the left:",
+      "index": "58/1",
+      "points": "2",
+      "pageNum": 22,
+      "answers": [
+        {
+          "text": "before the",
+          "checked": true
+        },
+        {
+          "text": "sign",
+          "checked": false
+        },
+        {
+          "text": "after the sign",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "58/2",
+      "points": "2",
+      "pageNum": 22,
+      "answers": [
+        {
+          "text": "obliges the drivers to turn left before the",
+          "checked": false
+        },
+        {
+          "text": "sign",
+          "checked": false
+        },
+        {
+          "text": "obliges the drivers to turn left after the",
+          "checked": true
+        },
+        {
+          "text": "sign",
+          "checked": false
+        },
+        {
+          "text": "obliges the drivers to pass to the left of the sign",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In case of this road sign, the driver must:",
+      "index": "58/3",
+      "points": "2",
+      "pageNum": 22,
+      "answers": [
+        {
+          "text": "pass to the right of the",
+          "checked": false
+        },
+        {
+          "text": "sign",
+          "checked": true
+        },
+        {
+          "text": "continue driving to the right after the",
+          "checked": false
+        },
+        {
+          "text": "sign",
+          "checked": false
+        },
+        {
+          "text": "turn right after the",
+          "checked": true
+        },
+        {
+          "text": "sign",
+          "checked": false
+        },
+        {
+          "text": "stop on the right of the sign",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the road signs means \"Pass on the right of the sign\"?",
+      "index": "59/1",
+      "points": "2",
+      "pageNum": 22,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the road signs means \"Pass on the left of the sign?\"",
+      "index": "59/2",
+      "points": "2",
+      "pageNum": 22,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of this road sign is:",
+      "index": "60/1",
+      "points": "2",
+      "pageNum": 23,
+      "answers": [
+        {
+          "text": "\"Mandatory road for pedestrians",
+          "checked": true
+        },
+        {
+          "text": "only”",
+          "checked": false
+        },
+        {
+          "text": "\"Pedestrian",
+          "checked": false
+        },
+        {
+          "text": "crossing\"",
+          "checked": false
+        },
+        {
+          "text": "\"Movement prohibited for",
+          "checked": true
+        },
+        {
+          "text": "pedestrians”",
+          "checked": false
+        },
+        {
+          "text": "\"Walkway\"",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The mandatory prescription of this road sign applies to the drivers of:",
+      "index": "61/1",
+      "points": "2",
+      "pageNum": 23,
+      "answers": [
+        {
+          "text": "road vehicles marked with an identification sign for",
+          "checked": false
+        },
+        {
+          "text": "dangerous goods",
+          "checked": true
+        },
+        {
+          "text": "oversized road vehicles",
+          "checked": false
+        },
+        {
+          "text": "slow-moving road vehicles",
+          "checked": false
+        },
+        {
+          "text": "special purpose vehicles",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign signals for an additional road lane for slow- moving road vehicles?",
+      "index": "62/1",
+      "points": "2",
+      "pageNum": 23,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which road sign designates a road for one-way traffic after the sign?",
+      "index": "63/1",
+      "points": "2",
+      "pageNum": 23,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "After which road sign shall the traffic rules for tunnels apply?",
+      "index": "64/1",
+      "points": "2",
+      "pageNum": 23,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of this road sign is:",
+      "index": "65/1",
+      "points": "2",
+      "pageNum": 24,
+      "answers": [
+        {
+          "text": "one-way traffic after the",
+          "checked": true
+        },
+        {
+          "text": "sign",
+          "checked": false
+        },
+        {
+          "text": "turning left and right is prohibited",
+          "checked": false
+        },
+        {
+          "text": "mandatory direction of",
+          "checked": false
+        },
+        {
+          "text": "movement",
+          "checked": true
+        },
+        {
+          "text": "move straight only after the",
+          "checked": false
+        },
+        {
+          "text": "sign",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "66/1",
+      "points": "2",
+      "pageNum": 24,
+      "answers": [
+        {
+          "text": "is an indicator for pre-",
+          "checked": false
+        },
+        {
+          "text": "positioning",
+          "checked": true
+        },
+        {
+          "text": "indicates the beginning of a road",
+          "checked": false
+        },
+        {
+          "text": "lane",
+          "checked": false
+        },
+        {
+          "text": "indicates the number of the road",
+          "checked": true
+        },
+        {
+          "text": "lanes",
+          "checked": true
+        },
+        {
+          "text": "indicates that the road is for one-way traffic after the sign",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "After this road sign the driver:",
+      "index": "67/1",
+      "points": "2",
+      "pageNum": 24,
+      "answers": [
+        {
+          "text": "must take measures to limit the",
+          "checked": false
+        },
+        {
+          "text": "noise",
+          "checked": true
+        },
+        {
+          "text": "may park on both sides of the",
+          "checked": false
+        },
+        {
+          "text": "road",
+          "checked": false
+        },
+        {
+          "text": "should not drive with a speed exceeding 40 km/h",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "67/2",
+      "points": "2",
+      "pageNum": 24,
+      "answers": [
+        {
+          "text": "signals for a hospital in proximitysignals for a hospital in",
+          "checked": false
+        },
+        {
+          "text": "proximity",
+          "checked": false
+        },
+        {
+          "text": "indicates that the driver must take measures to limit the",
+          "checked": false
+        },
+        {
+          "text": "noise",
+          "checked": false
+        },
+        {
+          "text": "indicates that parking is allowed on both sides of the",
+          "checked": false
+        },
+        {
+          "text": "road",
+          "checked": false
+        },
+        {
+          "text": "limits the speed up to 40 km/h",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign indicates that you are passing along a hospital?",
+      "index": "67/3",
+      "points": "2",
+      "pageNum": 24,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "After this road sign the driver:",
+      "index": "67/4",
+      "points": "2",
+      "pageNum": 25,
+      "answers": [
+        {
+          "text": "must take measures to limit the",
+          "checked": true
+        },
+        {
+          "text": "noise",
+          "checked": false
+        },
+        {
+          "text": "may park on both sides of the",
+          "checked": false
+        },
+        {
+          "text": "road",
+          "checked": true
+        },
+        {
+          "text": "should not drive with a speed exceeding 40 km/h",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign signals for:",
+      "index": "68/1",
+      "points": "2",
+      "pageNum": 25,
+      "answers": [
+        {
+          "text": "an additional road lane for slow - moving road vehicles",
+          "checked": false
+        },
+        {
+          "text": "mandatory going around on the",
+          "checked": false
+        },
+        {
+          "text": "right",
+          "checked": true
+        },
+        {
+          "text": "speed limit up to 30 km/h",
+          "checked": false
+        },
+        {
+          "text": "one-way movement after the sign",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign signals for:",
+      "index": "69/1",
+      "points": "2",
+      "pageNum": 25,
+      "answers": [
+        {
+          "text": "roadway",
+          "checked": false
+        },
+        {
+          "text": "widening",
+          "checked": true
+        },
+        {
+          "text": "unlimited space for",
+          "checked": false
+        },
+        {
+          "text": "parking",
+          "checked": false
+        },
+        {
+          "text": "a stop for public transport vehicles",
+          "checked": false
+        },
+        {
+          "text": "road lane with facility for emergency stopping",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which road sign indicates a hospital with a section for emergency medical care?",
+      "index": "70/1",
+      "points": "2",
+      "pageNum": 25,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign indicates that there is a dead end road?",
+      "index": "71/1",
+      "points": "2",
+      "pageNum": 25,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What does this road sign warn about?",
+      "index": "72/1",
+      "points": "2",
+      "pageNum": 26,
+      "answers": [
+        {
+          "text": "beginning of a road",
+          "checked": true
+        },
+        {
+          "text": "lane",
+          "checked": false
+        },
+        {
+          "text": "road lane for emergency",
+          "checked": false
+        },
+        {
+          "text": "stopping",
+          "checked": false
+        },
+        {
+          "text": "additional road lane for slow-moving road",
+          "checked": true
+        },
+        {
+          "text": "vehicles",
+          "checked": false
+        },
+        {
+          "text": "road lane for turning right",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign signals the beginning of a road lane?",
+      "index": "72/2",
+      "points": "2",
+      "pageNum": 26,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the road signs means \"Passing to the opposite driveway\"?",
+      "index": "73/1",
+      "points": "2",
+      "pageNum": 26,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "This road sign signals:",
+      "index": "74/1",
+      "points": "2",
+      "pageNum": 26,
+      "answers": [
+        {
+          "text": "the end of a road",
+          "checked": false
+        },
+        {
+          "text": "lane",
+          "checked": false
+        },
+        {
+          "text": "a road lane in",
+          "checked": false
+        },
+        {
+          "text": "repair",
+          "checked": true
+        },
+        {
+          "text": "middle lane for overtaking in the indicated",
+          "checked": false
+        },
+        {
+          "text": "direction",
+          "checked": false
+        },
+        {
+          "text": "an exit from a roadside facility",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign signals:",
+      "index": "75/1",
+      "points": "2",
+      "pageNum": 26,
+      "answers": [
+        {
+          "text": "road lane facility for emergency",
+          "checked": true
+        },
+        {
+          "text": "stopping",
+          "checked": false
+        },
+        {
+          "text": "road lane for the slow-moving road",
+          "checked": false
+        },
+        {
+          "text": "vehicles",
+          "checked": false
+        },
+        {
+          "text": "parking space outside the",
+          "checked": false
+        },
+        {
+          "text": "roadway",
+          "checked": false
+        },
+        {
+          "text": "the end of a road lane",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign indicates:",
+      "index": "76/1",
+      "points": "2",
+      "pageNum": 27,
+      "answers": [
+        {
+          "text": "location for turning in the opposite",
+          "checked": true
+        },
+        {
+          "text": "direction",
+          "checked": false
+        },
+        {
+          "text": "mandatory direction of",
+          "checked": false
+        },
+        {
+          "text": "movement",
+          "checked": false
+        },
+        {
+          "text": "way to go around an",
+          "checked": true
+        },
+        {
+          "text": "obstacle",
+          "checked": false
+        },
+        {
+          "text": "a road junction with a",
+          "checked": false
+        },
+        {
+          "text": "roundabout",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of these answers gives the correct meaning of the indicated road sign with an additional plate?",
+      "index": "77/1",
+      "points": "2",
+      "pageNum": 27,
+      "answers": [
+        {
+          "text": "the narrowed section of the driveway begins at 200",
+          "checked": false
+        },
+        {
+          "text": "meters after the sign",
+          "checked": false
+        },
+        {
+          "text": "the length of the narrowed section of the driveway is 200",
+          "checked": true
+        },
+        {
+          "text": "m",
+          "checked": false
+        },
+        {
+          "text": "the narrowed section of the road ends 200 meters after",
+          "checked": false
+        },
+        {
+          "text": "the sign",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "This plate additional to the road sign indicates:",
+      "index": "77/2",
+      "points": "2",
+      "pageNum": 27,
+      "answers": [
+        {
+          "text": "the distance to the narrowed section of the",
+          "checked": false
+        },
+        {
+          "text": "driveway",
+          "checked": false
+        },
+        {
+          "text": "the length of the narrowed section of the",
+          "checked": true
+        },
+        {
+          "text": "driveway",
+          "checked": false
+        },
+        {
+          "text": "the distance to the end of the narrowed section of the",
+          "checked": false
+        },
+        {
+          "text": "driveway",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The road sign with the additional plate warns about:",
+      "index": "78/1",
+      "points": "2",
+      "pageNum": 27,
+      "answers": [
+        {
+          "text": "the distance to the road section with successive",
+          "checked": false
+        },
+        {
+          "text": "dangerous curves is 50 m",
+          "checked": false
+        },
+        {
+          "text": "the length of the section with successive dangerous",
+          "checked": false
+        },
+        {
+          "text": "curves is 50 m",
+          "checked": false
+        },
+        {
+          "text": "the distance from the sign to the end of the section with",
+          "checked": false
+        },
+        {
+          "text": "successive curves is 50 m",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of these answers gives the correct meaning of the indicated road sign with an additional plate?",
+      "index": "79/1",
+      "points": "2",
+      "pageNum": 27,
+      "answers": [
+        {
+          "text": "the length of the narrowed section of the driveway is 200",
+          "checked": false
+        },
+        {
+          "text": "m",
+          "checked": false
+        },
+        {
+          "text": "the narrowed section of the driveway begins 200 meters",
+          "checked": false
+        },
+        {
+          "text": "after the sign",
+          "checked": false
+        },
+        {
+          "text": "the narrowed section of the road ends 200 meters after",
+          "checked": false
+        },
+        {
+          "text": "the sign",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This additional plate to the road sign indicates:",
+      "index": "79/2",
+      "points": "2",
+      "pageNum": 27,
+      "answers": [
+        {
+          "text": "the length of the narrowed section of the",
+          "checked": false
+        },
+        {
+          "text": "driveway",
+          "checked": false
+        },
+        {
+          "text": "the distance to the narrowed section of the",
+          "checked": false
+        },
+        {
+          "text": "driveway",
+          "checked": false
+        },
+        {
+          "text": "the distance to the end of the narrowed section of the",
+          "checked": false
+        },
+        {
+          "text": "driveway",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation the length of the section with successive dangerous curves is 1000 m.",
+      "index": "80/1",
+      "points": "2",
+      "pageNum": 28,
+      "answers": [
+        {
+          "text": "correct",
+          "checked": true
+        },
+        {
+          "text": "incorrect",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The road sign with the additional plate warns that:",
+      "index": "80/2",
+      "points": "2",
+      "pageNum": 28,
+      "answers": [
+        {
+          "text": "the length of the section with successive dangerous",
+          "checked": true
+        },
+        {
+          "text": "curves is 1000 m",
+          "checked": false
+        },
+        {
+          "text": "the distance to the road section with successive",
+          "checked": false
+        },
+        {
+          "text": "dangerous curves is 1000 m",
+          "checked": true
+        },
+        {
+          "text": "the distance from the sign to the end of the section with",
+          "checked": false
+        },
+        {
+          "text": "successive curves is 1000 m",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The additional sign indicates that parking in the indicated time is:",
+      "index": "81/1",
+      "points": "2",
+      "pageNum": 28,
+      "answers": [
+        {
+          "text": "prohibited",
+          "checked": false
+        },
+        {
+          "text": "allowed",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The additional plate indicates that the prohibition established by this sign only applies:",
+      "index": "82/1",
+      "points": "2",
+      "pageNum": 28,
+      "answers": [
+        {
+          "text": "in non-working",
+          "checked": false
+        },
+        {
+          "text": "days",
+          "checked": false
+        },
+        {
+          "text": "in working days",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The additional plate indicates that prohibition for turning left applies to:",
+      "index": "83/1",
+      "points": "2",
+      "pageNum": 28,
+      "answers": [
+        {
+          "text": "trucks",
+          "checked": true
+        },
+        {
+          "text": "only",
+          "checked": false
+        },
+        {
+          "text": "all",
+          "checked": false
+        },
+        {
+          "text": "vehicles",
+          "checked": false
+        },
+        {
+          "text": "all vehicles, except for trucks",
+          "checked": false
+        },
+        {
+          "text": "all road vehicles, except for trucks",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "To which trucks does the sign with the additional plate apply?",
+      "index": "83/2",
+      "points": "2",
+      "pageNum": 28,
+      "answers": [
+        {
+          "text": "to all",
+          "checked": false
+        },
+        {
+          "text": "trucks",
+          "checked": false
+        },
+        {
+          "text": "to those with mass exceeding 3.5 tons only",
+          "checked": false
+        },
+        {
+          "text": "to those with a total mass exceeding 7.5 tones only",
+          "checked": false
+        },
+        {
+          "text": "to those with a maximum permissible mass exceeding",
+          "checked": false
+        },
+        {
+          "text": "12.5 tons only",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "To which vehicles does the sign with the additional plate apply?",
+      "index": "84/1",
+      "points": "2",
+      "pageNum": 29,
+      "answers": [
+        {
+          "text": "to the trucks",
+          "checked": true
+        },
+        {
+          "text": "to the passenger cars",
+          "checked": false
+        },
+        {
+          "text": "to the buses",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "With this additional plate, are the passenger car drivers allowed to turn right after the sign?",
+      "index": "84/2",
+      "points": "2",
+      "pageNum": 29,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "With this additional plate, are the passenger car drivers prohibited to turn right after the sign?",
+      "index": "85/1",
+      "points": "2",
+      "pageNum": 29,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Does the prohibition introduced with this road sign apply to bus drivers?",
+      "index": "85/2",
+      "points": "2",
+      "pageNum": 29,
+      "answers": [
+        {
+          "text": "no",
+          "checked": true
+        },
+        {
+          "text": "yes",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The mandatory direction of movement imposed by this road sign with an additional plate applies to:",
+      "index": "86/1",
+      "points": "2",
+      "pageNum": 29,
+      "answers": [
+        {
+          "text": "passenger",
+          "checked": true
+        },
+        {
+          "text": "cars",
+          "checked": true
+        },
+        {
+          "text": "motorcycles",
+          "checked": true
+        },
+        {
+          "text": "buses",
+          "checked": false
+        },
+        {
+          "text": "trucks",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The prohibition imposed by this road sign with an additional plate applies to:",
+      "index": "87/1",
+      "points": "2",
+      "pageNum": 29,
+      "answers": [
+        {
+          "text": "passenger",
+          "checked": true
+        },
+        {
+          "text": "cars",
+          "checked": true
+        },
+        {
+          "text": "trucks",
+          "checked": false
+        },
+        {
+          "text": "motorcycles",
+          "checked": true
+        },
+        {
+          "text": "buses",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The additional plate to the road sign indicates:",
+      "index": "88/1",
+      "points": "2",
+      "pageNum": 29,
+      "answers": [
+        {
+          "text": "the end of the section in which staying and parking are",
+          "checked": false
+        },
+        {
+          "text": "prohibited",
+          "checked": false
+        },
+        {
+          "text": "the beginning of the section in which stopping is",
+          "checked": false
+        },
+        {
+          "text": "prohibited",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The additional plate to the road sign indicates:",
+      "index": "88/2",
+      "points": "2",
+      "pageNum": 30,
+      "answers": [
+        {
+          "text": "the end of the section in which staying and parking are",
+          "checked": true
+        },
+        {
+          "text": "prohibited",
+          "checked": false
+        },
+        {
+          "text": "the beginning of the section in which stopping is",
+          "checked": true
+        },
+        {
+          "text": "prohibited",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The additional plate to the road sign indicates:",
+      "index": "89/1",
+      "points": "2",
+      "pageNum": 30,
+      "answers": [
+        {
+          "text": "the beginning of the section in which parking is prohibited",
+          "checked": true
+        },
+        {
+          "text": "the end of the section in which parking is",
+          "checked": false
+        },
+        {
+          "text": "prohibited",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The additional plate to the road sign indicates:",
+      "index": "89/2",
+      "points": "2",
+      "pageNum": 30,
+      "answers": [
+        {
+          "text": "the beginning of the section in which parking is prohibited",
+          "checked": false
+        },
+        {
+          "text": "the end of the section in which parking is",
+          "checked": false
+        },
+        {
+          "text": "prohibited",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The additional plate to the road sign indicates:",
+      "index": "90/1",
+      "points": "2",
+      "pageNum": 30,
+      "answers": [
+        {
+          "text": "the beginning of a section with length 10 m, where",
+          "checked": false
+        },
+        {
+          "text": "parking is prohibited",
+          "checked": false
+        },
+        {
+          "text": "that the beginning of the section in which parking is",
+          "checked": true
+        },
+        {
+          "text": "prohibited is 10 meters beyond",
+          "checked": false
+        },
+        {
+          "text": "the end of a section with length 10 m, where parking is",
+          "checked": false
+        },
+        {
+          "text": "prohibited",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The additional plate to the road sign indicates:",
+      "index": "91/1",
+      "points": "2",
+      "pageNum": 30,
+      "answers": [
+        {
+          "text": "extension of the zone of action of the road",
+          "checked": false
+        },
+        {
+          "text": "sign",
+          "checked": false
+        },
+        {
+          "text": "the end of a section in which staying and parking are",
+          "checked": false
+        },
+        {
+          "text": "prohibited",
+          "checked": false
+        },
+        {
+          "text": "the beginning of a section in which staying and parking",
+          "checked": false
+        },
+        {
+          "text": "are prohibited",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The additional plate to the road sign indicates:",
+      "index": "91/3",
+      "points": "2",
+      "pageNum": 30,
+      "answers": [
+        {
+          "text": "extension of the zone of action of the road",
+          "checked": false
+        },
+        {
+          "text": "sign",
+          "checked": false
+        },
+        {
+          "text": "end of the section, in which staying and parking are",
+          "checked": false
+        },
+        {
+          "text": "prohibited",
+          "checked": false
+        },
+        {
+          "text": "that the prohibition for staying and parking applies to",
+          "checked": false
+        },
+        {
+          "text": "both sides of the road",
+          "checked": false
+        },
+        {
+          "text": "the beginning of a section in which staying and parking",
+          "checked": false
+        },
+        {
+          "text": "are prohibited",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign with additional plate indicates:",
+      "index": "92/1",
+      "points": "2",
+      "pageNum": 31,
+      "answers": [
+        {
+          "text": "the parking space for the road",
+          "checked": true
+        },
+        {
+          "text": "vehicles",
+          "checked": true
+        },
+        {
+          "text": "the way of parking of the road",
+          "checked": false
+        },
+        {
+          "text": "vehicles",
+          "checked": false
+        },
+        {
+          "text": "prohibition of parking on the",
+          "checked": true
+        },
+        {
+          "text": "sidewalk",
+          "checked": true
+        },
+        {
+          "text": "that parking is permitted only for passenger cars",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In which cases, with this additional plate, the driver is obliged to observe the prohibition imposed by the road sign?",
+      "index": "93/1",
+      "points": "2",
+      "pageNum": 31,
+      "answers": [
+        {
+          "text": "during",
+          "checked": false
+        },
+        {
+          "text": "snowfall",
+          "checked": true
+        },
+        {
+          "text": "with snow on the",
+          "checked": false
+        },
+        {
+          "text": "driveway",
+          "checked": false
+        },
+        {
+          "text": "at temperatures at which the road surface may be",
+          "checked": false
+        },
+        {
+          "text": "covered with ice",
+          "checked": true
+        },
+        {
+          "text": "during heavy rain",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "At what distance after the sign, if placed outside a populated area, is the dangerous curve located?",
+      "index": "97/1",
+      "points": "2",
+      "pageNum": 32,
+      "answers": [
+        {
+          "text": "from 100 to 150",
+          "checked": true
+        },
+        {
+          "text": "m",
+          "checked": true
+        },
+        {
+          "text": "from 150 to 200",
+          "checked": false
+        },
+        {
+          "text": "m",
+          "checked": false
+        },
+        {
+          "text": "from 200 to 500",
+          "checked": true
+        },
+        {
+          "text": "m",
+          "checked": true
+        },
+        {
+          "text": "over 500 m",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "At what distance after the sign, if placed in a populated area, is the pedestrian crossing located?",
+      "index": "97/2",
+      "points": "2",
+      "pageNum": 32,
+      "answers": [
+        {
+          "text": "from 50 to 100",
+          "checked": false
+        },
+        {
+          "text": "m",
+          "checked": true
+        },
+        {
+          "text": "from 100 to 150",
+          "checked": false
+        },
+        {
+          "text": "m",
+          "checked": false
+        },
+        {
+          "text": "no more than",
+          "checked": false
+        },
+        {
+          "text": "50m",
+          "checked": true
+        },
+        {
+          "text": "immediately after the sign",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "At what distance before the danger are the warning signs placed?",
+      "index": "97/3",
+      "points": "2",
+      "pageNum": 32,
+      "answers": [
+        {
+          "text": "from 50 to 100 meters in a populated",
+          "checked": false
+        },
+        {
+          "text": "area",
+          "checked": false
+        },
+        {
+          "text": "from 100 to 150 meters outside a populated",
+          "checked": true
+        },
+        {
+          "text": "area",
+          "checked": true
+        },
+        {
+          "text": "no more than 50",
+          "checked": false
+        },
+        {
+          "text": "m",
+          "checked": false
+        },
+        {
+          "text": "immediately before the danger",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, at what distance should we expect the dangerous curve, about which the road sign warns us?",
+      "index": "98/1",
+      "points": "2",
+      "pageNum": 33,
+      "answers": [
+        {
+          "text": "from 100 to 150",
+          "checked": true
+        },
+        {
+          "text": "m",
+          "checked": false
+        },
+        {
+          "text": "from 50 to 100",
+          "checked": false
+        },
+        {
+          "text": "m",
+          "checked": false
+        },
+        {
+          "text": "more than 200",
+          "checked": true
+        },
+        {
+          "text": "m",
+          "checked": false
+        },
+        {
+          "text": "more than 50 m",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, at what distance after the road sign is the pedestrian crossing located?",
+      "index": "99/1",
+      "points": "2",
+      "pageNum": 33,
+      "answers": [
+        {
+          "text": "from 50 to 100",
+          "checked": false
+        },
+        {
+          "text": "m",
+          "checked": true
+        },
+        {
+          "text": "up to 50",
+          "checked": false
+        },
+        {
+          "text": "m",
+          "checked": false
+        },
+        {
+          "text": "from 100 to 150",
+          "checked": false
+        },
+        {
+          "text": "m",
+          "checked": true
+        },
+        {
+          "text": "at 200 m",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In this road outside a populated area, the area with dangerous curves starts:",
+      "index": "100/1",
+      "points": "2",
+      "pageNum": 33,
+      "answers": [
+        {
+          "text": "from 100 to 150 meters after the",
+          "checked": false
+        },
+        {
+          "text": "sign",
+          "checked": false
+        },
+        {
+          "text": "from 50 to 100 meters after the",
+          "checked": true
+        },
+        {
+          "text": "sign",
+          "checked": false
+        },
+        {
+          "text": "at 250 m after the",
+          "checked": false
+        },
+        {
+          "text": "sign",
+          "checked": false
+        },
+        {
+          "text": "no more than 250 m",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The prohibition imposed by this road sign is valid:",
+      "index": "101/1",
+      "points": "2",
+      "pageNum": 33,
+      "answers": [
+        {
+          "text": "up to the next road",
+          "checked": false
+        },
+        {
+          "text": "junction",
+          "checked": false
+        },
+        {
+          "text": "up to a sign which repeals the",
+          "checked": false
+        },
+        {
+          "text": "prohibition",
+          "checked": false
+        },
+        {
+          "text": "up to the end of the",
+          "checked": false
+        },
+        {
+          "text": "road",
+          "checked": false
+        },
+        {
+          "text": "at 150 m after the sign",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the prohibition for overtaking is valid:",
+      "index": "102/1",
+      "points": "2",
+      "pageNum": 33,
+      "answers": [
+        {
+          "text": "up to the end of the narrowed section of the",
+          "checked": false
+        },
+        {
+          "text": "road",
+          "checked": false
+        },
+        {
+          "text": "up to a sign which repeals the",
+          "checked": false
+        },
+        {
+          "text": "prohibition",
+          "checked": false
+        },
+        {
+          "text": "up to the next road",
+          "checked": false
+        },
+        {
+          "text": "junction",
+          "checked": false
+        },
+        {
+          "text": "up to the end of the road",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the prohibition from the road sign is valid:",
+      "index": "103/1",
+      "points": "2",
+      "pageNum": 34,
+      "answers": [
+        {
+          "text": "up to the end of the section of the road with a",
+          "checked": true
+        },
+        {
+          "text": "slope",
+          "checked": false
+        },
+        {
+          "text": "up to a sign which repeals the",
+          "checked": false
+        },
+        {
+          "text": "prohibition",
+          "checked": false
+        },
+        {
+          "text": "at the distance specified in the sign for",
+          "checked": true
+        },
+        {
+          "text": "prohibition",
+          "checked": false
+        },
+        {
+          "text": "up to the next road junction",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the prohibition for movement at a speed higher than indicated, is valid:",
+      "index": "103/2",
+      "points": "2",
+      "pageNum": 34,
+      "answers": [
+        {
+          "text": "up to the end of the danger signaled by the warning road",
+          "checked": false
+        },
+        {
+          "text": "sign",
+          "checked": true
+        },
+        {
+          "text": "up to a sign which repeals the",
+          "checked": false
+        },
+        {
+          "text": "prohibition",
+          "checked": false
+        },
+        {
+          "text": "up to the next road",
+          "checked": false
+        },
+        {
+          "text": "junction",
+          "checked": true
+        },
+        {
+          "text": "at 50 m after the sign",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation the prohibition for staying and parking is valid:",
+      "index": "104/1",
+      "points": "2",
+      "pageNum": 34,
+      "answers": [
+        {
+          "text": "up to the end of the danger indicated by the warning road",
+          "checked": false
+        },
+        {
+          "text": "sign",
+          "checked": false
+        },
+        {
+          "text": "up to a sign that repeals the prohibition",
+          "checked": true
+        },
+        {
+          "text": "up to the next road",
+          "checked": false
+        },
+        {
+          "text": "junction",
+          "checked": false
+        },
+        {
+          "text": "at the location only where the signs are",
+          "checked": false
+        },
+        {
+          "text": "placed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When there is a road sign with an additional plate \"Arrow\" above the driveway, this means that:",
+      "index": "105/1",
+      "points": "2",
+      "pageNum": 34,
+      "answers": [
+        {
+          "text": "the sign applies only to the road lane, above which it is",
+          "checked": false
+        },
+        {
+          "text": "placed",
+          "checked": false
+        },
+        {
+          "text": "the sign does not apply to the road lane, above which it is",
+          "checked": false
+        },
+        {
+          "text": "placed",
+          "checked": false
+        },
+        {
+          "text": "the sign refers only to those vehicles which continue their",
+          "checked": false
+        },
+        {
+          "text": "movement straight after the sign",
+          "checked": false
+        },
+        {
+          "text": "the sign refers to the entire width of the driveway",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the movement of trucks on the lane, above which the road sign is placed, is:",
+      "index": "105/2",
+      "points": "2",
+      "pageNum": 34,
+      "answers": [
+        {
+          "text": "prohibited",
+          "checked": false
+        },
+        {
+          "text": "allowed without",
+          "checked": false
+        },
+        {
+          "text": "restrictions",
+          "checked": false
+        },
+        {
+          "text": "allowed, but only at a speed not higher than the",
+          "checked": false
+        },
+        {
+          "text": "indicated",
+          "checked": false
+        },
+        {
+          "text": "allowed, if their laden mass does not exceed 3.5 tons",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the movement of trucks on the lane, above which the road sign is placed, is:",
+      "index": "106/1",
+      "points": "2",
+      "pageNum": 35,
+      "answers": [
+        {
+          "text": "prohibited",
+          "checked": true
+        },
+        {
+          "text": "allowed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is the crossing of the single continuous line between the neighboring road lanes allowed?",
+      "index": "107/1",
+      "points": "2",
+      "pageNum": 35,
+      "answers": [
+        {
+          "text": "no",
+          "checked": true
+        },
+        {
+          "text": "yes",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The crossing of the single continuous line between the neighboring road lanes is:",
+      "index": "107/2",
+      "points": "2",
+      "pageNum": 35,
+      "answers": [
+        {
+          "text": "prohibited",
+          "checked": true
+        },
+        {
+          "text": "allowed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The crossing of the single continuous line between the neighboring road lanes is:",
+      "index": "108/1",
+      "points": "2",
+      "pageNum": 35,
+      "answers": [
+        {
+          "text": "prohibited in all",
+          "checked": true
+        },
+        {
+          "text": "cases",
+          "checked": false
+        },
+        {
+          "text": "allowed",
+          "checked": false
+        },
+        {
+          "text": "prohibited, except for stopping on the other side of the",
+          "checked": true
+        },
+        {
+          "text": "road",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the crossing of the single continuous line is:",
+      "index": "109/1",
+      "points": "2",
+      "pageNum": 35,
+      "answers": [
+        {
+          "text": "prohibited in all",
+          "checked": false
+        },
+        {
+          "text": "cases",
+          "checked": true
+        },
+        {
+          "text": "prohibited except for stopping on the other side of the",
+          "checked": false
+        },
+        {
+          "text": "road",
+          "checked": false
+        },
+        {
+          "text": "allowed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the driver of the passenger car is allowed to cross a single continuous line to stop on the other side of the road.",
+      "index": "109/2",
+      "points": "2",
+      "pageNum": 35,
+      "answers": [
+        {
+          "text": "incorrect",
+          "checked": false
+        },
+        {
+          "text": "correct",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The crossing of the single dashed line between the neighboring road lanes is:",
+      "index": "110/1",
+      "points": "2",
+      "pageNum": 36,
+      "answers": [
+        {
+          "text": "allowed",
+          "checked": true
+        },
+        {
+          "text": "prohibited",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the driver of the passenger car is allowed to cross the single dashed line to stop on the other side of the road.",
+      "index": "110/2",
+      "points": "2",
+      "pageNum": 36,
+      "answers": [
+        {
+          "text": "correct",
+          "checked": true
+        },
+        {
+          "text": "incorrect",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the crossing of the single continuous line outlining the boundary of the driveway is:",
+      "index": "111/1",
+      "points": "2",
+      "pageNum": 36,
+      "answers": [
+        {
+          "text": "allowed",
+          "checked": true
+        },
+        {
+          "text": "prohibited",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is the crossing of the single continuous line outlining the boundary of the roadway allowed?",
+      "index": "112/1",
+      "points": "2",
+      "pageNum": 36,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is it allowed to cross the single dashed line outlining the boundary of the driveway?",
+      "index": "113/1",
+      "points": "2",
+      "pageNum": 36,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, to which of the vehicles is allowed to cross the road marking?",
+      "index": "115/1",
+      "points": "2",
+      "pageNum": 36,
+      "answers": [
+        {
+          "text": "to the blue one",
+          "checked": true
+        },
+        {
+          "text": "to the red one",
+          "checked": false
+        },
+        {
+          "text": "to both passenger cars",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, is it permitted to cross the marking, in order to make the manoeuvre indicated by an arrow?",
+      "index": "116/1",
+      "points": "2",
+      "pageNum": 37,
+      "answers": [
+        {
+          "text": "no",
+          "checked": true
+        },
+        {
+          "text": "yes",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, is it permitted to cross the marking, in order to make the manoeuvre indicated by an arrow?",
+      "index": "117/1",
+      "points": "2",
+      "pageNum": 37,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The entry into the section of the driveway marked with oblique parallel lines, is:",
+      "index": "118/1",
+      "points": "2",
+      "pageNum": 37,
+      "answers": [
+        {
+          "text": "prohibited",
+          "checked": true
+        },
+        {
+          "text": "permitted for",
+          "checked": false
+        },
+        {
+          "text": "parking",
+          "checked": false
+        },
+        {
+          "text": "allowed to stop only for",
+          "checked": true
+        },
+        {
+          "text": "staying",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The entry into the section of the driveway marked with oblique parallel lines, is:",
+      "index": "119/1",
+      "points": "2",
+      "pageNum": 37,
+      "answers": [
+        {
+          "text": "prohibited",
+          "checked": false
+        },
+        {
+          "text": "permitted while overtaking only",
+          "checked": true
+        },
+        {
+          "text": "allowed to stop only for",
+          "checked": false
+        },
+        {
+          "text": "staying",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the road marking positioned across the road indicates:",
+      "index": "120/1",
+      "points": "2",
+      "pageNum": 37,
+      "answers": [
+        {
+          "text": "artificial bumps on the",
+          "checked": false
+        },
+        {
+          "text": "driveway",
+          "checked": true
+        },
+        {
+          "text": "section of the road under",
+          "checked": false
+        },
+        {
+          "text": "repair",
+          "checked": false
+        },
+        {
+          "text": "a line for awaiting",
+          "checked": false
+        },
+        {
+          "text": "location for mandatory stop",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In the area outlined by an yellow broken line, it is allowed to stop for:",
+      "index": "121/1",
+      "points": "2",
+      "pageNum": 37,
+      "answers": [
+        {
+          "text": "staying",
+          "checked": false
+        },
+        {
+          "text": "parking",
+          "checked": false
+        },
+        {
+          "text": "staying and parking",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The temporary road marking can be identified by:",
+      "index": "122/1",
+      "points": "2",
+      "pageNum": 38,
+      "answers": [
+        {
+          "text": "the color of the",
+          "checked": true
+        },
+        {
+          "text": "marking",
+          "checked": false
+        },
+        {
+          "text": "the width of the",
+          "checked": false
+        },
+        {
+          "text": "lines",
+          "checked": true
+        },
+        {
+          "text": "the light reflection coefficient",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the crossing of the line indicated by the cones is:",
+      "index": "123/1",
+      "points": "2",
+      "pageNum": 38,
+      "answers": [
+        {
+          "text": "prohibited",
+          "checked": true
+        },
+        {
+          "text": "allowed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the cones outline the line which crossing is:",
+      "index": "124/1",
+      "points": "2",
+      "pageNum": 38,
+      "answers": [
+        {
+          "text": "prohibited",
+          "checked": true
+        },
+        {
+          "text": "allowed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The white walking stick carried by a pedestrian means that he is:",
+      "index": "125/1",
+      "points": "2",
+      "pageNum": 38,
+      "answers": [
+        {
+          "text": "blind",
+          "checked": false
+        },
+        {
+          "text": "deaf-",
+          "checked": true
+        },
+        {
+          "text": "mute",
+          "checked": false
+        },
+        {
+          "text": "very old",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In case of a discrepancy between the temporary road marking and the permanent road marking, the drivers:",
+      "index": "126/1",
+      "points": "2",
+      "pageNum": 38,
+      "answers": [
+        {
+          "text": "must comply with the temporary road",
+          "checked": true
+        },
+        {
+          "text": "marking",
+          "checked": false
+        },
+        {
+          "text": "must comply with the permanent road",
+          "checked": false
+        },
+        {
+          "text": "marking",
+          "checked": false
+        },
+        {
+          "text": "must not comply with the road marking",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, which of the road signs must the driver of the blue passenger car comply with?",
+      "index": "127/1",
+      "points": "2",
+      "pageNum": 38,
+      "answers": [
+        {
+          "text": "the portable road sign placed on the",
+          "checked": false
+        },
+        {
+          "text": "driveway",
+          "checked": false
+        },
+        {
+          "text": "the permanently affixed road sign",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The \"artificial bump\" on the driveway is intended for:",
+      "index": "128/1",
+      "points": "2",
+      "pageNum": 39,
+      "answers": [
+        {
+          "text": "limiting the speed of the road vehicles",
+          "checked": true
+        },
+        {
+          "text": "designation of an obstacle on the",
+          "checked": false
+        },
+        {
+          "text": "driveway",
+          "checked": false
+        },
+        {
+          "text": "warning of areas where movement is prohibited",
+          "checked": false
+        }
+      ]
+    }
+  ]
+}

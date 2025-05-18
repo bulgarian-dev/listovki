@@ -1,0 +1,2068 @@
+{
+  "totalQuestions": 85,
+  "questions": [
+    {
+      "text": "The meaning of this road sign is:",
+      "index": "1/1",
+      "points": "2",
+      "image": "/images/topics/2/1.png",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "a priority road",
+          "checked": true
+        },
+        {
+          "text": "cross if the road is free",
+          "checked": false
+        },
+        {
+          "text": "give way to the road vehicles from the opposite traffic",
+          "checked": false
+        },
+        {
+          "text": "attention, a road junction",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the signs indicates that you are driving on a priority road?",
+      "index": "1/2",
+      "points": "2",
+      "pageNum": 1,
+      "answers": [
+        {
+          "image": "/images/topics/2/2.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/3.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/4.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/5.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the signs means \"End of the priority road”?",
+      "index": "2/1",
+      "points": "2",
+      "pageNum": 1,
+      "answers": [
+        {
+          "image": "/images/topics/2/6.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/7.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/8.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/9.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The number of a road, according to the international classification is designated with:",
+      "index": "3/1",
+      "points": "2",
+      "pageNum": 1,
+      "answers": [
+        {
+          "image": "/images/topics/2/10.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/11.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/12.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The number of a highway according to the national classification is designated with:",
+      "index": "3/2",
+      "points": "2",
+      "pageNum": 2,
+      "answers": [
+        {
+          "image": "/images/topics/2/13.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/14.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/15.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign indicates:",
+      "index": "4/1",
+      "points": "2",
+      "image": "/images/topics/2/16.png",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "that the use of the road requires a paid vignette fee",
+          "checked": true
+        },
+        {
+          "text": "two-way traffic after the sign",
+          "checked": false
+        },
+        {
+          "text": "automobile road",
+          "checked": false
+        },
+        {
+          "text": "the number of the road lanes in one direction",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the road sign indicates that:",
+      "index": "4/2",
+      "image": "/images/topics/2/17.png",
+      "points": "2",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "the use of the road requires a paid vignette fee",
+          "checked": true
+        },
+        {
+          "text": "the marking that separates the road lanes permits crossing",
+          "checked": false
+        },
+        {
+          "text": "both road lanes are designated for driving in one direction",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign indicates:",
+      "index": "4/3",
+      "points": "2",
+      "image": "/images/topics/2/18.png",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "the use of the road requires a paid vignette or TOLL fee",
+          "checked": true
+        },
+        {
+          "text": "two-way traffic after the sign",
+          "checked": false
+        },
+        {
+          "text": "automobile road",
+          "checked": false
+        },
+        {
+          "text": "the number of the road lanes in one direction",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign indicates:",
+      "index": "4/4",
+      "image": "/images/topics/2/19.png",
+      "points": "2",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "the use of the road requires a paid TOLL fee",
+          "checked": true
+        },
+        {
+          "text": "two-way traffic after the sign",
+          "checked": false
+        },
+        {
+          "text": "only straight traffic after the sign",
+          "checked": false
+        },
+        {
+          "text": "the number of the road lanes in one direction",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign indicates:",
+      "index": "4/5",
+      "points": "2",
+      "pageNum": 2,
+      "image": "/images/topics/2/20.png",
+      "answers": [
+        {
+          "text": "parking space for charging electric vehicles",
+          "checked": true
+        },
+        {
+          "text": "automobile road",
+          "checked": false
+        },
+        {
+          "text": "staying and parking are prohibited",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns of:",
+      "index": "4/6",
+      "points": "2",
+      "image": "/images/topics/2/21.png",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "reduced visibility",
+          "checked": true
+        },
+        {
+          "text": "a traffic accident has occurred",
+          "checked": false
+        },
+        {
+          "text": "possibility of strong crosswind",
+          "checked": false
+        },
+        {
+          "text": "traffic jam formed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns of:",
+      "index": "4/7",
+      "image": "/images/topics/2/22.png",
+      "points": "2",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "reduced visibility",
+          "checked": false
+        },
+        {
+          "text": "a traffic accident has occurred",
+          "checked": false
+        },
+        {
+          "text": "possibility of strong crosswind",
+          "checked": false
+        },
+        {
+          "text": "traffic jam formed",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns of:",
+      "index": "4/8",
+      "points": "2",
+      "image": "/images/topics/2/22-2.png",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "dangerous road banquet",
+          "checked": false
+        },
+        {
+          "text": "danger of slipping",
+          "checked": false
+        },
+        {
+          "text": "a traffic accident has occurred",
+          "checked": true
+        },
+        {
+          "text": "traffic jam formed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns about:",
+      "index": "5/1",
+      "points": "2",
+      "image": "/images/topics/2/23.png",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "a dangerous right turn",
+          "checked": true
+        },
+        {
+          "text": "the risk of a road vehicle turning right off the road",
+          "checked": false
+        },
+        {
+          "text": "a road junction, where you should mandatorily turn to the right",
+          "checked": false
+        },
+        {
+          "text": "a parking area by the road",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns about:",
+      "index": "5/2",
+      "points": "2",
+      "image": "/images/topics/2/24.png",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "a dangerous left turn",
+          "checked": true
+        },
+        {
+          "text": "the risk of a road vehicle leaving the off the road",
+          "checked": false
+        },
+        {
+          "text": "a road junction, where you should mandatorily turn to the left",
+          "checked": false
+        },
+        {
+          "text": "a dangerous slope of the road",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns about:",
+      "index": "6/1",
+      "points": "2",
+      "image": "/images/topics/2/25.png",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "series of dangerous curves, the first of which is to the left",
+          "checked": true
+        },
+        {
+          "text": "series of steep ascents and descents",
+          "checked": false
+        },
+        {
+          "text": "danger of slipping",
+          "checked": false
+        },
+        {
+          "text": "an obstacle that must be bypassed on the left",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns about:",
+      "index": "6/2",
+      "image": "/images/topics/2/26.png",
+      "points": "2",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "series of dangerous curves, the first of which is to the right",
+          "checked": true
+        },
+        {
+          "text": "series of steep ascents and descents",
+          "checked": false
+        },
+        {
+          "text": "danger of slipping",
+          "checked": false
+        },
+        {
+          "text": "an obstacle that must be bypassed on the right",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the road signs warns that you will enter a dangerous turn?",
+      "index": "7/1",
+      "points": "2",
+      "pageNum": 4,
+      "answers": [
+        {
+          "image": "/images/topics/2/27.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/28.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/29.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/30.png",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of the road signs warns that you will enter a dangerous turn?",
+      "index": "7/2",
+      "points": "2",
+      "pageNum": 4,
+      "answers": [
+        {
+          "image": "/images/topics/2/31.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/32.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/33.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/34.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the road signs warns that you will enter a dangerous turn?",
+      "index": "7/3",
+      "points": "2",
+      "pageNum": 4,
+      "answers": [
+        {
+          "image": "/images/topics/2/35.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/36.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/37.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/38.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the road signs warns that you will enter a dangerous turn?",
+      "index": "7/4",
+      "points": "2",
+      "pageNum": 4,
+      "answers": [
+        {
+          "image": "/images/topics/2/39.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/40.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/41.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/42.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "How does the vehicle stability change if, when entering a turn, the driver increases the speed?",
+      "index": "8/1",
+      "points": "2",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "it deteriorates",
+          "checked": true
+        },
+        {
+          "text": "it improves",
+          "checked": false
+        },
+        {
+          "text": "it does not change",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When entering a turn, the increase of the speed improves the stability of the vehicle.",
+      "index": "8/2",
+      "points": "2",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "incorrect",
+          "checked": true
+        },
+        {
+          "text": "correct",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When entering a turn, the increase of the speed deteriorates the stability of the vehicle.",
+      "index": "8/3",
+      "points": "2",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "correct",
+          "checked": true
+        },
+        {
+          "text": "incorrect",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When a vehicle makes a turn at a high speed, the most dangerous is:",
+      "index": "9/1",
+      "points": "2",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "the possible lateral sliding of the vehicle",
+          "checked": true
+        },
+        {
+          "text": "the accelerated improper wearing of the tire tread",
+          "checked": false
+        },
+        {
+          "text": "the accelerated wearing of the steering system",
+          "checked": false
+        },
+        {
+          "text": "the accelerated wearing of the suspension",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When a vehicle makes a turn, does the radius of the turn affect the stability of the vehicle?",
+      "index": "10/1",
+      "points": "2",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "How does the vehicle stability change, when making a turn with the turning radius reducing?",
+      "index": "10/2",
+      "points": "2",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "it deteriorates",
+          "checked": true
+        },
+        {
+          "text": "it improves",
+          "checked": false
+        },
+        {
+          "text": "it does not change",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns about:",
+      "index": "11/1",
+      "points": "2",
+      "image": "/images/topics/2/43.png",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "a dangerous roadside",
+          "checked": true
+        },
+        {
+          "text": "a slippery road section",
+          "checked": false
+        },
+        {
+          "text": "bumps on the road",
+          "checked": false
+        },
+        {
+          "text": "the way of parking",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign warns about a dangerous roadside?",
+      "index": "11/2",
+      "points": "2",
+      "pageNum": 6,
+      "answers": [
+        {
+          "image": "/images/topics/2/44.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/45.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/46.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/47.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns of approaching:",
+      "index": "12/1",
+      "points": "2",
+      "image":"/images/topics/2/48.png",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "a driveway, narrowed at both sides",
+          "checked": true
+        },
+        {
+          "text": "a bridge",
+          "checked": false
+        },
+        {
+          "text": "a tunnel",
+          "checked": false
+        },
+        {
+          "text": "a facility for emergency stop",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns about:",
+      "index": "12/2",
+      "points": "2",
+      "image": "/images/topics/2/49.png",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "narrowing of the driveway from the left",
+          "checked": true
+        },
+        {
+          "text": "change in the road slope",
+          "checked": false
+        },
+        {
+          "text": "insertion of a road lane on the left",
+          "checked": false
+        },
+        {
+          "text": "dangerous roadside on the left",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns about:",
+      "index": "12/3",
+      "image": "/images/topics/2/50.png",
+      "points": "2",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "narrowing of the driveway on the right",
+          "checked": true
+        },
+        {
+          "text": "dangerous roadside on the right",
+          "checked": false
+        },
+        {
+          "text": "roadside facility on the right",
+          "checked": false
+        },
+        {
+          "text": "reduction of the number of the road lanes",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign warns that the driveway is narrowed from the right?",
+      "index": "13/1",
+      "points": "2",
+      "pageNum": 6,
+      "answers": [
+        {
+          "image": "/images/topics/2/51.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/52.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/53.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/54.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign warns that the driveway is narrowed?",
+      "index": "13/2",
+      "points": "2",
+      "pageNum": 7,
+      "answers": [
+        {
+          "image": "/images/topics/2/55.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/56.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/57.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/58.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign warns that the driveway is narrowed?",
+      "index": "13/3",
+      "points": "2",
+      "pageNum": 7,
+      "answers": [
+        {
+          "image": "/images/topics/2/59.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/60.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/61.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/62.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign warns that the driveway becomes narrow?",
+      "index": "13/4",
+      "points": "2",
+      "pageNum": 7,
+      "answers": [
+        {
+          "image": "/images/topics/2/63.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/64.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/65.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/66.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign warns that the driveway becomes narrow?",
+      "index": "13/5",
+      "points": "2",
+      "pageNum": 7,
+      "answers": [
+        {
+          "image": "/images/topics/2/67.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/68.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/69.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/70.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The meaning of this road sign is:",
+      "index": "14/1",
+      "image": "/images/topics/2/71.png",
+      "points": "2",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "Attention! Other dangers",
+          "checked": true
+        },
+        {
+          "text": "Attention! Pedestrian crossing",
+          "checked": false
+        },
+        {
+          "text": "Attention! Stop!",
+          "checked": false
+        },
+        {
+          "text": "Attention! Children",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign warns about a steep slope in descending?",
+      "index": "15/1",
+      "points": "2",
+      "pageNum": 8,
+      "answers": [
+        {
+          "image": "/images/topics/2/72.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/73.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/74.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/75.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign warns about a steep slope in ascending?",
+      "index": "15/2",
+      "points": "2",
+      "pageNum": 8,
+      "answers": [
+        {
+          "image": "/images/topics/2/76.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/77.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/78.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/79.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign warns about a danger of slipping?",
+      "index": "16/1",
+      "points": "2",
+      "pageNum": 8,
+      "answers": [
+        {
+          "image": "/images/topics/2/80.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/81.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/82.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/83.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The additional outline with fluorescent yellow-green reflective background around the road sign, means that:",
+      "index": "17/1",
+      "image": "/images/topics/2/84.png",
+      "points": "2",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "the pedestrian crossing is located in a section of the road, where accidents often occur",
+          "checked": true
+        },
+        {
+          "text": "the pedestrian crossing is not illuminated",
+          "checked": false
+        },
+        {
+          "text": "after the pedestrian crossing there is a section of the road under repair",
+          "checked": false
+        },
+        {
+          "text": "there is an intensive traffic of pedestrians",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The additional outline with fluorescent yellow-green reflective background around the road sign, means that:",
+      "index": "17/2",
+      "points": "2",
+      "image": "/images/topics/2/85.png",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "in this section of the road accidents often occur",
+          "checked": true
+        },
+        {
+          "text": "the sign is valid only if the road is wet",
+          "checked": false
+        },
+        {
+          "text": "a section of the road under repair follows",
+          "checked": false
+        },
+        {
+          "text": "the restriction applies only for trucks",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the fluorescent yellow-green reflective background, where the road sign is placed on:",
+      "index": "17/3",
+      "image": "/images/topics/2/86.png",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "indicates that in this road section there is a concentration of accidents",
+          "checked": true
+        },
+        {
+          "text": "indicates that overtaking is prohibited",
+          "checked": false
+        },
+        {
+          "text": "indicates that the speed limit is observed only when making a turn",
+          "checked": false
+        },
+        {
+          "text": "indicates that follows a section of the road under repair",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign indicates:",
+      "index": "18/1",
+      "image": "/images/topics/2/87.png",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "that a section of the road with concentration of accidents follows",
+          "checked": true
+        },
+        {
+          "text": "that the road enters a tunnel",
+          "checked": false
+        },
+        {
+          "text": "for a danger of rocks fallen on the road",
+          "checked": false
+        },
+        {
+          "text": "for a section of the road under repair",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the road signs indicate that:",
+      "index": "18/2",
+      "image": "/images/topics/2/88.png",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "follows a section of the road with concentration of accidents",
+          "checked": true
+        },
+        {
+          "text": "follows a section of the road under repair",
+          "checked": false
+        },
+        {
+          "text": "there is a danger of rocks fallen on the road",
+          "checked": false
+        },
+        {
+          "text": "after the curve, the road enters a tunnel",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This sign warns about a possible danger of:",
+      "index": "19/1",
+      "image": "/images/topics/2/89.png",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "people working on the driveway or in the area of the road",
+          "checked": true
+        },
+        {
+          "text": "construction equipment on the driveway",
+          "checked": true
+        },
+        {
+          "text": "bumps on the driveway",
+          "checked": true
+        },
+        {
+          "text": "children playing on the driveway",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "After this road sign:",
+      "index": "19/2",
+      "image": "/images/topics/2/90.png",
+      "points": "2",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "on the driveway, there may be people working",
+          "checked": true
+        },
+        {
+          "text": "there are may be obstacles on the driveway",
+          "checked": true
+        },
+        {
+          "text": "the road is closed for traffic",
+          "checked": false
+        },
+        {
+          "text": "parking is prohibited",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "20/1",
+      "points": "2",
+      "image": "/images/topics/2/91.png",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "warns that follows a section of the road under repair",
+          "checked": true
+        },
+        {
+          "text": "prohibits the performing of repair works on the road",
+          "checked": false
+        },
+        {
+          "text": "indicates the place for loading and unloading operations on road",
+          "checked": false
+        },
+        {
+          "text": "indicates that in this road section there is a concentration of accidents",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "21/1",
+      "points": "2",
+      "image": "/images/topics/2/92.png",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "warns about the place where cyclists enter the road",
+          "checked": true
+        },
+        {
+          "text": "indicates for a section of the road on which traffic is prohibited for cyclists",
+          "checked": false
+        },
+        {
+          "text": "indicates the beginning of the cycle lane",
+          "checked": false
+        },
+        {
+          "text": "indicates the beginning of the path only for cyclists",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which sign warns about bumps on the driveway?",
+      "index": "22/1",
+      "points": "2",
+      "pageNum": 10,
+      "answers": [
+        {
+          "image": "/images/topics/2/93.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/94.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/95.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/96.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which sign warns about artificial bumps on the driveway?",
+      "index": "22/2",
+      "points": "2",
+      "pageNum": 10,
+      "answers": [
+        {
+          "image": "/images/topics/2/97.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/98.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/99.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/100.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "23/1",
+      "image": "/images/topics/2/101.png",
+      "points": "2",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "warns about a road junction with a non-priority road",
+          "checked": true
+        },
+        {
+          "text": "indicates that the next road junction must be crossed straight",
+          "checked": false
+        },
+        {
+          "text": "indicates the end of the priority road",
+          "checked": false
+        },
+        {
+          "text": "indicates the beginning of the priority road",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "23/2",
+      "image": "/images/topics/2/102.png",
+      "points": "2",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "warns about a road junction with a road on the right, which is a non-priority road",
+          "checked": true
+        },
+        {
+          "text": "indicates the directions for crossing the next road junction",
+          "checked": false
+        },
+        {
+          "text": "indicates a place for stopping by the road",
+          "checked": false
+        },
+        {
+          "text": "indicates the widening of the driveway",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "23/3",
+      "points": "2",
+      "image": "/images/topics/2/103.png",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "warns about a road junction with a road on the left, which is a non-priority road",
+          "checked": true
+        },
+        {
+          "text": "indicates the obligatory direction for crossing the next road junction",
+          "checked": false
+        },
+        {
+          "text": "indicates the crossing of equivalent roads",
+          "checked": false
+        },
+        {
+          "text": "indicates the place of stopping by the road",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road signs warn about a road junction with a road without the right of way?",
+      "index": "24/1",
+      "points": "2",
+      "pageNum": 11,
+      "answers": [
+        {
+          "image": "/images/topics/2/104.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/105.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/106.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/107.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road signs warn about a road junction with a road without the right of way?",
+      "index": "24/2",
+      "points": "2",
+      "pageNum": 11,
+      "answers": [
+        {
+          "image": "/images/topics/2/108.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/109.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/110.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/111.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign warns about a road junction with a non-priority road?",
+      "index": "24/3",
+      "points": "2",
+      "pageNum": 12,
+      "answers": [
+        {
+          "image": "/images/topics/2/112.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/113.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/114.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/115.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "25/1",
+      "points": "2",
+      "image": "/images/topics/2/116.png",
+      "pageNum": 12,
+      "answers": [
+        {
+          "text": "warns about a road junction roads with an equal right of way",
+          "checked": true
+        },
+        {
+          "text": "indicates the beginning of a road section in which the entry is prohibited",
+          "checked": false
+        },
+        {
+          "text": "indicates a road section on which staying and parking are prohibited",
+          "checked": false
+        },
+        {
+          "text": "indicates the end of the priority road",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign warns about approaching of a road junction of equivalent roads?",
+      "index": "25/2",
+      "points": "2",
+      "pageNum": 12,
+      "answers": [
+        {
+          "image": "/images/topics/2/117.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/118.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/119.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/120.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns about:",
+      "index": "26/1",
+      "points": "2",
+      "image": "/images/topics/2/121.png",
+      "pageNum": 12,
+      "answers": [
+        {
+          "text": "a road junction with a roundabout",
+          "checked": true
+        },
+        {
+          "text": "a place on which you should make a U-turn",
+          "checked": false
+        },
+        {
+          "text": "a section of the road on which it is prohibited to make a U-turn",
+          "checked": false
+        },
+        {
+          "text": "a driveway island",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign warns about approaching a road junction with a roundabout?",
+      "index": "26/2",
+      "points": "2",
+      "pageNum": 12,
+      "answers": [
+        {
+          "image": "/images/topics/2/122.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/123.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/124.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/125.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign warns about approaching a road junction?",
+      "index": "27/1",
+      "points": "2",
+      "pageNum": 13,
+      "answers": [
+        {
+          "image": "/images/topics/2/126.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/127.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/128.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/129.png",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which road sign warns about approaching a road junction?",
+      "index": "27/2",
+      "points": "2",
+      "pageNum": 13,
+      "answers": [
+        {
+          "image": "/images/topics/2/130.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/131.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/132.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/133.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign warns about approaching a road junction?",
+      "index": "27/3",
+      "points": "2",
+      "pageNum": 13,
+      "answers": [
+        {
+          "image": "/images/topics/2/134.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/135.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/136.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/137.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign warns about approaching a road junction?",
+      "index": "27/4",
+      "points": "2",
+      "pageNum": 13,
+      "answers": [
+        {
+          "image": "/images/topics/2/138.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/139.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/140.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/141.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "On the road, pedestrian crossings are:",
+      "index": "28/1",
+      "points": "2",
+      "pageNum": 13,
+      "answers": [
+        {
+          "text": "the extensions of the sidewalks and the roadsides on the driveway",
+          "checked": true
+        },
+        {
+          "text": "the places outlined with road markings where pedestrians cross the driveway",
+          "checked": true
+        },
+        {
+          "text": "the places indicated with a road sign where pedestrians cross",
+          "checked": true
+        },
+        {
+          "text": "the places indicated by road marking of the \"Zebra\" type only",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "At a road junction, the pedestrians are allowed to cross the driveway along the sidewalk:",
+      "index": "29/1",
+      "points": "2",
+      "image": "/images/topics/2/142.png",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "when the extension is outlined by a road marking",
+          "checked": true
+        },
+        {
+          "text": "when the extension is not outlined by a road marking",
+          "checked": true
+        },
+        {
+          "text": "only when it is indicated by a road sign",
+          "checked": false
+        },
+        {
+          "text": "only when the extension is outlined by a road marking of the \"Zebra\" type",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the pedestrian is crossing the driveway on the pedestrian crossing.",
+      "index": "30/1",
+      "image": "/images/topics/2/143.png",
+      "points": "2",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "correct",
+          "checked": true
+        },
+        {
+          "text": "incorrect",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When there are no pedestrian crossings in the proximity, the pedestrians are allowed to cross the driveway outside the designated areas:",
+      "index": "31/1",
+      "points": "2",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "on roads outside the populated areas",
+          "checked": true
+        },
+        {
+          "text": "on two-lane, two-way roads in populated areas",
+          "checked": true
+        },
+        {
+          "text": "on the road junctions of the highways",
+          "checked": false
+        },
+        {
+          "text": "on all roads open for public use",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "32/1",
+      "image": "/images/topics/2/144.png",
+      "points": "2",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "warns the drivers that they are approaching a pedestrian crossing",
+          "checked": true
+        },
+        {
+          "text": "indicates the exact location of the pedestrian crossing",
+          "checked": false
+        },
+        {
+          "text": "indicates the beginning of a road only for pedestrians",
+          "checked": false
+        },
+        {
+          "text": "warns about a road junction with intensive pedestrian traffic",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign warns that you are approaching a pedestrian crossing?",
+      "index": "33/1",
+      "points": "2",
+      "pageNum": 14,
+      "answers": [
+        {
+          "image": "/images/topics/2/145.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/146.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/147.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/148.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign warns that you are approaching a place where pedestrians cross the driveway?",
+      "index": "33/2",
+      "points": "2",
+      "pageNum": 15,
+      "answers": [
+        {
+          "image": "/images/topics/2/149.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/150.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/151.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/152.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "34/1",
+      "points": "2",
+      "image": "/images/topics/2/153.png",
+      "pageNum": 15,
+      "answers": [
+        {
+          "text": "indicates the exact location of the pedestrian crossing",
+          "checked": true
+        },
+        {
+          "text": "warns the drivers when approaching a pedestrian crossing",
+          "checked": false
+        },
+        {
+          "text": "indicates the beginning of a road only for pedestrians",
+          "checked": false
+        },
+        {
+          "text": "indicates the beginning of a pedestrian route",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign indicates the exact location of the pedestrian crossing?",
+      "index": "34/2",
+      "points": "2",
+      "pageNum": 15,
+      "answers": [
+        {
+          "image": "/images/topics/2/154.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/155.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/156.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/157.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns that you are approaching:",
+      "index": "35/1",
+      "points": "2",
+      "image": "/images/topics/2/158.png",
+      "pageNum": 15,
+      "answers": [
+        {
+          "text": "a railway crossing without barriers",
+          "checked": true
+        },
+        {
+          "text": "a railway overpass",
+          "checked": false
+        },
+        {
+          "text": "a railway station",
+          "checked": false
+        },
+        {
+          "text": "a railway crossing with automatic barriers",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road sign warns that you are approaching a railroad crossing without barriers?",
+      "index": "35/2",
+      "points": "2",
+      "pageNum": 15,
+      "answers": [
+        {
+          "image": "/images/topics/2/159.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/160.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/161.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/162.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign warns that you are approaching:",
+      "index": "36/1",
+      "points": "2",
+      "image": "/images/topics/2/163.png",
+      "pageNum": 16,
+      "answers": [
+        {
+          "text": "a railway crossing with barriers",
+          "checked": true
+        },
+        {
+          "text": "a swing bridge",
+          "checked": false
+        },
+        {
+          "text": "a tram line",
+          "checked": false
+        },
+        {
+          "text": "a road closed for public use",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the road signs warns that you are approaching a railway crossing with barriers?",
+      "index": "36/2",
+      "points": "2",
+      "pageNum": 16,
+      "answers": [
+        {
+          "image": "/images/topics/2/164.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/165.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/166.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/167.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road signs warn that you are approaching a railway crossing?",
+      "index": "37/1",
+      "points": "2",
+      "pageNum": 16,
+      "answers": [
+        {
+          "image": "/images/topics/2/168.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/169.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/170.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/171.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "38/1",
+      "image": "/images/topics/2/172.png",
+      "points": "2",
+      "pageNum": 16,
+      "answers": [
+        {
+          "text": "indicates that the railway crossing has two or more tracks",
+          "checked": true
+        },
+        {
+          "text": "prohibits the crossing without stopping",
+          "checked": false
+        },
+        {
+          "text": "indicates the location of mandatory stopping",
+          "checked": false
+        },
+        {
+          "text": "indicates that the railway crossing has a single track",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which road signs indicate that the railroad crossing has two or more tracks?",
+      "index": "38/2",
+      "points": "2",
+      "pageNum": 16,
+      "answers": [
+        {
+          "image": "/images/topics/2/173.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/174.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/175.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/176.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "39/1",
+      "image": "/images/topics/2/177.png",
+      "points": "2",
+      "pageNum": 17,
+      "answers": [
+        {
+          "text": "indicates that the railway crossing has a single track",
+          "checked": true
+        },
+        {
+          "text": "prohibits the entry opposite the sign",
+          "checked": false
+        },
+        {
+          "text": "warns about a road junction of roads with an equal right of way",
+          "checked": false
+        },
+        {
+          "text": "indicates that the railroad crossing has two or more tracks",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which sign indicates that the railway crossing has a single track?",
+      "index": "39/2",
+      "points": "2",
+      "pageNum": 17,
+      "answers": [
+        {
+          "image": "/images/topics/2/178.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/2/179.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/180.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/2/181.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "On this figure, “a” designates the road sign which indicates that the distance to the railway crossing is:",
+      "index": "40/3",
+      "points": "2",
+      "image": "/images/topics/2/182.png",
+      "pageNum": 17,
+      "answers": [
+        {
+          "text": "80 m",
+          "checked": true
+        },
+        {
+          "text": "160 m",
+          "checked": false
+        },
+        {
+          "text": "240 m",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "On this figure, “b” designates the road sign which indicates that the distance to the railway crossing is:",
+      "index": "40/3",
+      "points": "2",
+      "image": "/images/topics/2/183.png",
+      "pageNum": 17,
+      "answers": [
+        {
+          "text": "80 m",
+          "checked": false
+        },
+        {
+          "text": "160 m",
+          "checked": true
+        },
+        {
+          "text": "240 m",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "On this figure, “c” designates the road sign which indicates that the distance to the railway crossing is:",
+      "index": "40/3",
+      "points": "2",
+      "image": "/images/topics/2/184.png",
+      "pageNum": 17,
+      "answers": [
+        {
+          "text": "80 m",
+          "checked": false
+        },
+        {
+          "text": "160 m",
+          "checked": false
+        },
+        {
+          "text": "240 m",
+          "checked": true
+        }
+      ]
+    }
+  ]
+}

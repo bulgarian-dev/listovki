@@ -1,0 +1,276 @@
+{
+  "totalQuestions": 10,
+  "questions": [
+    {
+      "text": "Where is it prohibited to make a U-turn?",
+      "index": "1/10",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "On pedestrian road",
+          "checked": true
+        },
+        {
+          "text": "On railway crossroad",
+          "checked": true
+        },
+        {
+          "text": "In tunnel, on bridge, underpass, overpass, narrow places",
+          "checked": true
+        },
+        {
+          "text": "On a large, empty parking lot",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When is a U-turn prohibited due to visibility?",
+      "index": "2/10",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "When visibility is reduced under 50 meters",
+          "checked": true
+        },
+        {
+          "text": "In limited visibility",
+          "checked": true
+        },
+        {
+          "text": "During a heavy fog on a mountain road",
+          "checked": true
+        },
+        {
+          "text": "On a sunny day with full visibility",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Where is overtaking prohibited?",
+      "index": "3/10",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "On a railway crossroad without a barrier",
+          "checked": true
+        },
+        {
+          "text": "On pedestrian road",
+          "checked": true
+        },
+        {
+          "text": "At crossroads of equivalent roads",
+          "checked": true
+        },
+        {
+          "text": "On a highway with two lanes in each direction",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Why can overtaking be dangerous in limited visibility?",
+      "index": "4/10",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "You may not see oncoming traffic",
+          "checked": true
+        },
+        {
+          "text": "It’s harder to judge safe distance and speed",
+          "checked": true
+        },
+        {
+          "text": "You could endanger others without time to react",
+          "checked": true
+        },
+        {
+          "text": "Your car automatically speeds up",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What makes overtaking illegal regarding lane use?",
+      "index": "5/10",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "Using the lane of counter movement and being unable to return safely",
+          "checked": true
+        },
+        {
+          "text": "Driving completely in the opposite lane with oncoming traffic",
+          "checked": true
+        },
+        {
+          "text": "Trying to overtake near a bend with limited sight",
+          "checked": true
+        },
+        {
+          "text": "Overtaking a slow vehicle on a clear, straight road",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Where is parking and staying NOT allowed?",
+      "index": "6/10",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "On a marked parking spot with no signage",
+          "checked": false
+        },
+        {
+          "text": "After a pedestrian road",
+          "checked": false
+        },
+        {
+          "text": "Five meters before and after a cross road",
+          "checked": true
+        },
+        {
+          "text": "In a cross road",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Where is parking and staying NOT allowed?",
+      "index": "7/10",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "Where the vehicle obstructs or limits the visibility of signs",
+          "checked": true
+        },
+        {
+          "text": "When less than 3 meters from an uninterrupted line",
+          "checked": true
+        },
+        {
+          "text": "Five meters before a pedestrian road and on a pedestrian road",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Where is parking and staying allowed?",
+      "index": "8/10",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "Where the vehicle obstructs or limits the visibility of signs",
+          "checked": false
+        },
+        {
+          "text": "After a pedestrian road",
+          "checked": true
+        },
+        {
+          "text": "Five meters before a pedestrian road and on a pedestrian road",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What do the road signs B24 and B25 indicate?",
+      "index": "9/10",
+      "points": "1",
+      "image": "/images/topics/extra/1/1.png",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "Prohibition of overtaking",
+          "checked": true
+        },
+        {
+          "text": "You must not park or stay immediately after these signs",
+          "checked": true
+        },
+        {
+          "text": "They allow overtaking of emergency vehicles",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What does this road sign indicate?",
+      "index": "10/13",
+      "points": "1",
+      "image": "/images/topics/extra/1/2.png",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "Prohibition of both parking and staying",
+          "checked": true
+        },
+        {
+          "text": "Only stopping is prohibited",
+          "checked": false
+        },
+        {
+          "text": "Parking is allowed for up to 5 minutes",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What does this road sign indicate?",
+      "index": "11/13",
+      "points": "1",
+      "image": "/images/topics/extra/1/3.png",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "Only parking is prohibited, but stopping temporarily is allowed",
+          "checked": true
+        },
+        {
+          "text": "No entry for any vehicles",
+          "checked": false
+        },
+        {
+          "text": "Loading and unloading is prohibited",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following are prohibited on a highway?",
+      "index": "12/13",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "Staying, parking, or driving in the emergency lane",
+          "checked": true
+        },
+        {
+          "text": "Driving backward or making U-turns",
+          "checked": true
+        },
+        {
+          "text": "Entering while towing with a rope or flexible connection",
+          "checked": true
+        },
+        {
+          "text": "Driving with lights on during the day",
+          "checked": false
+        }
+      ]
+    }             
+  ]
+}

@@ -1,0 +1,2161 @@
+{
+  "totalQuestions": 96,
+  "questions": [
+    {
+      "text": "This sign:",
+      "index": "1/1",
+      "points": "2",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "designates a vehicle transporting an organized group of",
+          "checked": true
+        },
+        {
+          "text": "children",
+          "checked": false
+        },
+        {
+          "text": "warns about children on the",
+          "checked": false
+        },
+        {
+          "text": "road",
+          "checked": false
+        },
+        {
+          "text": "indicates the location of the school bus",
+          "checked": true
+        },
+        {
+          "text": "stop",
+          "checked": false
+        },
+        {
+          "text": "shows the children the place where to cross the",
+          "checked": false
+        },
+        {
+          "text": "driveway",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which sign designates a vehicle transporting an organized group of children?",
+      "index": "1/2",
+      "points": "2",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When transporting an organized group of children, the vehicle is designated with the following identification sign:",
+      "index": "2/1",
+      "points": "2",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "only at the front of the",
+          "checked": false
+        },
+        {
+          "text": "vehicle",
+          "checked": true
+        },
+        {
+          "text": "only at the rear of the",
+          "checked": true
+        },
+        {
+          "text": "vehicle",
+          "checked": true
+        },
+        {
+          "text": "both at the front and at the rear part of the vehicle",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "While approaching this bus, the driver must:",
+      "index": "3/1",
+      "points": "2",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "ensure the safety of the",
+          "checked": false
+        },
+        {
+          "text": "children",
+          "checked": false
+        },
+        {
+          "text": "stop, if",
+          "checked": false
+        },
+        {
+          "text": "necessary",
+          "checked": false
+        },
+        {
+          "text": "give a sound signal before passing by the",
+          "checked": false
+        },
+        {
+          "text": "bus",
+          "checked": false
+        },
+        {
+          "text": "move faster by the bus",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This identification sign is used to designate the following vehicles:",
+      "index": "4/1",
+      "points": "2",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "trucks with maximum permissible mass exceeding 3500",
+          "checked": true
+        },
+        {
+          "text": "kg and length of over 7 m",
+          "checked": false
+        },
+        {
+          "text": "all trucks",
+          "checked": false
+        },
+        {
+          "text": "trucks with maximum permissible mass exceeding 3500",
+          "checked": true
+        },
+        {
+          "text": "kg, no matter the length of the vehicle",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This identification sign is used to designate the following vehicles:",
+      "index": "4/2",
+      "points": "2",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "trucks with a maximum mass exceeding 3500 kg and a",
+          "checked": false
+        },
+        {
+          "text": "length of over 7 m",
+          "checked": true
+        },
+        {
+          "text": "trucks with maximum permissible mass exceeding 2500",
+          "checked": true
+        },
+        {
+          "text": "kg and length of over 5 m",
+          "checked": true
+        },
+        {
+          "text": "all trucks",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "For which of the indicated values of the maximum permissible mass, trucks longer than 7 m should be designated with this identification sign:",
+      "index": "4/3",
+      "points": "2",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of the identification signs are used for designation of trucks with a maximum mass exceeding 3500 kg and a length of over 7 m?",
+      "index": "5/1",
+      "points": "2",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of the identifying signs are used for designation of trucks with a maximum mass exceeding 3500 kg and a length of over 7 m?",
+      "index": "5/2",
+      "points": "2",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the identifying signs are used for designation of trucks with a maximum mass exceeding 3500 kg and a length of over 7 m?",
+      "index": "5/3",
+      "points": "2",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of the identifying signs are used for designation of trucks with a maximum mass exceeding 3500 kg and a length of over 7 m?",
+      "index": "5/4",
+      "points": "2",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "This identification sign designates:",
+      "index": "6/1",
+      "points": "2",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "trailers",
+          "checked": false
+        },
+        {
+          "text": "semi-trailers",
+          "checked": false
+        },
+        {
+          "text": "trucks with maximum permissible mass exceeding 3.5 tons",
+          "checked": true
+        },
+        {
+          "text": "trucks with maximum permissible mass exceeding 7.5 tons",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "This identification sign designates:",
+      "index": "6/2",
+      "points": "2",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "only trailers with mass exceeding 750 kg",
+          "checked": false
+        },
+        {
+          "text": "all trailers, regardless of their",
+          "checked": false
+        },
+        {
+          "text": "mass",
+          "checked": true
+        },
+        {
+          "text": "only trailers with two or more axes",
+          "checked": true
+        },
+        {
+          "text": "all trailers, regardless of the number of axes",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which vehicles are designated with this identification sign?",
+      "index": "6/3",
+      "points": "2",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "trailers with two or more axles",
+          "checked": false
+        },
+        {
+          "text": "single-axle trailers",
+          "checked": false
+        },
+        {
+          "text": "trucks",
+          "checked": true
+        },
+        {
+          "text": "combination of road vehicles when towing a damaged",
+          "checked": false
+        },
+        {
+          "text": "vehicle",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which identification signs are used for designating semi-trailers?",
+      "index": "7/2",
+      "points": "2",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        },
+        {
+          "text": "[Image 2]",
+          "isImage": true,
+          "checked": true
+        },
+        {
+          "text": "[Image 3]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which identification signs are used for designating trailers?",
+      "index": "7/3",
+      "points": "2",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which identification signs are used for designating trailers?",
+      "index": "7/4",
+      "points": "2",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "A “slow-moving” vehicle is a vehicle that cannot move at a speed higher than:",
+      "index": "8/1",
+      "points": "2",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "30 km/h",
+          "checked": true
+        },
+        {
+          "text": "40 km/h",
+          "checked": false
+        },
+        {
+          "text": "45 km/h",
+          "checked": false
+        },
+        {
+          "text": "50 km/h",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "This identification sign is used to designate:",
+      "index": "9/1",
+      "points": "2",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "slow-moving motor vehicles",
+          "checked": true
+        },
+        {
+          "text": "oversized motor vehicles",
+          "checked": false
+        },
+        {
+          "text": "motor vehicles carrying dangerous goods",
+          "checked": false
+        },
+        {
+          "text": "motor vehicles carrying bulk cargo",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of the identification signs is used for designating a slow-moving vehicle?",
+      "index": "9/2",
+      "points": "2",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "This identification sign designates:",
+      "index": "10/1",
+      "points": "2",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "motor vehicles carrying dangerous goods",
+          "checked": false
+        },
+        {
+          "text": "slow-moving motor vehicles",
+          "checked": false
+        },
+        {
+          "text": "motor vehicles with oversized load",
+          "checked": false
+        },
+        {
+          "text": "the special purpose vehicles",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which signs designate motor vehicles carrying dangerous goods?",
+      "index": "10/2",
+      "points": "2",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This sign prohibits the entry of:",
+      "index": "11/1",
+      "points": "2",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "road vehicles designated with an identification sign for",
+          "checked": false
+        },
+        {
+          "text": "dangerous goods",
+          "checked": false
+        },
+        {
+          "text": "oversized road vehicles",
+          "checked": true
+        },
+        {
+          "text": "trucks with trailers",
+          "checked": false
+        },
+        {
+          "text": "trucks with a mass exceeding 15 tons",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The road vehicle is oversized if:",
+      "index": "12/1",
+      "points": "2",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "Its width, including the load, is 2.8 m",
+          "checked": false
+        },
+        {
+          "text": "Its height, including the load, is 2.8",
+          "checked": true
+        },
+        {
+          "text": "m",
+          "checked": false
+        },
+        {
+          "text": "Its length, including the load, is 12 m",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The road vehicle is oversized if:",
+      "index": "12/3",
+      "points": "2",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "Its height, including the load, is 4.2",
+          "checked": true
+        },
+        {
+          "text": "m",
+          "checked": false
+        },
+        {
+          "text": "Its width, including the load, is 2.2",
+          "checked": false
+        },
+        {
+          "text": "m",
+          "checked": true
+        },
+        {
+          "text": "Its length, including the load, is 12 m",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The road vehicle is oversized if:",
+      "index": "12/4",
+      "points": "2",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "Its height, including the load, is 4.5 m",
+          "checked": false
+        },
+        {
+          "text": "Its height, including the load, is 4.8 m",
+          "checked": false
+        },
+        {
+          "text": "Its height, including the load, is 2.5 m",
+          "checked": true
+        },
+        {
+          "text": "Its height, including the load, is 3.5 m",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "For which of the heights listed below the vehicle considered as oversized:",
+      "index": "12/5",
+      "points": "2",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "height of 4.5 m",
+          "checked": true
+        },
+        {
+          "text": "height of 4.3 m",
+          "checked": false
+        },
+        {
+          "text": "height of 4.1 m",
+          "checked": true
+        },
+        {
+          "text": "height of 3.9 m",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The road vehicle is oversized if:",
+      "index": "12/6",
+      "points": "2",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "Its height, including the load, is 4.5",
+          "checked": false
+        },
+        {
+          "text": "m",
+          "checked": true
+        },
+        {
+          "text": "Its width, including the load, is 2.8",
+          "checked": true
+        },
+        {
+          "text": "m",
+          "checked": false
+        },
+        {
+          "text": "Its length, including the load, is 9 m",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, is there a danger for the children cyclists while driving past them?",
+      "index": "13/1",
+      "points": "2",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "yes, because the cyclists are children",
+          "checked": true
+        },
+        {
+          "text": "yes, because the cyclists are moving close to the middle of",
+          "checked": false
+        },
+        {
+          "text": "the driveway",
+          "checked": false
+        },
+        {
+          "text": "no, because the cyclists are in the neighbouring road",
+          "checked": false
+        },
+        {
+          "text": "lane",
+          "checked": false
+        },
+        {
+          "text": "no, because the cyclists can see me",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation:",
+      "index": "13/2",
+      "points": "2",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "I should be careful and cautious",
+          "checked": false
+        },
+        {
+          "text": "there is no danger because the cyclists are in the",
+          "checked": false
+        },
+        {
+          "text": "neighbouring road lane and they can see me",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following actions should be taken in this situation?",
+      "index": "13/3",
+      "points": "2",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "reduce speed",
+          "checked": true
+        },
+        {
+          "text": "drive with readiness to stop",
+          "checked": true
+        },
+        {
+          "text": "ensure sufficient lateral distance",
+          "checked": true
+        },
+        {
+          "text": "give a sound signal",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, in order to ensure the safety of the children cyclists, I must:",
+      "index": "13/4",
+      "points": "2",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "reduce the speed",
+          "checked": true
+        },
+        {
+          "text": "provide a sufficient lateral distance",
+          "checked": true
+        },
+        {
+          "text": "immediately stop",
+          "checked": false
+        },
+        {
+          "text": "give a sound signal",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, before I start the overtaking, I must give a sound signal.",
+      "index": "14/1",
+      "points": "2",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "incorrect",
+          "checked": true
+        },
+        {
+          "text": "correct",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation I must:",
+      "index": "14/2",
+      "points": "2",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "drive with readiness to stop",
+          "checked": true
+        },
+        {
+          "text": "be cautious to the behaviour of the",
+          "checked": true
+        },
+        {
+          "text": "cyclists",
+          "checked": true
+        },
+        {
+          "text": "ensure greater lateral distance while",
+          "checked": false
+        },
+        {
+          "text": "overtaking",
+          "checked": true
+        },
+        {
+          "text": "give a sound signal",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In this situation I must:",
+      "index": "14/3",
+      "points": "2",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "drive with readiness to stop",
+          "checked": false
+        },
+        {
+          "text": "be cautious to the behaviour of the cyclists",
+          "checked": true
+        },
+        {
+          "text": "give a sound signal in order to draw the attention of the",
+          "checked": true
+        },
+        {
+          "text": "cyclists",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the road vehicles listed below requires larger lateral distance to be ensured while overtaking?",
+      "index": "15/1",
+      "points": "2",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "the bicycle",
+          "checked": false
+        },
+        {
+          "text": "the moped",
+          "checked": false
+        },
+        {
+          "text": "the tractor",
+          "checked": false
+        },
+        {
+          "text": "the articulated bus",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The drivers of two-wheeled motor vehicles are more vulnerable than passenger car drivers because:",
+      "index": "16/1",
+      "points": "2",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "they easily lose their stability while driving",
+          "checked": true
+        },
+        {
+          "text": "they are not protected by the passenger car body",
+          "checked": true
+        },
+        {
+          "text": "it is more difficult to see them when they are in the \"blind spot\" of the passenger",
+          "checked": true
+        },
+        {
+          "text": "car",
+          "checked": false
+        },
+        {
+          "text": "they drive more slowly",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In this situation, while passing past the cart there is a danger:",
+      "index": "17/1",
+      "points": "2",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "if the cart suddenly changes its direction of movement",
+          "checked": true
+        },
+        {
+          "text": "due to frightening of the animal",
+          "checked": true
+        },
+        {
+          "text": "if another domestic animal accompanying the cart goes",
+          "checked": false
+        },
+        {
+          "text": "out on the driveway",
+          "checked": true
+        },
+        {
+          "text": "if the cart enters the driveway due to obstruction on the",
+          "checked": true
+        },
+        {
+          "text": "road side",
+          "checked": true
+        },
+        {
+          "text": "if impossible to overtake because of the speed at which it",
+          "checked": false
+        },
+        {
+          "text": "moves impedes the overtaking",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In this situation, while overtaking the cart there is a danger:",
+      "index": "17/2",
+      "points": "2",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "of loads falling in front of the passenger car",
+          "checked": true
+        },
+        {
+          "text": "if the cart suddenly changes its direction of movement",
+          "checked": false
+        },
+        {
+          "text": "due to frightening of the animal",
+          "checked": false
+        },
+        {
+          "text": "if another domestic animal accompanying the cart goes",
+          "checked": true
+        },
+        {
+          "text": "out on the driveway,",
+          "checked": true
+        },
+        {
+          "text": "if impossible to overtake",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Children under 12 years must get off a passenger car, which has stopped on the driveway, from:",
+      "index": "18/1",
+      "points": "2",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "the side of the sidewalk",
+          "checked": false
+        },
+        {
+          "text": "the side of the road side",
+          "checked": false
+        },
+        {
+          "text": "the side of the driver of the motor vehicle",
+          "checked": false
+        },
+        {
+          "text": "the side which is more convenient for the driver",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Children under 12 years must board a passenger car, which has stopped on the driveway, from:",
+      "index": "19/1",
+      "points": "2",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "the side of the sidewalk",
+          "checked": false
+        },
+        {
+          "text": "the side of the road side",
+          "checked": false
+        },
+        {
+          "text": "either side of the vehicle, if the child is accompanied by an adult",
+          "checked": false
+        },
+        {
+          "text": "the side of the driver of the motor vehicle",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the driver of the motor vehicle must give way to the pedestrian.",
+      "index": "20/1",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "correct",
+          "checked": true
+        },
+        {
+          "text": "incorrect",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In which of the following cases the driver of a non-rail road vehicle is obliged to give way to the pedestrians walking on the pedestrian crossing:",
+      "index": "21/1",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "if the crossing is outlined by dashed lines",
+          "checked": true
+        },
+        {
+          "text": "if the path is of the \"Zebra\" type only",
+          "checked": false
+        },
+        {
+          "text": "if the path is not outlined by road markings",
+          "checked": true
+        },
+        {
+          "text": "if the path is designated by a road sign only",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the pedestrian has the right of way.",
+      "index": "21/2",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "correct",
+          "checked": true
+        },
+        {
+          "text": "incorrect",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When is the driver of a non-rail road vehicle obliged to give way to the pedestrians walking on the pedestrian crossing?",
+      "index": "21/3",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "always",
+          "checked": true
+        },
+        {
+          "text": "only when the pedestrians have reached the middle of the",
+          "checked": false
+        },
+        {
+          "text": "driveway",
+          "checked": false
+        },
+        {
+          "text": "only when they are close to the car",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "How should you act in the following situation?",
+      "index": "22/1",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "I should give way to the pedestrian",
+          "checked": false
+        },
+        {
+          "text": "I may drive through, because the pedestrian has not",
+          "checked": false
+        },
+        {
+          "text": "reached the middle of the driveway",
+          "checked": true
+        },
+        {
+          "text": "I may drive through, because the pedestrian is in the",
+          "checked": false
+        },
+        {
+          "text": "neighbouring road lane",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is there any danger in this situation when the child is on the sidewalk?",
+      "index": "23/1",
+      "points": "2",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": false
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is there any danger in this situation?",
+      "index": "23/2",
+      "points": "2",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "yes, because the child is not looking at",
+          "checked": true
+        },
+        {
+          "text": "me",
+          "checked": true
+        },
+        {
+          "text": "yes, because the child may suddenly enter the",
+          "checked": false
+        },
+        {
+          "text": "driveway",
+          "checked": false
+        },
+        {
+          "text": "no, because the child is not looking at me and he will not",
+          "checked": true
+        },
+        {
+          "text": "enter the driveway",
+          "checked": false
+        },
+        {
+          "text": "no, because the child is on the sidewalk",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In this situation there is no any danger, because the child gets up on the sidewalk and leaves the driveway.",
+      "index": "24/1",
+      "points": "2",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "incorrect",
+          "checked": true
+        },
+        {
+          "text": "correct",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, are you obliged to consider the behavior of the children?",
+      "index": "25/1",
+      "points": "2",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "yes, because they are close to the driveway",
+          "checked": false
+        },
+        {
+          "text": "yes, because they are children",
+          "checked": true
+        },
+        {
+          "text": "no, because they are walking on the sidewalk",
+          "checked": false
+        },
+        {
+          "text": "no, because they can see me",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In this situation, if the children stand in the middle of the street, it is safe enough to drive behind them.",
+      "index": "26/1",
+      "points": "2",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "incorrect",
+          "checked": false
+        },
+        {
+          "text": "correct",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In this situation:",
+      "index": "27/1",
+      "points": "2",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "I drive on with readiness to stop",
+          "checked": true
+        },
+        {
+          "text": "I must stop and wait for the pedestrian to pass",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation I should:",
+      "index": "28/1",
+      "points": "2",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "reduce the speed",
+          "checked": false
+        },
+        {
+          "text": "drive on with readiness to stop",
+          "checked": false
+        },
+        {
+          "text": "give a signal of maneuver and drive around the pedestrian",
+          "checked": false
+        },
+        {
+          "text": "give a sound signal and drive on",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following actions will ensure greater safety for the children in this situation?",
+      "index": "29/1",
+      "points": "2",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "driving at a greater distance from them",
+          "checked": true
+        },
+        {
+          "text": "drive on with readiness to stop",
+          "checked": true
+        },
+        {
+          "text": "reduce the speed",
+          "checked": true
+        },
+        {
+          "text": "drive quickly past them",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This road sign:",
+      "index": "30/1",
+      "points": "2",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "warns about a danger of unexpected occurrence of",
+          "checked": true
+        },
+        {
+          "text": "children on the driveway",
+          "checked": false
+        },
+        {
+          "text": "indicates the beginning of the pedestrian crossing",
+          "checked": false
+        },
+        {
+          "text": "prohibits the movement of children on the road",
+          "checked": false
+        },
+        {
+          "text": "designates the exact place where children cross the",
+          "checked": true
+        },
+        {
+          "text": "driveway",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of these means of signalization indicates a danger of unexpected occurrence of children on the driveway?",
+      "index": "30/2",
+      "points": "2",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "After a traffic light signal allows the driver to drive through a pedestrian crossing, is the driver obliged to take into consideration the pedestrians on it?",
+      "index": "31/1",
+      "points": "2",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "yes, always",
+          "checked": false
+        },
+        {
+          "text": "yes, but only with those which give a hand signal",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, when the signal of the traffic- controller allows the driver of the car to drive through, is he obliged to take into consideration the pedestrians?",
+      "index": "32/1",
+      "points": "2",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": false
+        },
+        {
+          "text": "no",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "When the driver of a road vehicle should give a signal for his intention to make a sideward maneuver?",
+      "index": "33/1",
+      "points": "2",
+      "pageNum": 11,
+      "answers": [
+        {
+          "text": "always",
+          "checked": false
+        },
+        {
+          "text": "only if there is another road vehicle behind him",
+          "checked": true
+        },
+        {
+          "text": "in heavy traffic only",
+          "checked": false
+        },
+        {
+          "text": "in reduced visibility only",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Should the driver always give appropriate signals before setting off to join the traffic?",
+      "index": "33/2",
+      "points": "2",
+      "pageNum": 12,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The signal for maneuvers is given:",
+      "index": "34/1",
+      "points": "2",
+      "pageNum": 12,
+      "answers": [
+        {
+          "text": "before the maneuver",
+          "checked": true
+        },
+        {
+          "text": "with the start of the maneuver",
+          "checked": false
+        },
+        {
+          "text": "after starting the maneuver",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The short switching over of the lights, as an additional signal for making a maneuver, is:",
+      "index": "35/1",
+      "points": "2",
+      "pageNum": 12,
+      "answers": [
+        {
+          "text": "not allowed in the traffic in populated areas",
+          "checked": false
+        },
+        {
+          "text": "allowed outside of the populated areas",
+          "checked": true
+        },
+        {
+          "text": "allowed in road traffic",
+          "checked": true
+        },
+        {
+          "text": "not allowed in highway traffic",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The driver of a road vehicle should give a signal to the other road users:",
+      "index": "36/1",
+      "points": "2",
+      "pageNum": 12,
+      "answers": [
+        {
+          "text": "before making a turn at a road junction",
+          "checked": true
+        },
+        {
+          "text": "before leaving the road lane",
+          "checked": true
+        },
+        {
+          "text": "before joining the road traffic",
+          "checked": true
+        },
+        {
+          "text": "before abrupt reduction of the speed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If made by hand, the signal for stopping is:",
+      "index": "37/1",
+      "points": "2",
+      "pageNum": 12,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "If made by hand, the signal for movement to the right is:",
+      "index": "37/2",
+      "points": "2",
+      "pageNum": 12,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If made by hand, the signal for movement to the left is:",
+      "index": "37/3",
+      "points": "2",
+      "pageNum": 13,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "When starting off and merging with traffic from the right side of the road, the driver of the two-wheeled road vehicle should give the following hand signal:",
+      "index": "38/1",
+      "points": "2",
+      "pageNum": 13,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When starting off and merging with traffic from the left side of the road, the driver of the two-wheeled road vehicle should give the following hand signal:",
+      "index": "38/2",
+      "points": "2",
+      "pageNum": 13,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In case of stopping, the driver of the two-wheeled road vehicle should give the following hand signal:",
+      "index": "38/3",
+      "points": "2",
+      "pageNum": 13,
+      "answers": [
+        {
+          "text": "[Image 1]",
+          "isImage": true,
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "When the driver gives a hand signal for a maneuver, is it allowed to stop the signal before starting the maneuver?",
+      "index": "39/1",
+      "points": "2",
+      "pageNum": 13,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": false
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When the turn indicators are damaged, how should a signal be given before moving around with moving to the left?",
+      "index": "40/1",
+      "points": "2",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "with stretched sideward left hand",
+          "checked": true
+        },
+        {
+          "text": "with lifted vertically hand",
+          "checked": false
+        },
+        {
+          "text": "with stretched sideward right hand",
+          "checked": false
+        },
+        {
+          "text": "I am not obliged to give a signal",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "How must the driver give a signal for his intention to join the road traffic, if the turn indicator of the car is damaged?",
+      "index": "41/1",
+      "points": "2",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "he should give a hand signal",
+          "checked": true
+        },
+        {
+          "text": "he should give a sound signal",
+          "checked": false
+        },
+        {
+          "text": "he is not obliged to give a signal",
+          "checked": false
+        },
+        {
+          "text": "it is enough to switch over the lights",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When driving in a populated area, is it allowed to use a sound signal?",
+      "index": "42/1",
+      "points": "2",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "only when required for road traffic accident prevention",
+          "checked": true
+        },
+        {
+          "text": "while approaching a pedestrian crossing with pedestrians on it",
+          "checked": false
+        },
+        {
+          "text": "always",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "While driving outside a populated area it is allowed to use a sound signal:",
+      "index": "43/1",
+      "points": "2",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "for road traffic",
+          "checked": true
+        },
+        {
+          "text": "accident prevention",
+          "checked": true
+        },
+        {
+          "text": "at higher speeds",
+          "checked": false
+        },
+        {
+          "text": "no restrictions",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "While driving outside of populated area, the driver may use the sound signal:",
+      "index": "44/1",
+      "points": "2",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "to warn the road users about a possible",
+          "checked": true
+        },
+        {
+          "text": "danger",
+          "checked": true
+        },
+        {
+          "text": "as an additional signal, while performing a maneuver",
+          "checked": true
+        },
+        {
+          "text": "for road traffic accident prevention",
+          "checked": false
+        },
+        {
+          "text": "to give way",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The use of sound signal is allowed:",
+      "index": "45/1",
+      "points": "2",
+      "pageNum": 14,
+      "answers": [
+        {
+          "text": "outside of the populated area, as an additional signal for maneuver",
+          "checked": true
+        },
+        {
+          "text": "everywhere, to prevent road traffic accidents",
+          "checked": false
+        },
+        {
+          "text": "in populated area, as an additional signal for maneuver",
+          "checked": false
+        },
+        {
+          "text": "everywhere, without restrictions",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The signal for maneuver given with a turn indicator must be stopped:",
+      "index": "46/1",
+      "points": "2",
+      "pageNum": 15,
+      "answers": [
+        {
+          "text": "immediately after the maneuver",
+          "checked": true
+        },
+        {
+          "text": "immediately after the start of the maneuver",
+          "checked": false
+        },
+        {
+          "text": "during the maneuver",
+          "checked": false
+        },
+        {
+          "text": "immediately upon completion of the maneuver",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Does the signal given by the driver before the maneuver provide him right of way?",
+      "index": "47/1",
+      "points": "2",
+      "pageNum": 15,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": false
+        },
+        {
+          "text": "no",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Yellow flashing or blinking light is used to designate:",
+      "index": "48/1",
+      "points": "2",
+      "pageNum": 15,
+      "answers": [
+        {
+          "text": "a motor vehicle, which is an obstacle to the other motor vehicles",
+          "checked": true
+        },
+        {
+          "text": "a motor vehicle, which poses a threat to the road traffic",
+          "checked": true
+        },
+        {
+          "text": "motor vehicles with special regime of movement",
+          "checked": false
+        },
+        {
+          "text": "all special purpose vehicles",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "\"Emergency signal\" is:",
+      "index": "49/1",
+      "points": "2",
+      "pageNum": 15,
+      "answers": [
+        {
+          "text": "the simultaneous switching on of all direction",
+          "checked": true
+        },
+        {
+          "text": "Indicators",
+          "checked": false
+        },
+        {
+          "text": "switching between high and low beam",
+          "checked": false
+        },
+        {
+          "text": "the successive switching on and off of all lights",
+          "checked": false
+        },
+        {
+          "text": "the simultaneous switching on and off of the low-beam headlights and the",
+          "checked": true
+        },
+        {
+          "text": "sidelights",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The simultaneous switching on of all direction indicators is used for:",
+      "index": "50/1",
+      "points": "2",
+      "pageNum": 15,
+      "answers": [
+        {
+          "text": "warning of the road users about danger on the road",
+          "checked": false
+        },
+        {
+          "text": "designating the vehicles with special regime of",
+          "checked": false
+        },
+        {
+          "text": "movement",
+          "checked": true
+        },
+        {
+          "text": "designating a parked road vehicle",
+          "checked": true
+        },
+        {
+          "text": "warning the other road users about the undertaking of a maneuver",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Before making the maneuver the driver of the road vehicle should signal for it because:",
+      "index": "51/1",
+      "points": "2",
+      "pageNum": 15,
+      "answers": [
+        {
+          "text": "by the signal he warns the other road users of his intention",
+          "checked": false
+        },
+        {
+          "text": "he shows the other drivers in which direction he will continue the movement",
+          "checked": true
+        },
+        {
+          "text": "the signal relieves him from liability",
+          "checked": false
+        },
+        {
+          "text": "the signal gives him right of way",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is it allowed, while making of maneuver, to give an additional signal by a short turning-on of the lights?",
+      "index": "52/1",
+      "points": "2",
+      "pageNum": 15,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": false
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The driver of the motor vehicle may signal other road users by a short turning- on of the high-beam headlights:",
+      "index": "53/1",
+      "points": "2",
+      "pageNum": 16,
+      "answers": [
+        {
+          "text": "to warn them about a possible danger while making the maneuver",
+          "checked": true
+        },
+        {
+          "text": "to draw their attention during a maneuver",
+          "checked": true
+        },
+        {
+          "text": "to indicate that he will make a U-",
+          "checked": false
+        },
+        {
+          "text": "turn",
+          "checked": false
+        },
+        {
+          "text": "to show them that he has right of way",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "What must the driver do if the following stick signal is given?",
+      "index": "54/1",
+      "points": "2",
+      "pageNum": 16,
+      "answers": [
+        {
+          "text": "stop",
+          "checked": false
+        },
+        {
+          "text": "continue driving at lower speed",
+          "checked": false
+        },
+        {
+          "text": "he is not obliged to take this signal into consideration",
+          "checked": false
+        },
+        {
+          "text": "give an emergency signal",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "What is the pedestrian standing on the sidewalk with a stretched up arm or arm stretched across the road signaling?",
+      "index": "55/1",
+      "points": "2",
+      "pageNum": 16,
+      "answers": [
+        {
+          "text": "his intention to enter the driveway",
+          "checked": false
+        },
+        {
+          "text": "tells the driver that he will wait for the passing",
+          "checked": false
+        },
+        {
+          "text": "cars",
+          "checked": false
+        },
+        {
+          "text": "signals the other pedestrians that they may cross the",
+          "checked": true
+        },
+        {
+          "text": "driveway",
+          "checked": true
+        },
+        {
+          "text": "signals the other pedestrians that they may not cross the",
+          "checked": false
+        },
+        {
+          "text": "driveway",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "How do the pedestrians signal their intention to cross the driveway?",
+      "index": "56/1",
+      "points": "2",
+      "pageNum": 16,
+      "answers": [
+        {
+          "text": "with the arm stretched up",
+          "checked": true
+        },
+        {
+          "text": "with the arm stretched across the driveway",
+          "checked": false
+        },
+        {
+          "text": "with a circular motion of the",
+          "checked": false
+        },
+        {
+          "text": "arm",
+          "checked": false
+        },
+        {
+          "text": "the pedestrians have not the right to give signals",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When the pedestrian gives a signal with his arm for his intention to cross on a pedestrian crossing, the driver of the road vehicle:",
+      "index": "57/1",
+      "points": "2",
+      "pageNum": 16,
+      "answers": [
+        {
+          "text": "is obliged to give way to him without creating danger for the road",
+          "checked": false
+        },
+        {
+          "text": "traffic",
+          "checked": false
+        },
+        {
+          "text": "must immediately stop",
+          "checked": false
+        },
+        {
+          "text": "is not obliged to take him into consideration",
+          "checked": false
+        },
+        {
+          "text": "must give a signal to the pedestrian that he will give way to him",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In this situation, you should slow down and be prepared to stop because:",
+      "index": "58/1",
+      "points": "2",
+      "pageNum": 17,
+      "answers": [
+        {
+          "text": "the white car will turn left and join the traffic",
+          "checked": false
+        },
+        {
+          "text": "the vehicle in front of you is giving a right turn signal",
+          "checked": true
+        },
+        {
+          "text": "there are children on the roadway",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In this situation you should slow down and be prepared to stop because of:",
+      "index": "59/1",
+      "points": "2",
+      "pageNum": 17,
+      "answers": [
+        {
+          "text": "the white car parked on the right side",
+          "checked": false
+        },
+        {
+          "text": "the child",
+          "checked": true
+        },
+        {
+          "text": "the motorcycle",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What should you do in this situation?",
+      "index": "60/1",
+      "points": "2",
+      "pageNum": 17,
+      "answers": [
+        {
+          "text": "give a sound signal to the cyclist to let you pass by",
+          "checked": false
+        },
+        {
+          "text": "overtake the cyclist",
+          "checked": false
+        },
+        {
+          "text": "continue driving behind the cyclist",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In this situation, you should stop:",
+      "index": "61/1",
+      "points": "2",
+      "pageNum": 17,
+      "answers": [
+        {
+          "text": "because you do not have sufficient view of the road where you want to",
+          "checked": true
+        },
+        {
+          "text": "continue driving",
+          "checked": false
+        },
+        {
+          "text": "to wait for the white car to drive off",
+          "checked": true
+        },
+        {
+          "text": "to give way to the cyclist",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What should you do in this situation?",
+      "index": "62/1",
+      "points": "2",
+      "pageNum": 18,
+      "answers": [
+        {
+          "text": "wait for the cyclist to pass in order to provide enough side distance to him",
+          "checked": true
+        },
+        {
+          "text": "continue driving, reducing your speed",
+          "checked": false
+        },
+        {
+          "text": "continue driving without changing your speed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What should you do in this situation?",
+      "index": "63/1",
+      "points": "2",
+      "pageNum": 18,
+      "answers": [
+        {
+          "text": "keep on driving at low speed/slowly as there are no signs that a pedestrian is",
+          "checked": false
+        },
+        {
+          "text": "willing to cross along the pedestrian crossing",
+          "checked": false
+        },
+        {
+          "text": "stop because the child on the left sidewalk is about to step into the roadway",
+          "checked": true
+        },
+        {
+          "text": "stop because the running person approaching from the right will cross along",
+          "checked": true
+        },
+        {
+          "text": "the pedestrian crossing",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What should you do in this situation?",
+      "index": "64/1",
+      "points": "2",
+      "pageNum": 18,
+      "answers": [
+        {
+          "text": "overtake the blue car and move to the right lane",
+          "checked": false
+        },
+        {
+          "text": "slow down to prompt the vehicle behind you to maintain the required",
+          "checked": false
+        },
+        {
+          "text": "distance",
+          "checked": false
+        },
+        {
+          "text": "overtake the red car and move to the right lane",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "What should you do in this situation?",
+      "index": "65/1",
+      "points": "2",
+      "pageNum": 18,
+      "answers": [
+        {
+          "text": "continue driving without changing your speed",
+          "checked": false
+        },
+        {
+          "text": "move to the left",
+          "checked": false
+        },
+        {
+          "text": "slow down and stop if necessary",
+          "checked": false
+        }
+      ]
+    }
+  ]
+}

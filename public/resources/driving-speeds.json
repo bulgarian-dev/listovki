@@ -1,0 +1,28 @@
+{
+  "title": "Speed Limits in Bulgaria",
+  "description": "Maximum allowed speeds (km/h) for different vehicle categories and road types",
+  "headers": [
+    "Vehicle Category",
+    "Urban Areas",
+    "Outside Urban Areas",
+    "Highways",
+    "Expressways"
+  ],
+  "rows": [
+    ["Category A", "50 km/h", "80 km/h", "100 km/h", "90 km/h"],
+    ["Category B", "50 km/h", "90 km/h", "140 km/h", "120 km/h"],
+    ["Category C, D", "50 km/h", "80 km/h", "100 km/h", "90 km/h"],
+    ["Category BE, CE, DE", "50 km/h", "70 km/h", "100 km/h", "90 km/h"],
+    ["Category T", "50 km/h", "50 km/h", "-", "-"],
+    ["Category AM", "45 km/h", "45 km/h", "-", "-"],
+    ["Self-propelled Machines", "40 km/h", "40 km/h", "-", "-"],
+    ["When Towing", "40 km/h", "40 km/h", "70 km/h", "70 km/h"],
+    [
+      "When Transporting Dangerous Goods (ADR)",
+      "40 km/h",
+      "50 km/h",
+      "90 km/h",
+      "90 km/h"
+    ]
+  ]
+}
