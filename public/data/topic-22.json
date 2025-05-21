@@ -1,0 +1,282 @@
+{
+  "totalQuestions": 10,
+  "questions": [
+    {
+      "text": "Which of the identification signs are used for designation of trucks   with a maximum mass exceeding 3500 kg and a length of over 7 m?",
+      "index": "1/10",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "image": "/images/topics/extra/2/1.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/extra/2/2.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/extra/2/3.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/extra/2/4.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The interval of 2 seconds between the moving passenger cars is sufficient when:",
+      "index": "2/10",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "the visibility is limited",
+          "checked": false
+        },
+        {
+          "text": "the road is dry",
+          "checked": true
+        },
+        {
+          "text": "the visibility is reduced due to fog",
+          "checked": false
+        },
+        {
+          "text": "the road is wet",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Where in the roads outside the populated areas is the stay permitted?",
+      "index": "3/10",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "outside the driveway",
+          "checked": true
+        },
+        {
+          "text": "in the specially designated areas only",
+          "checked": false
+        },
+        {
+          "text": "it is allowed to stay at the rightmost of the roadway when the road side is not wide enough",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In this situation, the driver of a slow- moving road vehicle:",
+      "index": "4/10",
+      "image": "/images/topics/extra/2/5.png",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "may use the leftmost road lane while overtaking",
+          "checked": false
+        },
+        {
+          "text": "may use the middle road lane while bypassing",
+          "checked": true
+        },
+        {
+          "text": "may use the leftmost road lane while turning",
+          "checked": true
+        },
+        {
+          "text": "is obliged to use the rightmost road lane",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Parking is prohibited:",
+      "index": "5/10",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "on a section of the road slope",
+          "checked": false
+        },
+        {
+          "text": "on an overpass",
+          "checked": true
+        },
+        {
+          "text": "in a tunnel",
+          "checked": true
+        },
+        {
+          "text": "in a subway",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "When driving at night, which of the following can be used to designate cargo which extends forwards by more than 1 m from the frontmost part of the vehicle?",
+      "index": "6/10",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "red light",
+          "checked": false
+        },
+        {
+          "text": "red flag",
+          "checked": false
+        },
+        {
+          "text": "white light",
+          "checked": true
+        },
+        {
+          "text": "a white reflector",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Administrative offenses established at the time they are committed can be imposed with a fine ticket if:",
+      "index": "6/10",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "The offense is not punishable by a temporary decommissioning of the motor vehicle",
+          "checked": false
+        },
+        {
+          "text": "The offense is not punishable by deduction of control points",
+          "checked": true
+        },
+        {
+          "text": "The offense is not punishable by deprivation of the right to drive a motor vehicle",
+          "checked": true
+        },
+        {
+          "text": "The offense is not punishable by compulsory revocation of the motor vehicle’s registration",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If the tire pressure is lower than prescribed, the tire tread is worn out:",
+      "index": "7/10",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "unevenly, at certain places",
+          "checked": false
+        },
+        {
+          "text": "always on the right side in the direction of rotation",
+          "checked": false
+        },
+        {
+          "text": "in the middle of the tread, along the entire circumference",
+          "checked": false
+        },
+        {
+          "text": "at both edges, along the entire circumference",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "When towing an inoperative vehicle, it is prohibited:",
+      "index": "8/10",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "for the towing motor vehicle to have a category other than the category of the motor vehicle being towed",
+          "checked": false
+        },
+        {
+          "text": "to tow in reduced visibility below 50 m",
+          "checked": true
+        },
+        {
+          "text": "to transport passengers in the motor vehicle being towed",
+          "checked": true
+        },
+        {
+          "text": "to tow when the towing vehicle is with a trailer",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Two-wheel vehicle, with working volume of the engine up to 50 cm³ and constructive maximum speed over 45 km/h, belongs to:",
+      "index": "9/10",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "Category A",
+          "checked": true
+        },
+        {
+          "text": "Category B1",
+          "checked": false
+        },
+        {
+          "text": "Category AM",
+          "checked": false
+        },
+        {
+          "text": "Category B",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When driving on a highway, the driver is prohibited:",
+      "index": "10/10",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "to stop the vehicle for a stay or parking outside the places specially designated for this purpose",
+          "checked": true
+        },
+        {
+          "text": "to drive a vehicle with attached trailer",
+          "checked": false
+        },
+        {
+          "text": "to drive or to stop in the lane for emergency stopping, except in case of damage of the vehicle as well as in case of health problems of the driver or passengers in the vehicle",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "If the acceleration skid control (ASR) indicator stays lit while the engine is running, this means that:",
+      "index": "11/10",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "the brake pads are worn out",
+          "checked": false
+        },
+        {
+          "text": "the system is ready for use",
+          "checked": false
+        },
+        {
+          "text": "there is a technical problem in the system",
+          "checked": true
+        }
+      ]
+    }
+  ]
+}

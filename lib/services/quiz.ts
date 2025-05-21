@@ -22,6 +22,13 @@ export const topicsList: TopicInfo[] = [
     lastUpdated: "17.05.2025",
     questionsCount: 12,
   },
+  {
+    id: "22",
+    title: "[EXTRA] - Random ones from avtoizpit",
+    link: "https://avtoizpit.com/",
+    lastUpdated: "21.05.2025",
+    questionsCount: 12,
+  },
 ];
 
 
