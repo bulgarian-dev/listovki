@@ -65,7 +65,7 @@ export default function Home() {
               </div>
             </div>
             <h3 className="font-medium text-base sm:text-lg">
-              19 Topics (For now only 1 lol)
+              Multiple Topics (more soon)
             </h3>
             <p className="text-default-500 text-xs sm:text-sm mt-1">
               Comprehensive coverage of all official exam areas (category B)

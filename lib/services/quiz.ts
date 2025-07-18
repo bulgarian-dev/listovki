@@ -16,6 +16,13 @@ export const topicsList: TopicInfo[] = [
     questionsCount: 87,
   },
   {
+    id: "19",
+    title: "19 - GENERAL INFORMATION ABOUT THE MOTOR VEHICLE STRUCTURE",
+    link: "https://rta.government.bg/upload/10491/Category_1_Topic_19_01.06.2023+16_53_15_EN.pdf",
+    lastUpdated: "18.07.2025",
+    questionsCount: 50,
+  },
+  {
     id: "111",
     title: "[EXTRA] - Prohibitions",
     link: "",
@@ -30,7 +37,6 @@ export const topicsList: TopicInfo[] = [
     questionsCount: 12,
   },
 ];
-
 
 export async function getQuizData(topicId: string): Promise<QuizData> {
   try {

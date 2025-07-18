@@ -1,0 +1,1097 @@
+{
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "text": "The purpose of the clutch is:",
+      "index": "1/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "to disconnect the power transmission between the engine and the gearbox",
+          "checked": true
+        },
+        {
+          "text": "to act as a connection between the engine and the cardan transmission",
+          "checked": false
+        },
+        {
+          "text": "to connect the transmission elements with the frame",
+          "checked": false
+        },
+        {
+          "text": "to disconnect the link between the gearbox and the cardan transmission",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In the period 1 March–15 November, the minimum tread depth required for car tyres is:",
+      "index": "2/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "1,6 mm",
+          "checked": true
+        },
+        {
+          "text": "0,5 mm",
+          "checked": false
+        },
+        {
+          "text": "1,0 mm",
+          "checked": false
+        },
+        {
+          "text": "3,0 mm",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In the period 15 November–1 March, the minimum tread depth required for car tyres (that are not winter tires) is:",
+      "index": "2/2",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "4,0 mm",
+          "checked": true
+        },
+        {
+          "text": "0,5 mm",
+          "checked": false
+        },
+        {
+          "text": "1,0 mm",
+          "checked": false
+        },
+        {
+          "text": "3,0 mm",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If the tire pressure is higher than prescribed, the tire tread is worn out:",
+      "index": "3/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "unevenly, at certain places",
+          "checked": false
+        },
+        {
+          "text": "only on the outside of the tread",
+          "checked": false
+        },
+        {
+          "text": "in the middle of the tread, along the entire, circumference",
+          "checked": true
+        },
+        {
+          "text": "only on the inside of the tread",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If the tire pressure is lower than prescribed, the tire tread is worn out:",
+      "index": "4/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "at both edges, along the entire, circumference",
+          "checked": true
+        },
+        {
+          "text": "unevenly, at certain places",
+          "checked": false
+        },
+        {
+          "text": "in the middle of the tread, along the entire circumference",
+          "checked": false
+        },
+        {
+          "text": "always on the right side in the direction of rotation",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The difference between the dipped-beam and high-beam headlights of a motor vehicle is:",
+      "index": "5/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "in the range of illumination of the road",
+          "checked": true
+        },
+        {
+          "text": "in the position of the light source",
+          "checked": false
+        },
+        {
+          "text": "in the colour of the light",
+          "checked": false
+        },
+        {
+          "text": "in the size of the light source",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If the range of illumination of the road surface by the headlights is shorter, it is necessary:",
+      "index": "6/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "to adjust the headlights",
+          "checked": true
+        },
+        {
+          "text": "to replace the battery",
+          "checked": false
+        },
+        {
+          "text": "to replace the sources of light",
+          "checked": false
+        },
+        {
+          "text": "to check the vehicle suspension",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the faults listed below leads to sinking of the brake pedal?",
+      "index": "7/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "brake fluid leakage",
+          "checked": true
+        },
+        {
+          "text": "greasy brake pads",
+          "checked": false
+        },
+        {
+          "text": "high level of brake fluid",
+          "checked": false
+        },
+        {
+          "text": "high temperature of the brake fluid",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When driving down a slope, the frequent and continuous use of the brakes:",
+      "index": "8/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "deteriorates their efficiency",
+          "checked": true
+        },
+        {
+          "text": "improves their efficiency",
+          "checked": false
+        },
+        {
+          "text": "does not affect their efficiency",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The use of water as a coolant in the motor vehicle’s cooling system in winter conditions:",
+      "index": "9/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "is not recommended, because water turns into ice at temperature below 0º C.",
+          "checked": true
+        },
+        {
+          "text": "is not used, because boiling water evaporates",
+          "checked": false
+        },
+        {
+          "text": "is not used, because water causes corrosion of the cooling system",
+          "checked": false
+        },
+        {
+          "text": "is prohibited",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In case of hydraulic cooling system, the following may be used as coolant:",
+      "index": "10/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "water",
+          "checked": true
+        },
+        {
+          "text": "low freezing-point fluid (antifreeze)",
+          "checked": true
+        },
+        {
+          "text": "mixture of water and brake fluid",
+          "checked": false
+        },
+        {
+          "text": "low freezing-point fluid (antifreeze) diluted with alcohol",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Should the driver monitor the oil level in the engine’s crankcase?",
+      "index": "11/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The quantity of fluid in the cooling system is properly determined if the check of the fluid level is carried out:",
+      "index": "12/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "when the engine is cold",
+          "checked": true
+        },
+        {
+          "text": "irrespective of the engine temperature",
+          "checked": false
+        },
+        {
+          "text": "when the engine has been warmed up",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "How is the fluid level in the motor vehicle’s cooling system controlled?",
+      "index": "13/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "by monitoring the fluid level in the expansion tank",
+          "checked": true
+        },
+        {
+          "text": "depends on the type of the coolant",
+          "checked": false
+        },
+        {
+          "text": "the fluid level in the cooling system should not be monitored",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "May the excessive free play of the steering wheel cause uncontrolled change in the vehicle’s direction of movement?",
+      "index": "14/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "During driving, the excessive free play of the steering wheel causes:",
+      "index": "14/2",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "instability of the vehicle during movement in the straight direction",
+          "checked": true
+        },
+        {
+          "text": "intense wear and tear of the drive-wheel tires on one side",
+          "checked": false
+        },
+        {
+          "text": "difficult turning of the steering wheel",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The tire pressure should be measured:",
+      "index": "15/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "after the tires have been “warmed up” as a result of driving",
+          "checked": false
+        },
+        {
+          "text": "when the tire is cool",
+          "checked": true
+        },
+        {
+          "text": "irrespective of the temperature of the tire",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Lower levels of which of the fluids listed below may cause a road traffic accident?",
+      "index": "16/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "the brake fluid",
+          "checked": true
+        },
+        {
+          "text": "the coolant",
+          "checked": false
+        },
+        {
+          "text": "the transmission oil",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What distinguishes the winter tires from the summer tires?",
+      "index": "17/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "the air pressure",
+          "checked": false
+        },
+        {
+          "text": "the material of which the tread is made",
+          "checked": true
+        },
+        {
+          "text": "the tread pattern",
+          "checked": true
+        },
+        {
+          "text": "the colour",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "At negative temperatures of the ambient air, the tread of the summer tires:",
+      "index": "18/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "hardens and sharply reduces the traction between the tires and the road surface",
+          "checked": true
+        },
+        {
+          "text": "softens and is quickly worn out",
+          "checked": false
+        },
+        {
+          "text": "is not affected by temperature",
+          "checked": false
+        },
+        {
+          "text": "changes its colour",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If there is no snow during the winter, it is not necessary to use winter tires.",
+      "index": "19/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "true",
+          "checked": false
+        },
+        {
+          "text": "false",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The use of winter tires during the summer season causes:",
+      "index": "20/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "increase in fuel consumption",
+          "checked": true
+        },
+        {
+          "text": "faster wearing out of the tires",
+          "checked": true
+        },
+        {
+          "text": "reduction of fuel consumption",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If this symbol on the vehicle’s instrument panel stays lit during driving, this means that:",
+      "index": "21/1",
+      "image": "/images/topics/19/101.png",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "there is a malfunction in the anti-lock system",
+          "checked": true
+        },
+        {
+          "text": "the anti-lock braking system has been activated",
+          "checked": false
+        },
+        {
+          "text": "the brake pads are worn out",
+          "checked": false
+        },
+        {
+          "text": "the system is ready for use",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If this symbol on the vehicle’s instrument panel stays lit, this means that:",
+      "index": "22/1",
+      "image": "/images/topics/19/102.png",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "the battery is not being charged",
+          "checked": true
+        },
+        {
+          "text": "the lighting is inoperative",
+          "checked": false
+        },
+        {
+          "text": "faulty ignition system",
+          "checked": false
+        },
+        {
+          "text": "it is mandatory to replace the battery",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "This symbol on the vehicle’s instrument panel stays lit when the following is switched on:",
+      "index": "23/1",
+      "points": "1",
+      "image": "/images/topics/19/103.png",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "high-beam headlights",
+          "checked": true
+        },
+        {
+          "text": "hazard warning lights",
+          "checked": false
+        },
+        {
+          "text": "sidelights",
+          "checked": false
+        },
+        {
+          "text": "low-beam headlights",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If this symbol on the vehicle’s instrument panel stays lit, there is a danger of engine locking:",
+      "index": "24/1",
+      "points": "1",
+      "image": "/images/topics/19/104.png",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "true",
+          "checked": true
+        },
+        {
+          "text": "false",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If this symbol on the vehicle’s instrument panel stays lit, this means that:",
+      "index": "24/2",
+      "points": "1",
+      "image": "/images/topics/19/105.png",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "there is a danger of engine blocking",
+          "checked": true
+        },
+        {
+          "text": "the fuel consumption is increased",
+          "checked": false
+        },
+        {
+          "text": "oil is burnt rapidly in the engine’s crankcase",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What should the driver do if this symbol on the vehicle’ s instrument panel stays lit:",
+      "index": "25/1",
+      "points": "1",
+      "image": "/images/topics/19/106.png",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "stop in an appropriate place",
+          "checked": true
+        },
+        {
+          "text": "stop the engine",
+          "checked": true
+        },
+        {
+          "text": "continue driving at a lower gear",
+          "checked": false
+        },
+        {
+          "text": "continue driving at higher engine speed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If this symbol on the vehicle’s instrument panel stays lit, this means that:",
+      "index": "26/1",
+      "points": "1",
+      "image": "/images/topics/19/107.png",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "the parking brake has been applied",
+          "checked": true
+        },
+        {
+          "text": "the parking lights have been turned on",
+          "checked": false
+        },
+        {
+          "text": "the oil pressure in the engine is low",
+          "checked": false
+        },
+        {
+          "text": "the braking system is faulty",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the symbols on the vehicle’s instrument panel is lit if there is a risk of seriously damaging the engine if you do not stop driving?",
+      "index": "27/1",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "image": "/images/topics/19/1.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/19/2.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/19/3.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/19/4.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the symbols on the vehicle’s instrument panel is lit if there is a risk of seriously damaging the engine if you do not stop driving?",
+      "index": "27/2",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "image": "/images/topics/19/5.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/19/6.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/19/7.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/19/8.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the symbols on the vehicle’s instrument panel is lit if there is a risk of seriously damaging the engine if you do not stop driving?",
+      "index": "27/3",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "image": "/images/topics/19/9.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/19/10.png",
+          "checked": true
+        },
+        {
+          "image": "/images/topics/19/11.png",
+          "checked": false
+        },
+        {
+          "image": "/images/topics/19/12.png",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The check of the oil level in the engine crankcase is carried out while:",
+      "index": "28/1",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "the engine is not running",
+          "checked": true
+        },
+        {
+          "text": "the engine is running in medium load mode",
+          "checked": false
+        },
+        {
+          "text": "the engine is running, without load",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "During vehicle maintenance operations, danger is posed by:",
+      "index": "29/1",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "high voltage cables",
+          "checked": true
+        },
+        {
+          "text": "the cables supplying power to the headlights",
+          "checked": false
+        },
+        {
+          "text": "the cables supplying power to the stop lights",
+          "checked": false
+        },
+        {
+          "text": "the cables with black colour",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In order to prevent injuries caused by rotating parts, the vehicle fluid level checks are carried out while:",
+      "index": "30/1",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "the engine is not running",
+          "checked": true
+        },
+        {
+          "text": "the engine is running, but with no gears engaged",
+          "checked": false
+        },
+        {
+          "text": "the engine is running, but the fan is not spinning",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What should you take into consideration while opening the cap of the cooling system’s expansion tank while the engine is hot?",
+      "index": "31/1",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "the risk of being splashed by hot coolant",
+          "checked": true
+        },
+        {
+          "text": "the reduced quantity of coolant as a result of evaporation",
+          "checked": false
+        },
+        {
+          "text": "the reduction in the temperature of the coolant",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When operating a motor vehicle with an internal combustion engine in a closed room, the greatest danger is represented by:",
+      "index": "32/1",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "the exhaust gases from the internal combustion engine",
+          "checked": true
+        },
+        {
+          "text": "the noise",
+          "checked": false
+        },
+        {
+          "text": "the vibrations",
+          "checked": false
+        },
+        {
+          "text": "the petrol vapours released",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What do the norms Euro 1, Euro 2, Euro 3 mean?",
+      "index": "34/1",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "environmental requirements",
+          "checked": true
+        },
+        {
+          "text": "braking efficiency requirements",
+          "checked": false
+        },
+        {
+          "text": "vehicle comfort requirements",
+          "checked": false
+        },
+        {
+          "text": "aerodynamic requirements",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "How can motor vehicle drivers contribute to the reduction of the hazardous emissions from their vehicles?",
+      "index": "38/1",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "by driving economically",
+          "checked": true
+        },
+        {
+          "text": "by keeping the vehicle clean",
+          "checked": false
+        },
+        {
+          "text": "drivers cannot affect the quantity of hazardous emissions",
+          "checked": false
+        },
+        {
+          "text": "by driving at high seed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is the noise pollution caused by vehicles during their use harmful to humans?",
+      "index": "39/1",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "How does the vehicle’s speed affect the noise pollution?",
+      "index": "40/1",
+      "points": "1",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "increasing the speed, the noise is increasing",
+          "checked": true
+        },
+        {
+          "text": "increasing the speed, the noise is decreasing",
+          "checked": false
+        },
+        {
+          "text": "noise pollution does not depend on speed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The frequent use of brakes causes:",
+      "index": "41/1",
+      "points": "1",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "loss of energy",
+          "checked": true
+        },
+        {
+          "text": "increase of fuel consumption",
+          "checked": true
+        },
+        {
+          "text": "tire wear and tear",
+          "checked": true
+        },
+        {
+          "text": "faster wear and tear of the vehicle’s suspension",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The anti-lock braking system (ABS) prevents the locking of:",
+      "index": "42/1",
+      "points": "1",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "the vehicle’s wheels during braking",
+          "checked": true
+        },
+        {
+          "text": "the brake pedal",
+          "checked": false
+        },
+        {
+          "text": "the main brake cylinder piston",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "How does the anti-lock braking system (ABS) work?",
+      "index": "42/2",
+      "points": "1",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "it prevents the wheels from locking during emergency/abrupt braking",
+          "checked": true
+        },
+        {
+          "text": "it boosts the pressure in the (hydraulic or pneumatic) lines to the brake callipers",
+          "checked": false
+        },
+        {
+          "text": "it boosts the pressure of the brake pedal",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The anti-lock braking system (ABS) prevents the wheels from locking during abrupt braking.",
+      "index": "42/3",
+      "points": "1",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "true",
+          "checked": true
+        },
+        {
+          "text": "false",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The purpose of the anti-lock braking system (ABS) is:",
+      "index": "43/1",
+      "points": "1",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "to enhance the vehicle stability during braking",
+          "checked": true
+        },
+        {
+          "text": "to enhance the vehicle handling during braking",
+          "checked": true
+        },
+        {
+          "text": "to increase the pressure in the braking system",
+          "checked": false
+        },
+        {
+          "text": "to reduce the free play of the brake pedal",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In which case is the anti-lock braking system (ABS) most efficient?",
+      "index": "44/1",
+      "points": "1",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "when braking on a slippery road",
+          "checked": true
+        },
+        {
+          "text": "when braking on a dry road",
+          "checked": false
+        },
+        {
+          "text": "when the brake pads are worn out",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If the acceleration skid control (ASR) indicator stays lit while the engine is running, this means that:",
+      "index": "45/1",
+      "points": "1",
+      "image": "/images/topics/19/13.png",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "there is a technical problem in the system",
+          "checked": true
+        },
+        {
+          "text": "the brake pads are worn out",
+          "checked": false
+        },
+        {
+          "text": "the system is ready for use",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What is the effect of the operation of the Electronic Stability Programme (ESP)?",
+      "index": "46/1",
+      "points": "1",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "it maintains the direction of moving in case of abrupt manoeuvres",
+          "checked": true
+        },
+        {
+          "text": "it prevents the vehicle from moving off on a slope",
+          "checked": false
+        },
+        {
+          "text": "it prevents the vehicle from reaching high speed",
+          "checked": false
+        },
+        {
+          "text": "it maintains constant road speed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The Electronic Stability Programme (ESP) indicator on the instrument panel stays lit for a while when:",
+      "index": "47/1",
+      "points": "1",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "the system is activated",
+          "checked": true
+        },
+        {
+          "text": "the system is faulty",
+          "checked": false
+        },
+        {
+          "text": "the vehicle is stationary",
+          "checked": false
+        }
+      ]
+    }
+  ]
+}
