@@ -8,6 +8,7 @@ import { fontSans } from "@/config/fonts";
 import { Navbar } from "@/components/navbar";
 
 import { DiscordIcon } from "@/components/icons";
+import { MistakeTrainerProvider } from "./contexts/mistake-trainer-context";
 
 export const metadata = {
   title: "Listovkite",
@@ -41,7 +42,7 @@ export default function RootLayout({
           <div className="relative flex flex-col min-h-screen">
             <Navbar />
             <main className="container mx-auto max-w-7xl px-4 sm:px-6 flex-grow pt-16">
-              {children}
+              <MistakeTrainerProvider>{children}</MistakeTrainerProvider>
             </main>
             <footer className="w-full flex flex-col items-center justify-center py-4 gap-3">
               <div className="flex flex-col sm:flex-row items-center gap-2 sm:gap-3">

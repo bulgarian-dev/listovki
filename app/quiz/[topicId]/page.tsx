@@ -9,6 +9,8 @@ import { QuizData, Question, QuizResult, QuizSummary } from "@/types/quiz";
 import { motion } from "framer-motion";
 import Image from "next/image";
 import { useQuizHistory } from "@/app/contexts/history-context";
+import { useMistakeTrainer } from "@/app/contexts/mistake-trainer-context";
+import { getMistakeTrainerData } from "@/lib/services/quiz";
 
 const Checkbox = ({
   checked,
@@ -63,6 +65,8 @@ export default function QuizPage() {
   const [showFinishConfirm, setShowFinishConfirm] = useState(false);
   const [showCorrectCount, setShowCorrectCount] = useState(true);
   const [randomizeAnswers, setRandomizeAnswers] = useState(false);
+  const { addMistakeQuestion, updateQuestionResult, getMistakeTrainerQuiz } =
+    useMistakeTrainer();
 
   useEffect(() => {
     const handleKeyDown = (event: KeyboardEvent) => {
@@ -100,7 +104,13 @@ export default function QuizPage() {
     const fetchData = async () => {
       try {
         setLoading(true);
-        const data = await getQuizData(topicId);
+        let data: QuizData;
+        if (topicId === "mistake-trainer") {
+          const mistakeTrainerData = getMistakeTrainerQuiz();
+          data = getMistakeTrainerData(mistakeTrainerData.questions);
+        } else {
+          data = await getQuizData(topicId);
+        }
         setQuizData(data);
         setUserAnswers(
           data.questions.map((question) =>
@@ -179,8 +189,16 @@ export default function QuizPage() {
         } else if (isCorrect) {
           correctCount++;
           earnedPoints += points;
+          if (topicId === "mistake-trainer") {
+            updateQuestionResult(question.index, true);
+          }
         } else {
           incorrectCount++;
+          if (topicId === "mistake-trainer") {
+            updateQuestionResult(question.index, false);
+          } else {
+            addMistakeQuestion(question, topicId, topicName);
+          }
         }
 
         return {

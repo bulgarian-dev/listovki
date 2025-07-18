@@ -1,4 +1,4 @@
-import { QuizData, TopicInfo } from "@/types/quiz";
+import { QuizData, TopicInfo, Question } from "@/types/quiz";
 
 export const topicsList: TopicInfo[] = [
   {
@@ -43,7 +43,21 @@ export const topicsList: TopicInfo[] = [
     lastUpdated: "21.05.2025",
     questionsCount: 12,
   },
+  {
+    id: "mistake-trainer",
+    title: "Mistake Trainer",
+    questionsCount: 0,
+    lastUpdated: "Always",
+    link: "#",
+  },
 ];
+
+export const getMistakeTrainerData = (questions: Question[]): QuizData => {
+  return {
+    questions,
+    totalQuestions: questions.length,
+  };
+};
 
 export async function getQuizData(topicId: string): Promise<QuizData> {
   try {

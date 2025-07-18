@@ -7,6 +7,8 @@ import { Card, CardBody } from "@heroui/card";
 import { getQuizData, getTopic } from "@/lib/services/quiz";
 import { QuizData, Question } from "@/types/quiz";
 import Image from "next/image";
+import { useMistakeTrainer } from "@/app/contexts/mistake-trainer-context";
+import { getMistakeTrainerData } from "@/lib/services/quiz";
 
 export default function QuizPreviewPage() {
   const params = useParams();
@@ -18,6 +20,8 @@ export default function QuizPreviewPage() {
   const [error, setError] = useState<string | null>(null);
   const [showRightAnswers, setShowRightAnswers] = useState(false);
   const [topicName, setTopicName] = useState("");
+    const { addMistakeQuestion, updateQuestionResult, getMistakeTrainerQuiz } =
+      useMistakeTrainer();
 
   useEffect(() => {
     const topic = getTopic(topicId);
@@ -26,7 +30,13 @@ export default function QuizPreviewPage() {
     const fetchData = async () => {
       try {
         setLoading(true);
-        const data = await getQuizData(topicId);
+        let data;
+        if (topicId === "mistake-trainer") {
+          const mistakeTrainerData = getMistakeTrainerQuiz();
+          data = getMistakeTrainerData(mistakeTrainerData.questions);
+        } else {
+          data = await getQuizData(topicId);
+        }
         setQuizData(data);
         setLoading(false);
       } catch (err) {
