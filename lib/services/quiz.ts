@@ -16,6 +16,14 @@ export const topicsList: TopicInfo[] = [
     questionsCount: 87,
   },
   {
+    id: "15",
+    title:
+      "15 - IMPORTANCE OF THE PSYCHO-MOTOR FUNCTIONS, DRIVER’S ALERTNESS AND AWARENESS OF OTHER ROAD USERS’ ACTIONS FOR TRAFFIC SAFETY",
+    link: "https://rta.government.bg/upload/10487/Category_1_Topic_15_01.06.2023+16_51_38_EN.pdf",
+    lastUpdated: "18.07.2025",
+    questionsCount: 46,
+  },
+  {
     id: "16",
     title: "16 - DRIVER’S OBLIGATIONS",
     link: "https://rta.government.bg/upload/10488/Category_1_Topic_16_01.06.2023+16_52_16_EN.pdf",

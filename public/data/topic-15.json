@@ -1,0 +1,985 @@
+{
+  "totalQuestions": 44,
+  "questions": [
+    {
+      "text": "The speed at which the driver is driving usually seems to the driver to be lower than the actual speed, when:",
+      "index": "1/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "driving up a highly sloped road",
+          "checked": false
+        },
+        {
+          "text": "driving on a road with large width and many road lanes",
+          "checked": true
+        },
+        {
+          "text": "driving on a narrow two-lane road",
+          "checked": false
+        },
+        {
+          "text": "driving on a road with many successive turns",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "While driving the vehicle, there is a risk of loss of concentration when:",
+      "index": "2/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "using a mobile phone",
+          "checked": true
+        },
+        {
+          "text": "using the windscreen wipers",
+          "checked": false
+        },
+        {
+          "text": "looking in the side mirror",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Does the driver reaction time in case of emergency stop affect the braking distance of the vehicle?",
+      "index": "3/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The consumption of even small quantities of alcohol causes the driver reaction time:",
+      "index": "4/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "to increase",
+          "checked": true
+        },
+        {
+          "text": "to decrease",
+          "checked": false
+        },
+        {
+          "text": "it is not affected by alcohol",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The consumption of even small quantities of alcohol:",
+      "index": "5/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "increases the risk of road traffic accidents",
+          "checked": true
+        },
+        {
+          "text": "deteriorates the ability to accurately assess the speed",
+          "checked": true
+        },
+        {
+          "text": "has a calming effect on the driver",
+          "checked": false
+        },
+        {
+          "text": "makes the driver more cautious while driving the vehicle",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When driving the vehicle while under the effect of alcohol:",
+      "index": "6/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "there is a risk of the driver losing control of the vehicle",
+          "checked": true
+        },
+        {
+          "text": "the risk of involvement in road traffic accidents increases",
+          "checked": true
+        },
+        {
+          "text": "the driver has faster reactions",
+          "checked": false
+        },
+        {
+          "text": "the driver pays more attention to the dangers on the road",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When driving the vehicle while under the effect of alcohol, the driver:",
+      "index": "7/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "cannot make a realistic assessment of the speed",
+          "checked": true
+        },
+        {
+          "text": "has slower reactions",
+          "checked": true
+        },
+        {
+          "text": "has faster reactions",
+          "checked": false
+        },
+        {
+          "text": "is more concentrated",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What is the effect of the alcohol on the behaviour of the motor vehicle driver?",
+      "index": "8/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "deteriorates the ability to accurately assess the speed",
+          "checked": true
+        },
+        {
+          "text": "reduces the concentration",
+          "checked": true
+        },
+        {
+          "text": "improves the coordination of movements",
+          "checked": false
+        },
+        {
+          "text": "slows down the reactions",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "What is the effect of the alcohol on the behaviour of the driver?",
+      "index": "8/2",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "slows down the reactions",
+          "checked": true
+        },
+        {
+          "text": "reduces the concentration",
+          "checked": true
+        },
+        {
+          "text": "improves the coordination of movements",
+          "checked": false
+        },
+        {
+          "text": "reduces the confidence",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What is the effect of the alcohol on the behaviour of the driver?",
+      "index": "8/3",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "deteriorates the coordination of movements",
+          "checked": true
+        },
+        {
+          "text": "increases the reaction time",
+          "checked": true
+        },
+        {
+          "text": "improves the coordination",
+          "checked": false
+        },
+        {
+          "text": "reduces the reaction time",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What is the effect of the alcohol on the behaviour of the motor vehicle driver?",
+      "index": "8/4",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "deteriorates the coordination of movements",
+          "checked": true
+        },
+        {
+          "text": "reduces the concentration",
+          "checked": true
+        },
+        {
+          "text": "speeds up the reactions",
+          "checked": false
+        },
+        {
+          "text": "heightens the alertness",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What is the effect of the alcohol on the behaviour of the driver?",
+      "index": "8/5",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "reduces the concentration",
+          "checked": true
+        },
+        {
+          "text": "deteriorates the ability to accurately assess the speed",
+          "checked": true
+        },
+        {
+          "text": "improves the coordination",
+          "checked": false
+        },
+        {
+          "text": "reduces the reaction time",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The minimum time required by the organism to clear the blood of 0,5 ppm alcohol is:",
+      "index": "9/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "from 1 to 2 hours",
+          "checked": false
+        },
+        {
+          "text": "from 2 to 3 hours",
+          "checked": false
+        },
+        {
+          "text": "not less than 4 hours",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Does the use of energy drinks (strong doses of coffee or tea) speed up the decomposition of alcohol in the driver’s blood?",
+      "index": "10/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": false
+        },
+        {
+          "text": "no",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "If, after a long period of driving, the driver feels tired and feels that he/she may fall asleep behind the steering wheel, the driver must:",
+      "index": "11/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "stop for a rest",
+          "checked": true
+        },
+        {
+          "text": "consume energy drinks – tea or coffee",
+          "checked": false
+        },
+        {
+          "text": "increase the speed in order to concentrate his/her attention",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The most efficient way to reduce fatigue in case of driving a motor vehicle for a long time is:",
+      "index": "12/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "listening to appropriate music",
+          "checked": false
+        },
+        {
+          "text": "the consumption of energy drinks",
+          "checked": false
+        },
+        {
+          "text": "stopping for a rest",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "How often must the driver stop for a rest in case of driving for a long time?",
+      "index": "13/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "every 4 hours",
+          "checked": false
+        },
+        {
+          "text": "the rest during stops for the consumption of food is enough",
+          "checked": false
+        },
+        {
+          "text": "always when fatigue is felt",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The consumption of various refreshing drinks, e.g. strong coffee or tea, has a long-term refreshing effect on the driver.",
+      "index": "14/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "correct",
+          "checked": false
+        },
+        {
+          "text": "incorrect",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "What is the effect of the consumption of large quantities of energy drinks – coffee or tea, for overcoming the driver’s fatigue?",
+      "index": "15/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "has a short-term refreshing effect",
+          "checked": true
+        },
+        {
+          "text": "may cause nervous tension",
+          "checked": true
+        },
+        {
+          "text": "allows the driver to drive for a long period of time without feeling any fatigue",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If the diver feels tired during driving, until a safe place to stop is found, it would be appropriate:",
+      "index": "16/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "to ensure a flow of fresh air into the interior of the vehicle",
+          "checked": true
+        },
+        {
+          "text": "to talk with the passengers in the vehicle",
+          "checked": true
+        },
+        {
+          "text": "to increase the speed in order to find a place to stop sooner",
+          "checked": false
+        },
+        {
+          "text": "to change gears all the time in order to improve his/her concentration",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If the diver feels tired during driving, it would be most appropriate to do the following, until a safe place to stop is found:",
+      "index": "16/2",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "ensure a flow of fresh air into the interior of the vehicle",
+          "checked": true
+        },
+        {
+          "text": "choose the speed of driving carefully",
+          "checked": true
+        },
+        {
+          "text": "talk with the passengers in the vehicle",
+          "checked": true
+        },
+        {
+          "text": "change gears all the time in order to improve his/her concentration",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What does driver’s foresight mean?",
+      "index": "17/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "foreseeing the possible road traffic dangers",
+          "checked": true
+        },
+        {
+          "text": "taking in due time steps not to get involved in emergency situations",
+          "checked": true
+        },
+        {
+          "text": "maintaining high average road speed",
+          "checked": false
+        },
+        {
+          "text": "driving at low speed all the time",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Possible causes of distraction of the driver’s attention during driving are:",
+      "index": "18/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "reading road signs",
+          "checked": true
+        },
+        {
+          "text": "performing actions not related to driving",
+          "checked": true
+        },
+        {
+          "text": "talking on a mobile phone",
+          "checked": true
+        },
+        {
+          "text": "fast vehicles passing past",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In which cases the driver must drive with increased concentration of the attention?",
+      "index": "19/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "in intensive traffic during rain",
+          "checked": true
+        },
+        {
+          "text": "with strong side wind",
+          "checked": true
+        },
+        {
+          "text": "during snowfall",
+          "checked": true
+        },
+        {
+          "text": "when driving on a dry road",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The difficulties faced by the driver while driving at night are caused by:",
+      "index": "20/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "the lower physiological activity of the driver",
+          "checked": true
+        },
+        {
+          "text": "reduced visibility",
+          "checked": true
+        },
+        {
+          "text": "reduced traffic intensity",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "At which part of the day is the vision sharpness of humans considerably reduced?",
+      "index": "21/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "during daytime",
+          "checked": false
+        },
+        {
+          "text": "when it is dark",
+          "checked": true
+        },
+        {
+          "text": "the sharpness of vision does not change during the twenty-four-hour period",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Does the driver’s age affect the ability to see at night?",
+      "index": "22/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "yes, for drivers of up to 30 years old",
+          "checked": false
+        },
+        {
+          "text": "yes, for drivers of over 50 years old",
+          "checked": true
+        },
+        {
+          "text": "age is of no importance",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which drivers accommodate to darkness faster after driving through an illuminated tunnel at night?",
+      "index": "23/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "younger drivers",
+          "checked": true
+        },
+        {
+          "text": "older drivers",
+          "checked": false
+        },
+        {
+          "text": "the time for accommodation to darkness is the same for all drivers",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Why should the driver not look directly at the headlamps of the oncoming vehicles at night?",
+      "index": "24/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "because this will cause eye pain",
+          "checked": false
+        },
+        {
+          "text": "because the driver will not see well during the period of adaptation",
+          "checked": true
+        },
+        {
+          "text": "because there is a danger to the driver’s eyesight",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "During which part of the day can the driver better distinguish colours?",
+      "index": "25/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "at daytime",
+          "checked": true
+        },
+        {
+          "text": "at night, in the light of the headlamps",
+          "checked": false
+        },
+        {
+          "text": "at dusk",
+          "checked": false
+        },
+        {
+          "text": "at night, in good street illumination",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The listening to loud music for a long period of time during driving:",
+      "index": "26/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "stimulates the ability to concentrate",
+          "checked": false
+        },
+        {
+          "text": "reduces the ability to concentrate",
+          "checked": true
+        },
+        {
+          "text": "trains and improves the hearing ability",
+          "checked": false
+        },
+        {
+          "text": "calms the driver",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The good physical condition:",
+      "index": "27/1",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "stimulates the thinking activity",
+          "checked": true
+        },
+        {
+          "text": "helps to enhance concentration when driving the motor vehicle",
+          "checked": true
+        },
+        {
+          "text": "does not affect the thinking activity",
+          "checked": false
+        },
+        {
+          "text": "reduces the ability to concentrate",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The warning signs of driver fatigue are:",
+      "index": "28/1",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "reduced alertness",
+          "checked": true
+        },
+        {
+          "text": "reduced attention stability",
+          "checked": true
+        },
+        {
+          "text": "improved concentration of attention",
+          "checked": false
+        },
+        {
+          "text": "information processing problems",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The warning signs of driver fatigue are:",
+      "index": "28/2",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "reduced alertness",
+          "checked": true
+        },
+        {
+          "text": "improved attention stability",
+          "checked": false
+        },
+        {
+          "text": "disorders of sensomotor coordination",
+          "checked": true
+        },
+        {
+          "text": "short-term memory problems",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The warning signs of driver fatigue are:",
+      "index": "28/3",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "distraction",
+          "checked": true
+        },
+        {
+          "text": "reduced volume of the perceived objects of the road environment",
+          "checked": true
+        },
+        {
+          "text": "reduced accuracy of perception of the objects of the road environment",
+          "checked": true
+        },
+        {
+          "text": "accurate reactions",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The warning signs of driver fatigue are:",
+      "index": "28/4",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "concentration difficulties",
+          "checked": true
+        },
+        {
+          "text": "reduced volume of the perceived objects of the road environment",
+          "checked": true
+        },
+        {
+          "text": "wrong reactions",
+          "checked": true
+        },
+        {
+          "text": "high accuracy of perception of the objects of the road environment",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The warning signs of driver fatigue are:",
+      "index": "28/5",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "slower thinking",
+          "checked": true
+        },
+        {
+          "text": "occurrence of feeling of comfort",
+          "checked": false
+        },
+        {
+          "text": "impatient behaviour",
+          "checked": true
+        },
+        {
+          "text": "longer periods of microsleep",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The warning signs of driver fatigue are:",
+      "index": "28/6",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "faster reactions",
+          "checked": false
+        },
+        {
+          "text": "feeling of anxiety",
+          "checked": true
+        },
+        {
+          "text": "behaviour of irritability",
+          "checked": true
+        },
+        {
+          "text": "weakness",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Which of the facts listed below are signs of driver fatigue?",
+      "index": "29/1",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "frequent yawning",
+          "checked": true
+        },
+        {
+          "text": "burning eyes",
+          "checked": true
+        },
+        {
+          "text": "occurrence of eyesight blurring",
+          "checked": true
+        },
+        {
+          "text": "faster reactions",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following signs indicate driver fatigue?",
+      "index": "29/2",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "difficulty in navigating the traffic situation",
+          "checked": true
+        },
+        {
+          "text": "continuous rubbing of the eyes",
+          "checked": true
+        },
+        {
+          "text": "shorter time for making the right decision",
+          "checked": false
+        },
+        {
+          "text": "making efforts for keeping the eyes open",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In case of driver fatigue, the risk of involvement in road traffic accidents increases due to:",
+      "index": "29/3",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "reduced alertness",
+          "checked": true
+        },
+        {
+          "text": "reduced concentration of attention",
+          "checked": true
+        },
+        {
+          "text": "reduced time of reaction",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Driver fatigue causes reduced attention stability and concentration, which may lead to:",
+      "index": "29/4",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "involuntary deviation from the road direction",
+          "checked": true
+        },
+        {
+          "text": "improved ability to foresee situations",
+          "checked": false
+        },
+        {
+          "text": "overlooking of road signs and signals",
+          "checked": true
+        },
+        {
+          "text": "exiting the driveway",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The warning signs of driver fatigue are:",
+      "index": "29/5",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "making rash decisions",
+          "checked": true
+        },
+        {
+          "text": "improved ability to foresee situations",
+          "checked": false
+        },
+        {
+          "text": "difficulties in the orientation on the road",
+          "checked": true
+        },
+        {
+          "text": "inaccurate assessment of the road speed",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The warning signs of driver fatigue are:",
+      "index": "29/6",
+      "points": "1",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "making inaccurate decisions",
+          "checked": true
+        },
+        {
+          "text": "reduced ability to foresee situations",
+          "checked": true
+        },
+        {
+          "text": "difficulties in the orientation on the road",
+          "checked": true
+        },
+        {
+          "text": "improved ability to accurately assess the situation",
+          "checked": false
+        }
+      ]
+    }
+  ]
+}
