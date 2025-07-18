@@ -1,0 +1,1021 @@
+{
+  "totalQuestions": 46,
+  "questions": [
+    {
+      "text": "If stopped for check by control authorities, providing no other instructions have been given, the driver must:",
+      "index": "1/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "stop smoothly",
+          "checked": true
+        },
+        {
+          "text": "stop in the rightmost part of the driveway",
+          "checked": true
+        },
+        {
+          "text": "stop immediately in front of the control authorities",
+          "checked": false
+        },
+        {
+          "text": "stop in the middle of the road lane currently being used",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is it allowed to use a mobile phone while driving the vehicle?",
+      "index": "2/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "no, unless there is a hands-free device",
+          "checked": true
+        },
+        {
+          "text": "yes, without restrictions",
+          "checked": false
+        },
+        {
+          "text": "no, it is prohibited in all cases",
+          "checked": false
+        },
+        {
+          "text": "yes, outside populated areas",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Providing there is no hands-free device, in order to answer an incoming call, the driver:",
+      "index": "3/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "must find a safe place to stop",
+          "checked": true
+        },
+        {
+          "text": "may hold the steering wheel with one hand and talk",
+          "checked": false
+        },
+        {
+          "text": "is enough to reduce the speed, and then may use the phone",
+          "checked": false
+        },
+        {
+          "text": "must stop immediately",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In which of the cases below is the driver allowed to hold the mobile phone in his/her hand while talking?",
+      "index": "4/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "if he/she has stopped the vehicle at a safe place",
+          "checked": true
+        },
+        {
+          "text": "if the driver must dial an emergency number",
+          "checked": false
+        },
+        {
+          "text": "if there is no heavy traffic on the road",
+          "checked": false
+        },
+        {
+          "text": "if he/she drives at a low speed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "For which of the failures listed below is it allowed to move to a place where the failure will be removed?",
+      "index": "5/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "failure in the speedometer",
+          "checked": true
+        },
+        {
+          "text": "the directions indicators are not functioning in daytime",
+          "checked": true
+        },
+        {
+          "text": "the cooling system is no longer air-tight",
+          "checked": true
+        },
+        {
+          "text": "missing or failure in the element securing the wheel rim to the wheel hub",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is the movement of a combination of road vehicles allowed if there is a failure in the the braking system of the trailer?",
+      "index": "16/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "no",
+          "checked": true
+        },
+        {
+          "text": "yes",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When driving on roads open for public use, the driver:",
+      "index": "20/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "must not throw out or leave objects on the road",
+          "checked": true
+        },
+        {
+          "text": "is not obliged to remove objects which have fallen from the vehicle",
+          "checked": false
+        },
+        {
+          "text": "must comply with the existing CO2 emissions standards for motor vehicles",
+          "checked": true
+        },
+        {
+          "text": "must not create danger and obstacles to the traffic",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Is it allowed to transport passengers in a camping trailer?",
+      "index": "22/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "no",
+          "checked": true
+        },
+        {
+          "text": "yes",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is it allowed to transport passengers in a cargo trailer?",
+      "index": "23/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "no",
+          "checked": true
+        },
+        {
+          "text": "yes",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is it permissible to transport more than the specified number of passengers on the rear seat of a passenger car?",
+      "index": "24/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "it is not permissible",
+          "checked": true
+        },
+        {
+          "text": "it is permissible to transport one child up to 7 years of age",
+          "checked": false
+        },
+        {
+          "text": "it is permissible to transport one child up to 14 years of age",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What are the driver’s obligations if the cargo being transported falls on the road?",
+      "index": "25/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "must take the necessary measures to ensure the signalization of the cargo and the vehicle",
+          "checked": true
+        },
+        {
+          "text": "must take measures to ensure that the cargo is removed from the road",
+          "checked": true
+        },
+        {
+          "text": "the driver has no obligations related to the cargo being transported",
+          "checked": false
+        },
+        {
+          "text": "the driver is only obliged to inform the road authorities",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is it allowed to exceed the permissible maximum mass of the road vehicle specified in the registration certificate during transport of goods?",
+      "index": "26/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "no",
+          "checked": true
+        },
+        {
+          "text": "yes, when the transport is in a populated area",
+          "checked": false
+        },
+        {
+          "text": "yes, when the transport is at a distance of up to 10 km",
+          "checked": false
+        },
+        {
+          "text": "yes, if the excessive load is up to 25%",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following can be used to designate cargo which extends forwards by more than 1 m from the frontmost part of the vehicle?",
+      "index": "27/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "a red flag when driving in daytime",
+          "checked": true
+        },
+        {
+          "text": "a white reflector when driving at night",
+          "checked": true
+        },
+        {
+          "text": "white light when driving at night",
+          "checked": true
+        },
+        {
+          "text": "red light when driving in daytime",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When driving at night, which of the following can be used to designate cargo which extends forwards by more than 1 m from the frontmost part of the vehicle?",
+      "index": "28/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "a white reflector",
+          "checked": true
+        },
+        {
+          "text": "white light",
+          "checked": true
+        },
+        {
+          "text": "red flag",
+          "checked": false
+        },
+        {
+          "text": "red light",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following can be used to designate cargo which extends backwards by more than 1 m behind from the rearmost part of the vehicle?",
+      "index": "29/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "a red flag when driving in daytime",
+          "checked": true
+        },
+        {
+          "text": "a red reflector at night",
+          "checked": true
+        },
+        {
+          "text": "red light at night",
+          "checked": true
+        },
+        {
+          "text": "white light in daytime",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When driving at night, which of the following can be used to designate cargo which extends backwards by more than 1 m behind from the rearmost part of the vehicle?",
+      "index": "30/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "a red reflector",
+          "checked": true
+        },
+        {
+          "text": "red light",
+          "checked": true
+        },
+        {
+          "text": "a red flag",
+          "checked": false
+        },
+        {
+          "text": "white light",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When driving in daytime, any cargo extending forwards or backwards by more than 1 m from the frontmost/rearmost part of the vehicle shall be designated using:",
+      "index": "31/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "a red flag",
+          "checked": true
+        },
+        {
+          "text": "red light",
+          "checked": false
+        },
+        {
+          "text": "white light",
+          "checked": false
+        },
+        {
+          "text": "a red reflector",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The cargo shall not be designated if extending forwards from the frontmost part of the road vehicle by a distance of:",
+      "index": "33/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "up to 1 m",
+          "checked": true
+        },
+        {
+          "text": "up to 1,5 m",
+          "checked": false
+        },
+        {
+          "text": "up to 2 m",
+          "checked": false
+        },
+        {
+          "text": "up to 3 m",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The cargo shall not be designated if extending sidewards from the sidemost part of the road vehicle by a distance of:",
+      "index": "34/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "up to 0,2 m",
+          "checked": true
+        },
+        {
+          "text": "up to 0,5 m",
+          "checked": false
+        },
+        {
+          "text": "up to 1,0 m",
+          "checked": false
+        },
+        {
+          "text": "up to 1,5 m",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The cargo shall not be designated if extending backwards behind from the rearmost part of the road vehicle by a distance of:",
+      "index": "35/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "up to 1 m",
+          "checked": true
+        },
+        {
+          "text": "up to 1,5 m",
+          "checked": false
+        },
+        {
+          "text": "up to 2 m",
+          "checked": false
+        },
+        {
+          "text": "up to 3 m",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "It is the driver’s obligation to ensure that the cargo being transported:",
+      "index": "36/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "does not cover the rear-view mirrors",
+          "checked": true
+        },
+        {
+          "text": "does not cover the light and signal equipment of the vehicle",
+          "checked": true
+        },
+        {
+          "text": "is secured",
+          "checked": true
+        },
+        {
+          "text": "is insured",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "It is the driver’s obligation to ensure that the cargo being transported:",
+      "index": "37/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "is covered if it reflects the light and may dazzle other road users",
+          "checked": true
+        },
+        {
+          "text": "is secured",
+          "checked": true
+        },
+        {
+          "text": "does not cover the vehicle’s light equipment",
+          "checked": true
+        },
+        {
+          "text": "is wrapped up in accordance with the manufacturer’s requirements",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "It is the driver’s obligation to ensure that the cargo being transported is:",
+      "index": "38/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "covered if it reflects the light and may dazzle other road users",
+          "checked": true
+        },
+        {
+          "text": "secured",
+          "checked": true
+        },
+        {
+          "text": "insured",
+          "checked": false
+        },
+        {
+          "text": "wrapped up in accordance with the manufacturer’s requirements",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following requirements must be met by the cargo being transported?",
+      "index": "39/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "the cargo must not cover the rear-view mirrors",
+          "checked": true
+        },
+        {
+          "text": "the cargo must not cover the vehicle’s light equipment",
+          "checked": true
+        },
+        {
+          "text": "the cargo must not cover the vehicle’s signal equipment",
+          "checked": true
+        },
+        {
+          "text": "the cargo must be wrapped up and labeled",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "It is a mandatory requirement that the cargo must not cover:",
+      "index": "40/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "the vehicle’s signal equipment",
+          "checked": true
+        },
+        {
+          "text": "the rear-view mirrors",
+          "checked": true
+        },
+        {
+          "text": "the vehicle’s interior lights",
+          "checked": false
+        },
+        {
+          "text": "the equipment used to secure the cargo against falling",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In which of the cases listed below there is a road traffic safety requirement that the cargo being transported should be mandatorily covered?",
+      "index": "41/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "when the cargo reflects the light and may dazzle other road users",
+          "checked": true
+        },
+        {
+          "text": "when the cargo may be scattered",
+          "checked": true
+        },
+        {
+          "text": "when it rains or snows",
+          "checked": false
+        },
+        {
+          "text": "when the cargo is not secured",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the documents listed below the driver must carry while driving the motor vehicle?",
+      "index": "42/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "a driving licence valid for the category of the motor vehicle being driven",
+          "checked": true
+        },
+        {
+          "text": "a certificate for registration of the motor vehicle",
+          "checked": true
+        },
+        {
+          "text": "a certificate of civil liability insurance",
+          "checked": true
+        },
+        {
+          "text": "a certificate for paid motor-vehicle tax",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following documents should the driver of a motor vehicle carry with him/her?",
+      "index": "42/2",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "Sign for initial technical inspection or roadworthiness certificate for passed periodic roadworthiness test",
+          "checked": true
+        },
+        {
+          "text": "The motor vehicle registration certificate",
+          "checked": true
+        },
+        {
+          "text": "Proof of valid Third Party Liability insurance",
+          "checked": true
+        },
+        {
+          "text": "Proof of payment of motor vehicle tax",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When is the driver obliged to present for inspection his/her documents for driving of a motor vehicle?",
+      "index": "43/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "in all cases, if so required by a representative of the control authorities",
+          "checked": true
+        },
+        {
+          "text": "only if the driver has committed a road traffic offence",
+          "checked": false
+        },
+        {
+          "text": "only if involved in road traffic accident",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is it compulsory for the driver to carry a certificate of civil liability insurance?",
+      "index": "44/1",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When driving a composition of road vehicles, must the driver carry a registration certificate of the trailer?",
+      "index": "45/1",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In order to be driven on the road, it is mandatory for the motor vehicle:",
+      "index": "46/1",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "to be registered",
+          "checked": true
+        },
+        {
+          "text": "to have “Casco” insurance",
+          "checked": false
+        },
+        {
+          "text": "to be equipped with tools for repair",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The three- and four-wheeled motor vehicles moving on the road must be equipped with:",
+      "index": "47/1",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "a light-reflective vest",
+          "checked": true
+        },
+        {
+          "text": "a safety triangle",
+          "checked": true
+        },
+        {
+          "text": "a tow rope",
+          "checked": false
+        },
+        {
+          "text": "a fire extinguisher",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The three- and four-wheeled motor vehicles moving on the road must be equipped with:",
+      "index": "47/2",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "a first-aid kit",
+          "checked": true
+        },
+        {
+          "text": "a light-reflective vest",
+          "checked": true
+        },
+        {
+          "text": "a safety triangle",
+          "checked": true
+        },
+        {
+          "text": "snow chains for tires",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The three- and four-wheeled motor vehicles moving on the road must be equipped with:",
+      "index": "47/3",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "a first-aid kit",
+          "checked": true
+        },
+        {
+          "text": "a fire extinguisher",
+          "checked": true
+        },
+        {
+          "text": "a tow rope",
+          "checked": false
+        },
+        {
+          "text": "tools for repair",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The transport of a child under 12 years of age on the front seat of a passenger car is:",
+      "index": "48/1",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "allowed under the condition that a special child seat has been additionally placed",
+          "checked": true
+        },
+        {
+          "text": "forbidden in all cases",
+          "checked": false
+        },
+        {
+          "text": "allowed under the condition that an adult person is holding the child",
+          "checked": false
+        },
+        {
+          "text": "allowed if the child is over 120 cm tall",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When is the driver obliged to use the seat belt?",
+      "index": "49/1",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "always regardless of the type of road on which the driver is driving",
+          "checked": true
+        },
+        {
+          "text": "only when moving on a road outside a populated area",
+          "checked": false
+        },
+        {
+          "text": "only when moving on a road in a populated area",
+          "checked": false
+        },
+        {
+          "text": "only when moving at a speed of more than 50 km/h",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In which of the cases listed below the driver is obliged to use the seat belt?",
+      "index": "50/1",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "when moving on a road outside a populated area",
+          "checked": true
+        },
+        {
+          "text": "when moving on a road in a populated area",
+          "checked": true
+        },
+        {
+          "text": "when moving on a highway",
+          "checked": true
+        },
+        {
+          "text": "only when moving at a speed of more than 30 km/h",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Reducing the transparency of a car's rear side door glass is:",
+      "index": "51/1",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "is allowed if the vehicle is equipped with rear-view mirrors on both sides of the vehicle",
+          "checked": true
+        },
+        {
+          "text": "prohibited",
+          "checked": false
+        },
+        {
+          "text": "allowed in all cases",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is it allowed to reduce the transparency of the back door windows of a passenger car?",
+      "index": "51/2",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "No, it is prohibited in all cases",
+          "checked": false
+        },
+        {
+          "text": "Yes, it is allowed without limitations",
+          "checked": false
+        },
+        {
+          "text": "Only if the vehicle is equipped with rear-view mirrors on both sides of the vehicle",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Is it allowed to reduce the transparency of the windshield and the rear window, providing the visibility on the road for the driver?",
+      "index": "51/3",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "No, it is prohibited in all cases.",
+          "checked": true
+        },
+        {
+          "text": "It is prohibited except for passenger cars.",
+          "checked": false
+        },
+        {
+          "text": "It is allowed within the permissible limits.",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is it allowed to tow a trailer without a registration plate?",
+      "index": "52/1",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "it is not allowed",
+          "checked": true
+        },
+        {
+          "text": "yes, when the permissible maximum mass of the trailer is up to 750 kg",
+          "checked": false
+        },
+        {
+          "text": "yes, when the trailer is towed by a wheeled tractor",
+          "checked": false
+        },
+        {
+          "text": "yes, if it is a single-axle trailer",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What should you do if you are causing a line of road vehicles due to movement at a low speed?",
+      "index": "53/1",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "I should stop as soon as possible and let the line of vehicles pass",
+          "checked": true
+        },
+        {
+          "text": "I am not obliged to take into consideration the vehicles behind me",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is a motor vehicle driver allowed to organize or participate in unauthorized races on public roads?",
+      "index": "55/1",
+      "points": "1",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "No, it is prohibited in all cases.",
+          "checked": true
+        },
+        {
+          "text": "No, except on roads outside populated areas.",
+          "checked": false
+        },
+        {
+          "text": "Yes",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is it allowed to a motor vehicle driver to use public roads for purposes other than the official purposes the roads are intended for?",
+      "index": "56/1",
+      "points": "1",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "Yes",
+          "checked": false
+        },
+        {
+          "text": "No",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The driver of a road vehicle should not suddenly change course from one driving lane to another in a slalom-like manner:",
+      "index": "57/1",
+      "points": "1",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "Only in populated areas",
+          "checked": false
+        },
+        {
+          "text": "Only outside populated areas",
+          "checked": false
+        },
+        {
+          "text": "Both inside and outside populated areas",
+          "checked": true
+        }
+      ]
+    }
+  ]
+}

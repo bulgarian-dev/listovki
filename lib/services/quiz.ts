@@ -16,6 +16,13 @@ export const topicsList: TopicInfo[] = [
     questionsCount: 87,
   },
   {
+    id: "16",
+    title: "16 - DRIVER’S OBLIGATIONS",
+    link: "https://rta.government.bg/upload/10488/Category_1_Topic_16_01.06.2023+16_52_16_EN.pdf",
+    lastUpdated: "18.07.2025",
+    questionsCount: 46,
+  },
+  {
     id: "19",
     title: "19 - GENERAL INFORMATION ABOUT THE MOTOR VEHICLE STRUCTURE",
     link: "https://rta.government.bg/upload/10491/Category_1_Topic_19_01.06.2023+16_53_15_EN.pdf",

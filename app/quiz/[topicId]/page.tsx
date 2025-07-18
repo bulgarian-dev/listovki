@@ -439,7 +439,7 @@ export default function QuizPage() {
                 <CardBody className="py-3 px-4">
                   <div className="flex justify-between items-center mb-2">
                     <h4 className="font-medium text-base sm:text-lg">
-                      Aurelion {result.questionId}
+                      Index {result.questionId}
                     </h4>
                     <span
                       className={`text-xs sm:text-sm px-2 py-1 rounded-full ${
