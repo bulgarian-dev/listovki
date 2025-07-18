@@ -16,12 +16,19 @@ export const topicsList: TopicInfo[] = [
     questionsCount: 87,
   },
   {
+    id: "14",
+    title: "14 - TRAVEL ORGANISATION",
+    link: "https://rta.government.bg/upload/10486/Category_1_Topic_14_01.06.2023+16_51_16_EN.pdf",
+    lastUpdated: "18.07.2025",
+    questionsCount: 35,
+  },
+  {
     id: "15",
     title:
       "15 - IMPORTANCE OF THE PSYCHO-MOTOR FUNCTIONS, DRIVER’S ALERTNESS AND AWARENESS OF OTHER ROAD USERS’ ACTIONS FOR TRAFFIC SAFETY",
     link: "https://rta.government.bg/upload/10487/Category_1_Topic_15_01.06.2023+16_51_38_EN.pdf",
     lastUpdated: "18.07.2025",
-    questionsCount: 46,
+    questionsCount: 44,
   },
   {
     id: "16",

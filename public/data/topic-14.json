@@ -1,0 +1,697 @@
+{
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "text": "Daily travel under the same conditions and using the same route causes habituation to the road conditions and weakening of attention.",
+      "index": "1/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "true",
+          "checked": true
+        },
+        {
+          "text": "false",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Daily travel under the same conditions and using the same route:",
+      "index": "1/2",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "causes habituation to the road conditions",
+          "checked": true
+        },
+        {
+          "text": "causes weakening of attention while travelling",
+          "checked": true
+        },
+        {
+          "text": "allow the driver to drive safely at a speed higher than the permitted",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In case of long-distance travel, it would be safer for the less experienced driver if:",
+      "index": "2/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "the driver avoids travelling at night",
+          "checked": true
+        },
+        {
+          "text": "the driver does not drive at high speed",
+          "checked": true
+        },
+        {
+          "text": "the driver avoids driving on highways",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In case of forthcoming long-distance travel, the travel would be safer and easier:",
+      "index": "3/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "if we choose a route in advance",
+          "checked": true
+        },
+        {
+          "text": "if we pre-plan appropriate stops for rest",
+          "checked": true
+        },
+        {
+          "text": "if the travel involves only a few stops",
+          "checked": false
+        },
+        {
+          "text": "if the travel is carried out at night",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "A reason for faster occurrence of fatigue in the driver of a motor vehicle is:",
+      "index": "4/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "the incorrect posture while driving",
+          "checked": true
+        },
+        {
+          "text": "conversations with the passengers in the vehicle",
+          "checked": false
+        },
+        {
+          "text": "the billboards by the road",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The incorrect posture of the driver while driving causes faster occurrence of fatigue.",
+      "index": "5/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "true",
+          "checked": true
+        },
+        {
+          "text": "false",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What are the consequences for the driver when driving with an unadjusted seat for a long time?",
+      "index": "6/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "faster occurrence of fatigue",
+          "checked": true
+        },
+        {
+          "text": "spinal and muscular tension and pain",
+          "checked": true
+        },
+        {
+          "text": "stays concentrated for a longer period of time",
+          "checked": false
+        },
+        {
+          "text": "reduction of fatigue",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If there are cracks in the protective helmet of the driver of a two-wheeled motor vehicle, it is necessary:",
+      "index": "8/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "to replace the helmet with a new one",
+          "checked": true
+        },
+        {
+          "text": "to drive the motor vehicle at a low speed",
+          "checked": false
+        },
+        {
+          "text": "to repair the helmet using glue",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The driver is not adequately protected while driving a two-wheeled motor vehicle when:",
+      "index": "9/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "the driver’s protective helmet is cracked",
+          "checked": true
+        },
+        {
+          "text": "the driver is not wearing special outfit",
+          "checked": true
+        },
+        {
+          "text": "the direction indicators of the two-wheeled motor vehicle are not functioning",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is the driver obliged to wear a protective helmet when driving a two-wheeled motor vehicle in a populated area?",
+      "index": "10/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "yes, in all cases",
+          "checked": true
+        },
+        {
+          "text": "yes, but only when driving at high speed",
+          "checked": false
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is the driver obliged to wear a protective helmet when driving a two-wheeled motor vehicle outside a populated area?",
+      "index": "10/2",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "yes, in all cases",
+          "checked": true
+        },
+        {
+          "text": "yes, but only when driving a motorcycle",
+          "checked": false
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The transport of objects on the vehicle’s roof causes increase in the fuel consumption.",
+      "index": "11/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "true",
+          "checked": true
+        },
+        {
+          "text": "false",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The transport of objects on the vehicle’s roof causes:",
+      "index": "11/2",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "increase in the fuel consumption",
+          "checked": true
+        },
+        {
+          "text": "increase of the vehicle’s stability while making turns",
+          "checked": false
+        },
+        {
+          "text": "increase of the vehicle’s stability in the presence of side wind",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The fuel consumption of the vehicle during movement:",
+      "index": "12/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "increases in case of transport of objects on the vehicle’s roof",
+          "checked": true
+        },
+        {
+          "text": "increases if the tyre pressure is low",
+          "checked": true
+        },
+        {
+          "text": "decreases as a result of frequent braking",
+          "checked": false
+        },
+        {
+          "text": "decreases in case of rapid acceleration",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The fuel consumption of the vehicle during movement increases:",
+      "index": "12/2",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "when transporting objects on the vehicle’s roof",
+          "checked": true
+        },
+        {
+          "text": "if the tyre pressure is low",
+          "checked": true
+        },
+        {
+          "text": "in case of less frequent braking",
+          "checked": false
+        },
+        {
+          "text": "in case of rapid acceleration",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Is it allowed to refuel a vehicle while the engine is running?",
+      "index": "13/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "no",
+          "checked": true
+        },
+        {
+          "text": "yes",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "While refuelling the vehicle, smoking is:",
+      "index": "14/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "forbidden",
+          "checked": true
+        },
+        {
+          "text": "allowed only outside the vehicle",
+          "checked": false
+        },
+        {
+          "text": "allowed only inside the vehicle",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The maintenance of clean and visible registration plates of the vehicle is an obligation of:",
+      "index": "15/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "the driver",
+          "checked": true
+        },
+        {
+          "text": "the owner of the motor vehicle",
+          "checked": false
+        },
+        {
+          "text": "the passengers",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "How is the vehicle driveability affected by the low tyre pressure?",
+      "index": "16/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "driveability deteriorates",
+          "checked": true
+        },
+        {
+          "text": "driveability improves",
+          "checked": false
+        },
+        {
+          "text": "does not affect driveability",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Does the low tyre pressure affect the vehicle driveability?",
+      "index": "16/2",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "How does the low tyre pressure affect the vehicle’s performance?",
+      "index": "17/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "the vehicle driveability deteriorates",
+          "checked": true
+        },
+        {
+          "text": "fuel consumption increases",
+          "checked": true
+        },
+        {
+          "text": "has no effect",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Low tyre pressure causes an increase in fuel consumption.",
+      "index": "18/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "true",
+          "checked": true
+        },
+        {
+          "text": "false",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "How does low tyre pressure affect fuel consumption?",
+      "index": "18/2",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "causes an increase",
+          "checked": true
+        },
+        {
+          "text": "causes a reduction",
+          "checked": false
+        },
+        {
+          "text": "has no effect",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "While driving, if the brake pedal “goes down” when pressed and the breaks are not applied, the driver must:",
+      "index": "19/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "quickly release the pedal and press it again",
+          "checked": true
+        },
+        {
+          "text": "continue pressing the pedal without releasing it",
+          "checked": false
+        },
+        {
+          "text": "press the clutch pedal",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If a driver who has consumed alcohol must drive a motor vehicle:",
+      "index": "20/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "the driver must wait until the effect of the alcohol has passed",
+          "checked": true
+        },
+        {
+          "text": "around 2-hour sleep is needed",
+          "checked": false
+        },
+        {
+          "text": "it is enough to drink a strong coffee or strong tea without sugar",
+          "checked": false
+        },
+        {
+          "text": "it is enough to drink up a cold energy drink",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What advice would you give to a driver who has consumed alcohol?",
+      "index": "21/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "take a taxi or use other type of public transportation",
+          "checked": true
+        },
+        {
+          "text": "wait until the effect of the alcohol has passed",
+          "checked": true
+        },
+        {
+          "text": "drink a cup of strong coffee and then drive",
+          "checked": false
+        },
+        {
+          "text": "drive carefully and at low speed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If a driver must take a medication and the driver does not know if the medication is compatible with driving of a motor vehicle:",
+      "index": "22/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "prior to taking the medication, the driver must consult a physician or a pharmacist",
+          "checked": true
+        },
+        {
+          "text": "the driver may take the medication, but he/she must also consume energy-boosting drinks",
+          "checked": false
+        },
+        {
+          "text": "the driver must not continue driving after taking the medication, if he/she does not know whether the medicine is compatible with driving",
+          "checked": true
+        },
+        {
+          "text": "prior to taking the medication, the driver must get acquainted with the medicine description intended for the patient",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Are there any medications, for which, if taken by the driver, driving of a motor vehicle is prohibited?",
+      "index": "23/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What should you do if you have to drive a motor vehicle, but you take a medication without knowing whether it is compatible with driving?",
+      "index": "24/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "I must get acquainted with the medicine description intended for the patient",
+          "checked": true
+        },
+        {
+          "text": "I may take the medication and drive if I feel well",
+          "checked": false
+        },
+        {
+          "text": "I may rely on an advice from a friend or a relative, and drive",
+          "checked": false
+        },
+        {
+          "text": "prior to taking the medication, I must consult a physician or a pharmacist",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "What should you do if you have to travel, but you have taken a medication which adversely affects driving?",
+      "index": "25/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "I will find another driver for the travel",
+          "checked": true
+        },
+        {
+          "text": "I will drive at low speed",
+          "checked": false
+        },
+        {
+          "text": "I will drive avoiding heavy traffic areas",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "May a motor vehicle be driven if the driver’s health condition has deteriorated?",
+      "index": "26/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "no, the driver must not drive",
+          "checked": true
+        },
+        {
+          "text": "yes, but after a long period of rest",
+          "checked": false
+        },
+        {
+          "text": "yes, but after taking an appropriate medication prior to driving",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Driving of a motor vehicle after taking a narcotic substance is:",
+      "index": "27/1",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "forbidden",
+          "checked": true
+        },
+        {
+          "text": "allowed without restrictions",
+          "checked": false
+        },
+        {
+          "text": "allowed if taken according to a physician’s prescription",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The driver is prohibited from driving a vehicle with a blood alcohol concentration exceeding 0.5 per thousand and/or after using narcotic substances or their analogues:",
+      "index": "28/1",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "true",
+          "checked": true
+        },
+        {
+          "text": "false",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The driver is prohibited to drive a road vehicle that is suspended from traffic and no temporary movement permit has been issued:",
+      "index": "29/1",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "true",
+          "checked": true
+        },
+        {
+          "text": "false",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The driver of a road vehicle is allowed to perform manoeuvres consisting of sudden crossing of traffic lanes:",
+      "index": "30/1",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "true",
+          "checked": false
+        },
+        {
+          "text": "false",
+          "checked": true
+        }
+      ]
+    }
+  ]
+}
