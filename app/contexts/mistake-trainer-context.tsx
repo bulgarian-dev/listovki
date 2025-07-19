@@ -112,7 +112,7 @@ export function MistakeTrainerProvider({
         return mistake;
       });
 
-      return updated.filter((mistake) => mistake.correctCount < 2);
+      return updated.filter((mistake) => mistake.correctCount < 4);
     });
   };
 
