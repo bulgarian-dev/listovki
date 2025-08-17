@@ -1,0 +1,1157 @@
+{
+  "totalQuestions": 57,
+  "questions": [
+    {
+      "text": "Does a driver commit an offence if he/she lets a person who does not hold the relevant driving licence drive the motor vehicle?",
+      "index": "1/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Does a driver commit an offence if he/she exceeds the permissible speed limit although this does not create any immediate danger to the traffic?",
+      "index": "2/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Does a driver make a violation, when running without lights switched on?",
+      "index": "3/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "Yes",
+          "checked": true
+        },
+        {
+          "text": "No",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Does a driver commit an offence if he/she, during overtaking, causes the road vehicle being overtaken to alter its direction of movement?",
+      "index": "4/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Does a driver commit an offence if he/she leaves or scatters objects on the road?",
+      "index": "5/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "yes, in all cases when this has created a danger to the traffic",
+          "checked": true
+        },
+        {
+          "text": "yes, but only if this has resulted in a road traffic accident",
+          "checked": false
+        },
+        {
+          "text": "no, because the driver is not responsible for the cargo being transported",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Does a driver commit an offence if he/she drives a motor vehicle without registration plates?",
+      "index": "6/1",
+      "points": "1",
+      "pageNum": 1,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is it an offense to drive a motor vehicle with a registration plate that is obscured by any materials or substances?",
+      "index": "6/2",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Does a driver commit an offence if he/she drives a motor vehicle with a technical failure which he/she does not own?",
+      "index": "7/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Does a driver commit an offence if he/she drives a motor vehicle in the immediate vicinity of his/her home, without carrying his/her driving licence?",
+      "index": "8/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Does a driver commit an offence if he/she drives a motor vehicle with a sound signalling equipment having a failure?",
+      "index": "9/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Does a driver commit an offence if he/she refuses to be checked by the control authorities for alcohol consumption?",
+      "index": "10/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Does a driver commit an offence if he/she lets a person who is under the influence of alcohol drive the motor vehicle?",
+      "index": "11/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Does a driver commit an offence if, while outside a populated area, he/she does not signalize a vehicle which has been forced to stop on the driveway?",
+      "index": "12/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "no",
+          "checked": false
+        },
+        {
+          "text": "yes",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "Does a driver commit an offence if he/she does not duly signalize a motor vehicle which has been forced to stop on the driveway?",
+      "index": "13/1",
+      "points": "1",
+      "pageNum": 2,
+      "answers": [
+        {
+          "text": "no, unless this has resulted in a road traffic accident",
+          "checked": false
+        },
+        {
+          "text": "yes, but only if this has created a danger to the traffic",
+          "checked": false
+        },
+        {
+          "text": "yes, in all cases, irrespective of the consequences",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "A driver who has exceeded the speed limit outside the populated area with more than 50 km/h will be deprived of the right to drive motor vehicles:",
+      "index": "15/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "When the offense is repeated systematically",
+          "checked": true
+        },
+        {
+          "text": "In all cases",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "A driver who has exceeded the permissible maximum speed in a populated area by over 50 km/h will be:",
+      "index": "15/2",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "only fined",
+          "checked": false
+        },
+        {
+          "text": "only deprived of the right to drive a motor vehicle",
+          "checked": false
+        },
+        {
+          "text": "fined and deprived of the right to drive a motor vehicle",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "A driver who does not carry the necessary documents will be:",
+      "index": "16/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "fined",
+          "checked": true
+        },
+        {
+          "text": "sanctioned with a test",
+          "checked": false
+        },
+        {
+          "text": "deprived of the right to drive a motor vehicle",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "A driver of a motor vehicle who violates the rules of using the lights while driving will be punished:",
+      "index": "17/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "in all cases",
+          "checked": true
+        },
+        {
+          "text": "only if this has resulted in a road traffic accident",
+          "checked": false
+        },
+        {
+          "text": "only if this has created an immediate danger to the traffic",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The control authorities will temporarily revoke the driving licence of a driver of a motor vehicle:",
+      "index": "18/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "who, on the basis of a visual check, is found not to meet the medical requirements",
+          "checked": true
+        },
+        {
+          "text": "who is driving a motor vehicle with alcohol concentration in the blood over 0,5 per thousand",
+          "checked": true
+        },
+        {
+          "text": "who, due to lack of knowledge, has committed a significant violation of the road traffic rules",
+          "checked": true
+        },
+        {
+          "text": "when the motor vehicle has technical failures",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The control authorities will temporarily revoke the driving licence of a driver of a motor vehicle:",
+      "index": "20/1",
+      "points": "1",
+      "pageNum": 3,
+      "answers": [
+        {
+          "text": "who refuses to be checked by the control authorities for presence of alcohol in the blood",
+          "checked": true
+        },
+        {
+          "text": "who, due to lack of knowledge, has committed a significant violation of the road traffic rules",
+          "checked": true
+        },
+        {
+          "text": "who drives a motor vehicle without a civil liability insurance",
+          "checked": true
+        },
+        {
+          "text": "if the required vignette fee has not been paid",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The control authorities will temporarily revoke the driving licence of a driver of a motor vehicle:",
+      "index": "20/2",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "who, on the basis of a visual check, is found not to meet the medical requirements",
+          "checked": true
+        },
+        {
+          "text": "who, on the basis of a visual check, is found not to meet the psychological requirements",
+          "checked": true
+        },
+        {
+          "text": "if the driver parks the vehicle on a place where parking is prohibited",
+          "checked": false
+        },
+        {
+          "text": "if the required vignette fee has not been paid",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The control authorities will temporary suspend the motor vehicle driving license of a driver who:",
+      "index": "20/3",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "Is driving a motor vehicle with alcohol concentration in the blood above 0.5 per mille",
+          "checked": true
+        },
+        {
+          "text": "Is driving a motor vehicle under the impact of a narcotic substance",
+          "checked": true
+        },
+        {
+          "text": "Refuses to pass a test for the presence of alcohol in the blood conducted by the control authorities",
+          "checked": true
+        },
+        {
+          "text": "Has parked the vehicle at a place where parking is prohibited",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What measure should be taken against a driver who, due to a lack of knowledge, has committed a non-minor violation of the road traffic rules?",
+      "index": "21/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "temporary revocation of the driving licence",
+          "checked": true
+        },
+        {
+          "text": "impose a fine of up to BGN 300",
+          "checked": false
+        },
+        {
+          "text": "the motor vehicle of the driver will be temporarily stopped",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The control authorities will temporarily decommission a motor vehicle whose owner:",
+      "index": "22/4",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "allows other persons driving the motor vehicle for unauthorized car races on public roads;",
+          "checked": true
+        },
+        {
+          "text": "exceeds the speed limit in a populated area with more than 50 km/h",
+          "checked": true
+        },
+        {
+          "text": "does not have the mandatory \"Third person liability\" insurance of drivers",
+          "checked": true
+        },
+        {
+          "text": "due to ignorance, has committed a non-minor violation of the traffic rules",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "A motor vehicle shall be stopped temporary from movement when:",
+      "index": "22/6",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "It is technically unfit",
+          "checked": true
+        },
+        {
+          "text": "The content of harmful substances in the exhaust gas is above the established norms",
+          "checked": true
+        },
+        {
+          "text": "It is with removed silencers",
+          "checked": true
+        },
+        {
+          "text": "Its driver refuses to be tested by the control bodies for presence of alcohol in the blood",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What measures will be applied in case of driving a motor vehicle without a Civil Liability insurance?",
+      "index": "23/1",
+      "points": "1",
+      "pageNum": 4,
+      "answers": [
+        {
+          "text": "temporary stopping of the motor vehicle and temporary revocation of the driving licence of the motor vehicle’s driver",
+          "checked": true
+        },
+        {
+          "text": "only temporary stopping of the motor vehicle",
+          "checked": false
+        },
+        {
+          "text": "only temporary revocation of the driving licence of the motor vehicle’s driver",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The control authorities will move a parked road vehicle without the knowledge of its owner, if the vehicle:",
+      "index": "25/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "makes it impossible for the other road users to pass",
+          "checked": true
+        },
+        {
+          "text": "creates a danger for the other road users",
+          "checked": true
+        },
+        {
+          "text": "is without registration plates placed on the specified places",
+          "checked": true
+        },
+        {
+          "text": "always, if parked in violation of the road traffic rules",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The control authorities will move a parked road vehicle without the knowledge of its owner, if the vehicle:",
+      "index": "25/2",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "is properly parked, but its movement to another place is required by the circumstances",
+          "checked": true
+        },
+        {
+          "text": "is parked in violation of the rules, on a place designated by a stationary road sign warning of compulsory movement",
+          "checked": true
+        },
+        {
+          "text": "creates a danger for the other road users",
+          "checked": true
+        },
+        {
+          "text": "always, if parked in violation of the road traffic rules",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If a traffic ticket is issued for an established violation, but the person who has committed the violation refuses to sign the traffic ticket:",
+      "index": "26/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "a protocol is drawn up",
+          "checked": true
+        },
+        {
+          "text": "the traffic ticket is signed by two witnesses",
+          "checked": false
+        },
+        {
+          "text": "a fine is imposed on the spot, based on a receipt",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "If, in case of violation, the driver does not agree with the fine which has been specified, may the driver refuse to be issued a traffic ticket?",
+      "index": "26/2",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In case of administrative offences established at the time they are committed, a fine shall be imposed on the driver, and the amount of the fine will be:",
+      "index": "27/1",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "within the minimum amount, or within the amount specified in the administrative provision for the relevant offence",
+          "checked": true
+        },
+        {
+          "text": "determined by the traffic police officer",
+          "checked": false
+        },
+        {
+          "text": "within the maximum amount which can be imposed for that offence",
+          "checked": false
+        },
+        {
+          "text": "within the average amount which can be imposed for that offence",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Administrative offenses established at the time they are committed can be imposed with a fine ticket if:",
+      "index": "27/2",
+      "points": "1",
+      "pageNum": 5,
+      "answers": [
+        {
+          "text": "The offense is not punishable by deprivation of the right to drive a motor vehicle",
+          "checked": true
+        },
+        {
+          "text": "The offense is not punishable by deduction of control points",
+          "checked": true
+        },
+        {
+          "text": "The offense is not punishable by compulsory revocation of the motor vehicle’s registration",
+          "checked": false
+        },
+        {
+          "text": "The offense is not punishable by a temporary decommissioning of the motor vehicle",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "For an administrative violation, established and photographed with an automated technical device, a fine may be imposed with an electronic slip, when:",
+      "index": "27/3",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "the violation is not provided for deprivation of the right to drive a motor vehicle",
+          "checked": true
+        },
+        {
+          "text": "the violation is not provided for withdrawal of control points",
+          "checked": true
+        },
+        {
+          "text": "the violation is not provided for official termination of the registration of the motor vehicle",
+          "checked": false
+        },
+        {
+          "text": "the violation is not provided for suspension of the motor vehicle",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When the violation is established and photographed with an automated technical device in the absence of a control authority and a violator, a fine with an electronic slip may be imposed:",
+      "index": "27/4",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "true",
+          "checked": true
+        },
+        {
+          "text": "false",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The driver challenges the violation he/she has committed indicated by the control authority",
+      "index": "28/1",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "the driver does not agree that he/she has committed the violation specified by the control authorities",
+          "checked": true
+        },
+        {
+          "text": "The driver does not agree with the the size of the fine imposed",
+          "checked": true
+        },
+        {
+          "text": "The driver refuses to sign the fine ticket",
+          "checked": true
+        },
+        {
+          "text": "Always when the imposed fine is above BGN 20 (twenty)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is a parking violation ticket considered delivered if it has been issued in the absence of the driver and a notice that such a ticket is issued has been affixed to the motor vehicle?",
+      "index": "29/1",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "yes",
+          "checked": true
+        },
+        {
+          "text": "no",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "A driver who has been deprived of all control points:",
+      "index": "30/1",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "loses his/her legal right to drive a motor vehicle",
+          "checked": true
+        },
+        {
+          "text": "is obliged to return his/her driving licence to the Ministry of Interior",
+          "checked": true
+        },
+        {
+          "text": "may keep the driving licence if he/she attends a test immediately",
+          "checked": false
+        },
+        {
+          "text": "is only obliged to inform the control authorities of the Ministry of Interior",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "When a passenger in a passenger car does not observe the obligation to use a seat belt, the penalty is imposed on?",
+      "index": "31/1",
+      "points": "1",
+      "pageNum": 6,
+      "answers": [
+        {
+          "text": "the unbelted passenger and the driver of the car",
+          "checked": true
+        },
+        {
+          "text": "the unbelted passenger only",
+          "checked": false
+        },
+        {
+          "text": "the driver of the car only",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In case of violation, found and captured with technical means, in the absence of a control body and the violator, the issued electronic ticket:",
+      "index": "32/1",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "Shall be subject to appeal",
+          "checked": true
+        },
+        {
+          "text": "Shall not be subject to appeal, when the fine imposed is up to 50 levs, including",
+          "checked": false
+        },
+        {
+          "text": "Shall be subject to appeal, only when the automobile is driven by the owner",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In case of payment of a fine for committed violation, imposed by an electronic ticket within 14 days of receipt of the ticket:",
+      "index": "33/1",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "Shall be paid 70% of the amount of the fine",
+          "checked": true
+        },
+        {
+          "text": "Shall be paid the full amount of the fine",
+          "checked": false
+        },
+        {
+          "text": "Shall be paid 50% of the amount of the fine",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In case of a violation, found and captured with technical means, in the absence of a control body and the violator, the electronic ticket is issued to the owner of the vehicle, when:",
+      "index": "34/1",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "The violation is committed by the owner",
+          "checked": true
+        },
+        {
+          "text": "When he does not submit a written statement with data of the person who has committed the violation, and a copy of his driving certificate",
+          "checked": true
+        },
+        {
+          "text": "Always, when the owner has provided power of attorney to other persons for driving the vehicle",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In case of entered into force two penalty decrees (for a period of one year) for passing at signal of the traffic lights, which does not allows passing, the driver shall be punished:",
+      "index": "35/1",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "With a fine and depriving from the right of driving",
+          "checked": true
+        },
+        {
+          "text": "Only with a fine",
+          "checked": false
+        },
+        {
+          "text": "Only with depriving from the right of driving",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What punishment is imposed to a driver, when for a period of one year he has two entered into force penalty decrees for failure to provide priority to pedestrians on a pedestrian crossing?",
+      "index": "36/1",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "With a fine and depriving from the right of driving",
+          "checked": true
+        },
+        {
+          "text": "Only with a fine",
+          "checked": false
+        },
+        {
+          "text": "Only with depriving from the right of driving",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Is a driver subject to a punishment, when without having this right, parks on a space designated for a vehicle serving people with permanent disabilities?",
+      "index": "37/1",
+      "points": "1",
+      "pageNum": 7,
+      "answers": [
+        {
+          "text": "Yes",
+          "checked": true
+        },
+        {
+          "text": "No",
+          "checked": false
+        },
+        {
+          "text": "No, except in cases when the vehicle is parked at this location during the night",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "In which cases the competent bodies does not issue a duplicate of the driving license for driving a vehicle?",
+      "index": "38/1",
+      "points": "1",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "When the driver has not paid in full the due fines",
+          "checked": true
+        },
+        {
+          "text": "When the certificate is lost",
+          "checked": false
+        },
+        {
+          "text": "When the certificate is stolen",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "Control authorities temporarily suspend the registration of a motor vehicle of an owner who drives a motor vehicle:",
+      "index": "39/1",
+      "points": "1",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "with alcohol concentration in the blood above 0.5 per thousand",
+          "checked": true
+        },
+        {
+          "text": "did not fulfil the prescription for a medical examination to determine the concentration of alcohol in the blood or the use of narcotic substances or their analogues",
+          "checked": true
+        },
+        {
+          "text": "refuses to pass a test with a technical device to establish the alcohol blood concentration or the use of narcotic substances or their analogues",
+          "checked": true
+        },
+        {
+          "text": "and exceeds the maximum permitted speed in a populated place by more than 50 km/h",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The control authorities will temporarily decommission a motor vehicle whose owner:",
+      "index": "39/2",
+      "points": "1",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "Drives the motor vehicle without possessing the appropriate driving license;",
+          "checked": false
+        },
+        {
+          "text": "Fails to obey the instruction to have a medical test to establish the blood alcohol concentration",
+          "checked": false
+        },
+        {
+          "text": "Allows or grants driving of a motor vehicle to a person who does not possess the appropriate driving license",
+          "checked": true
+        },
+        {
+          "text": "Allows or grants driving of a motor vehicle to a person with alcohol concentration in the blood above 0.5 per mile",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "The control authorities revoke the registration of a vehicle whose owner drives a motor vehicle:",
+      "index": "40/1",
+      "points": "1",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "Without possessing the appropriate driving license",
+          "checked": true
+        },
+        {
+          "text": "With alcohol concentration in the blood above 0.5 per mille",
+          "checked": true
+        },
+        {
+          "text": "Under the influence of narcotic substances or their intoxicating analogues",
+          "checked": true
+        },
+        {
+          "text": "Has imposed fine, that is unpaid within the period for voluntary payment",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The control authorities revoke the registration of a road vehicle whose owner being the driver of a motor vehicle:",
+      "index": "40/2",
+      "points": "1",
+      "pageNum": 8,
+      "answers": [
+        {
+          "text": "Refuses to pass a test with a technical device to establish the use of alcohol",
+          "checked": true
+        },
+        {
+          "text": "Fails to obey the instruction to have a medical test conducted to establish the use of narcotic substances",
+          "checked": true
+        },
+        {
+          "text": "Exceeds the speed limit in a populated area with more than 50 km/h",
+          "checked": false
+        },
+        {
+          "text": "Takes part in unauthorized car races on public roads",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The control authorities shall terminate the registration of a motor vehicle of an owner:",
+      "index": "40/3",
+      "points": "1",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "who, as a driver, refuses to be tested with a technical device to establish the use of alcohol",
+          "checked": true
+        },
+        {
+          "text": "whose motor vehicle is driven by a person who does not own the required suitable driving license",
+          "checked": true
+        },
+        {
+          "text": "exceed the maximum permitted speed in a populated area above 50 km/h",
+          "checked": false
+        },
+        {
+          "text": "participates in unregulated race competitions on the roads open for public use",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The control authorities shall not allow a motor vehicle to be driven by a driver if during a roadside check it is found that the driver:",
+      "index": "41/1",
+      "points": "1",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "Does not possess the appropriate driving license",
+          "checked": true
+        },
+        {
+          "text": "Has alcohol concentration in his/her blood above 0.5 per mille",
+          "checked": true
+        },
+        {
+          "text": "Is under the influence of a narcotic substance",
+          "checked": true
+        },
+        {
+          "text": "Has not paid the mandatory Third Party Liability insurance",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "The control authorities shall not allow a motor vehicle to be driven by a driver who:",
+      "index": "41/2",
+      "points": "1",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "Has not paid the mandatory Third Party Liability insurance",
+          "checked": false
+        },
+        {
+          "text": "Refuses to pass a test with a technical device to establish the use of alcohol",
+          "checked": true
+        },
+        {
+          "text": "Fails to obey the instruction to have a medical test conducted to establish the use of narcotic substances",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "In the case of revocation of the vehicle’s registration by the authorities at the time of issuing the statement for the administrative violation the following items are confiscated:",
+      "index": "42/1",
+      "points": "1",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "The registration plates",
+          "checked": true
+        },
+        {
+          "text": "Part 2 of the motor vehicle registration certificate",
+          "checked": true
+        },
+        {
+          "text": "Part 1 of the motor vehicle registration certificate",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "text": "What is the sanction for a driver who drives into oncoming traffic of motorway and/or expressway:",
+      "index": "42/2",
+      "points": "1",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "Only a fine",
+          "checked": false
+        },
+        {
+          "text": "Only deprivation of the right to drive motor vehicle",
+          "checked": false
+        },
+        {
+          "text": "Both fine and deprivation of the right to drive motor vehicle",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "What is the sanction for a driver who organizes or participates in an unauthorized races on public roads:",
+      "index": "43/1",
+      "points": "1",
+      "pageNum": 9,
+      "answers": [
+        {
+          "text": "Only a fine",
+          "checked": false
+        },
+        {
+          "text": "Only deprivation of the right to drive motor vehicle",
+          "checked": false
+        },
+        {
+          "text": "Both fine and deprivation of the right to drive motor vehicle",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "What is the sanction for a driver who uses public roads for purposes other than the official purposes the roads are intended for:",
+      "index": "43/2",
+      "points": "1",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "Only a fine",
+          "checked": false
+        },
+        {
+          "text": "Only deprivation of the right to drive motor vehicle",
+          "checked": false
+        },
+        {
+          "text": "Both fine and deprivation of the right to drive motor vehicle",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "text": "If the control authorities confiscate the registration plates of a motor vehicle, it should be transferred to a storage site:",
+      "index": "44/1",
+      "points": "1",
+      "pageNum": 10,
+      "answers": [
+        {
+          "text": "Within 2 hours upon establishment of the offense",
+          "checked": false
+        },
+        {
+          "text": "Within 12 hours upon establishment of the offense",
+          "checked": true
+        },
+        {
+          "text": "Within 24 hours upon establishment of the offense",
+          "checked": false
+        }
+      ]
+    }
+  ]
+}

@@ -38,6 +38,13 @@ export const topicsList: TopicInfo[] = [
     questionsCount: 46,
   },
   {
+    id: "17",
+    title: "17 - ROAD TRANSPORT ADMINISTRATION",
+    link: "https://rta.government.bg/upload/10489/Category_1_Topic_17_01.06.2023+16_52_37_EN.pdf",
+    lastUpdated: "17.08.2025",
+    questionsCount: 57,
+  },
+  {
     id: "19",
     title: "19 - GENERAL INFORMATION ABOUT THE MOTOR VEHICLE STRUCTURE",
     link: "https://rta.government.bg/upload/10491/Category_1_Topic_19_01.06.2023+16_53_15_EN.pdf",
