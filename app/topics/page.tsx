@@ -33,8 +33,7 @@ export default function TopicsPage() {
     <div className="py-8">
       <h1 className="text-3xl font-bold text-center mb-2">Quiz Topics</h1>
       <p className="text-center text-sm text-default-600 mb-10">
-        More topics will be available soon! A Bulgarian version is also coming
-        someday.
+        More topics will be available someday.
       </p>
       <motion.div
         className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"
